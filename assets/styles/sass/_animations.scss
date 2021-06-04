@@ -1,0 +1,37 @@
+.custom-animation {
+    transition: all .6s;
+    opacity: 0;
+
+    &.d-1 {
+        transition-delay: .5s;
+    }
+
+    &.d-2 {
+        transition-delay: 1s;
+    }
+}
+
+.custom-animation-left {
+    transform: translate(-50px, 0);
+}
+
+.custom-animation-right {
+    transform: translate(50px, 0);
+}
+
+.custom-animation-scale {
+    transform: scale(0.8);
+}
+
+.custom-animation-top {
+    transform: translate(0, -50px);
+}
+
+.custom-animation-bottom {
+    transform: translate(0, 50px);
+}
+
+.custom-animation-end {
+    opacity: 1;
+    transform: scale(1) perspective(0px) rotateX(0deg) translate(0,0);
+}

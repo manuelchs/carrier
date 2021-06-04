@@ -1,0 +1,20 @@
+{
+  "name": "carrier",
+  "version": "1.0.0",
+  "description": "Carrier - Siteweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "sass --watch assets/styles/sass/main.scss:assets/styles/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Manuel Chavarín ft. Marco Santero",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
