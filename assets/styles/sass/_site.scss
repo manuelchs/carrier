@@ -1,8 +1,15 @@
 // ----- Custom properties -----
 @font-face {
-    font-family: 'Circular';
-    src: url('../../fonts/CircularStd-Black.ttf');
-    font-weight: 900;
+    font-family: 'SF Pro';
+    src: url('../../fonts/regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF Pro';
+    src: url('../../fonts/bold.otf');
+    font-weight: bold;
     font-style: normal;
 }
 
@@ -60,6 +67,10 @@ button {
     &:focus {
         outline: none;
     }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
 }
 
 h1 {
@@ -202,150 +213,6 @@ p {
     font-size: 18px;
     @media (max-width: 1900px) {
         font-size: 1rem;
-    }
-}
-
-.full-screen-wrapper {
-    height: calc(100vh - 4rem);
-    width: 100%;
-    position: relative;
-
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-
-    .general-max-width {
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start;
-    }
-
-    h1 {
-        color: white;
-        max-width: 600px;
-        @media (max-width: 800px) {
-            text-align: center;
-        }
-    }
-
-    h4 {
-        color: white;
-        max-width: 600px;
-        margin-top: 2.5rem;
-        @media (max-width: 800px) {
-            text-align: center;
-        }
-    }
-
-    .main-button {
-        margin-top: 2.75rem;
-
-        @media (max-width: 800px) {
-            margin-left: auto;
-            margin-right: auto;
-        }
-    }
-
-    .down-button {
-        width: 48px;
-        height: 48px;
-        border-radius: 50%;
-        border: 1px solid white;
-        position: absolute;
-        bottom: 2rem;
-        left: 50%;
-        transform: translate(-50%, 0px);
-        animation-duration: 2s;
-        animation-name: downButton;
-        animation-iteration-count: infinite;
-        cursor: pointer;
-        i {
-            color: white;
-            font-size: 20px;
-            margin-top: 5px;
-        }
-    }
-}
-
-@keyframes downButton {
-    0% {
-        transform: translate(-50%, 0px);
-    }
-    10% {
-        transform: translate(-50%, -10px);
-    }
-    20% {
-        transform: translate(-50%, 0px);
-    }
-    100% {
-        transform: translate(-50%, 0px);
-    }
-}
-
-.dark-overlay {
-    position: relative;
-    &:before {
-        width: 100%;
-        content: '';
-        display: block;
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 100%;
-        background-color: rgba(black, 0.6);
-    }
-
-    & > * {
-        position: relative;
-    }
-}
-
-.main-title-underline {
-    margin-bottom: 1.5rem;
-
-    &.centered-title {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-
-        h1, h2 {
-            text-align: center;
-            max-width: unset;
-        }
-    }
-
-    h2 {
-        margin-bottom: 1rem;
-    }
-
-    h1 {
-        margin-bottom: 1rem;
-    }
-
-    .divisor {
-        display: block;
-        width: 80px;
-        height: 8px;
-        background-color: var(--yellow-color);
-
-        &.green {
-            background-color: var(--green-color);
-        }
-
-        &.black {
-            background-color: var(--black);
-        }
-
-        &.red {
-            background-color: var(--red-color);
-        }
-
-        &.blue {
-            background-color: var(--blue-color);
-
-        }
     }
 }
 
