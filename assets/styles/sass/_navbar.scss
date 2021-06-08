@@ -1,0 +1,152 @@
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    .white-section {
+        width: 100%;
+        background-color: white;
+
+        button.main-button.green-button {
+            span {
+                font-size: 14px;
+            }
+            i {
+                font-size: 1.25rem;
+            }
+            &:hover {
+                transform: none;
+                border-color: var(--green-color);
+            }
+        }
+    }
+    .general-max-width {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .logo {
+            padding: 1rem 0;
+        }
+
+        .data-contact {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .data-contact-item {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 1rem 2rem;
+                cursor: pointer;
+                border-radius: 4px;
+                transition: all .2s;
+
+                &:hover {
+                    background-color: var(--gray-2);
+                }
+
+                .icon i {
+                    font-size: 2rem;
+                    margin-right: 2rem;
+                    color: var(--blue-color);
+                }
+
+                .description {
+                    * {
+                        font-size: 14px;
+                    }
+                    .title {
+                        font-weight: bold;
+                    }
+
+                    .subtitle {
+                        color: var(--medium-gray);
+                    }
+                }
+            }
+        }
+    }
+
+    .blue-section {
+        background-color: var(--blue-color);
+        width: 100%;
+
+        ul {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            li {
+                list-style: none;
+                position: relative;
+
+                &:hover {
+                    a {
+                        background-color: white;
+                        span, i {
+                            color: var(--blue-color);
+                        }
+                    }
+                    .submenu-navbar {
+                        display: block;
+                    }
+                }
+
+                .submenu-navbar {
+                    background-color: white;
+                    border-bottom: 4px solid var(--blue-color);
+                    position: absolute;
+                    left: 0;
+                    top: 100%;
+                    width: 910px;
+                    box-shadow: 0px 3px 6px rgba(black, 0.2);
+                    padding: 3rem 2rem;
+                    display: none;
+                }
+
+                a {
+                    color: white;
+                    text-decoration: none;
+                    padding: 1.5rem;
+                    display: block;
+                    transition: all .2s;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    span {
+                        color: white;
+                        display: block;
+                        position: relative;
+                        font-weight: bold;
+
+                        &:after {
+                            bottom: -24px;
+                            height: 4px;
+                            width: 100%;
+                            position: absolute;
+                            left: 0;
+                            background-color: transparent;
+                            content: '';
+
+                        }
+                    }
+
+                    i {
+                        font-size: 12px;
+                        color: white;
+                        margin-left: 0.5rem;
+                    }
+
+                    &.active {
+                        span {
+                            &:after {
+                                background-color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
