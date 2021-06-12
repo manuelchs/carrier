@@ -1,0 +1,116 @@
+.boxes-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+
+    .box-shadowed {
+        width: calc((100% - 60px) / 3);
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8px;
+        box-shadow: 0px 3px 24px rgba(black, 0.05);
+        cursor: pointer;
+        transition: all .2s;
+
+        &:hover {
+            box-shadow: 0px 3px 24px rgba(black, 0.15);
+            img {
+                transform: translateY(-8px);
+            }
+        }
+
+        img {
+            height: 240px;
+            width: auto;
+            margin-bottom: 2rem;
+            transition: all .2s;
+        }
+
+        .description {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            h4 {
+                font-weight: bold;
+                text-align: center;
+                span {
+                    font-weight: inherit;
+                    text-align: inherit;
+                    font-size: inherit;
+                    color: var(--blue-color);
+                }
+            }
+
+            p {
+                text-align: center;
+                margin-top: 1rem;
+            }
+            
+            button {
+                margin-top: 2rem;
+                color: var(--blue-color);
+                text-align: center;
+                font-weight: bold;
+                i {
+                    color: var(--blue-color);
+                }
+            }
+
+        }
+    }
+}
+
+.distribuidor-wrapper {
+    background-image: url('/assets/images/home/banner-distribuidor-oficial.jpg');
+}
+
+.beneficios-wrapper {
+    p.footer-section {
+        margin-top: 4rem;
+        text-align: center;
+        
+        a {
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        a, a i {
+            color: var(--blue-color);
+        }
+    }
+}
+
+.agendar-wrapper {
+    background-image: url('/assets/images/home/banner-servicio-tecnico.jpg');
+}
+
+.client-grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 2rem;
+    grid-row-gap: 2rem;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        margin: auto;
+        filter: grayscale(1);
+        transition: all .2s;
+        opacity: 0.5;
+
+        &:hover {
+            filter: grayscale(0);
+            opacity: 1;
+        }
+    }
+}
+
+.servicio-integral-wrapper {
+    background-image: url('/assets/images/home/banner-inferior.jpg');
+}

@@ -1,0 +1,46 @@
+footer {
+
+    .gray-section {
+        background-color: var(--gray-1);
+        padding: 5rem 0;
+    }
+    
+    .general-max-width {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+
+        .links-section {
+            width: 75%;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+
+            .links-item {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+                align-items: flex-start;
+                h6 {
+                    font-size: 1rem;
+                    margin-bottom: 1.5rem;
+                }
+                a {
+                    text-decoration: none;
+                    margin-bottom: 1rem;
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+                    &:hover {
+                        
+                    }
+                }
+            }
+        }
+
+        .logo-section {
+            width: 25%;
+            height: 90px;
+        }
+    }
+}
