@@ -1,5 +1,9 @@
 $(document).ready( function() {
     animateScroll();
+
+    $('#barsButtonMobile').click(function() {
+        $('#barsMenuMobile').toggleClass('opened');
+    });
 });
 
 function animateScroll() {

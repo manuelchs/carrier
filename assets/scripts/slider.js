@@ -27,7 +27,6 @@ $(function(){
 				var newPos = parseInt(posInitial) + 1;
 				$(".points-item.p"+newPos).addClass("active");
 			}
-
 		});
 	}
 	

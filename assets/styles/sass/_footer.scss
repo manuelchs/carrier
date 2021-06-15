@@ -7,40 +7,83 @@ footer {
     
     .general-max-width {
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-start;
         align-items: flex-start;
 
-        .links-section {
-            width: 75%;
+        .links-item {
             display: flex;
-            justify-content: space-between;
+            flex-direction: column;
+            justify-content: flex-start;
             align-items: flex-start;
-
-            .links-item {
+            width: 15%;
+            margin-right: 2rem;
+            h6 {
+                font-size: 1rem;
+                margin-bottom: 1.5rem;
+                color: var(--light-black);
+            }
+            a {
+                text-decoration: none;
+                margin-bottom: 1rem;
+                color: var(--medium-gray);
                 display: flex;
-                flex-direction: column;
                 justify-content: flex-start;
                 align-items: flex-start;
-                h6 {
-                    font-size: 1rem;
-                    margin-bottom: 1.5rem;
+                text-decoration: none;
+
+                &:hover {
+                    text-decoration: underline;
+                    i {
+                        text-decoration: none;
+                    }
                 }
-                a {
+                i {
+                    color: var(--light-black);
+                    margin-right: 0.5rem;
+                    margin-top: 3px;
                     text-decoration: none;
-                    margin-bottom: 1rem;
-                    &:last-child {
-                        margin-bottom: 0;
-                    }
-                    &:hover {
-                        
-                    }
                 }
+                &:last-child {
+                    margin-bottom: 0;
+                }
+                &:hover { }
             }
         }
 
         .logo-section {
-            width: 25%;
-            height: 90px;
+            margin-left: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            .facebook {
+                margin-top: 2rem;
+                font-size: 18px;
+                font-weight: bold;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-decoration: none;
+                i {
+                    font-size: 2rem;
+                    margin-top: 3px;
+                    margin-right: 0.5rem;
+                }
+            }
+        }
+    }
+
+    .blue-section {
+        background-color: var(--blue-color);
+        width: 100%;
+        padding: 1.5rem 0;
+        .general-max-width {
+            justify-content: space-between;
+            align-items: center;
+            p, a {
+                color: white;
+            }
         }
     }
 }

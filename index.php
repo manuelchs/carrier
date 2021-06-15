@@ -15,11 +15,11 @@
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3>UNIDADES Y EQUIPOS</h3>
-                            <h1>Líder en sistemas de refrigeración para transportes</h1>
+                            <h3 class="custom-animation custom-animation-right">UNIDADES Y EQUIPOS</h3>
+                            <h1 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h1>
                         </div>
-                        <p>Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
-                        <div class="buttons-section">
+                        <p class="custom-animation custom-animation-right">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
+                        <div class="buttons-section custom-animation custom-animation-right">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
@@ -208,51 +208,46 @@
     <footer>
         <div class="gray-section">
             <div class="general-max-width">
-                <div class="links-section">
-                    <div class="links-item">
-                        <h6>Empresa</h6>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                    </div>
-                    <div class="links-item">
-                        <h6>Empresa</h6>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                    </div>
-                    <div class="links-item">
-                        <h6>Empresa</h6>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                    </div>
-                    <div class="links-item">
-                        <h6>Empresa</h6>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                    </div>
-                    <div class="links-item">
-                        <h6>Empresa</h6>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                        <a href="#">Enlace</a>
-                    </div>
+                <div class="links-item">
+                    <h6>Empresa</h6>
+                    <a href="#">Refrigeración</a>
+                    <a href="#">Refacciones</a>
+                    <a href="#">Servicio técnio</a>
+                    <a href="#">Contacto</a>
+                </div>
+                <div class="links-item">
+                    <h6>Productos</h6>
+                    <a href="#">Trailer</a>
+                    <a href="#">Camión (autónomo)</a>
+                    <a href="#">Velocidad variable</a>
+                </div>
+                <div class="links-item">
+                    <h6>Refacciones</h6>
+                    <a href="#">Bandas</a>
+                    <a href="#">Motores</a>
+                    <a href="#">Tarjetas lógicas</a>
+                    <a href="#">Sensores</a>
+                    <a href="#">Consumibles</a>
+                </div>
+                <div class="links-item">
+                    <h6>Contáctanos</h6>
+                    <a href="#"><i class="fas fa-map-marker-alt"></i>Periférico Sur 5265-A, Tlaquepaque, Jalisco.</a>
+                    <a href="#"><i class="fas fa-phone"></i>(33) 36891067</a>
+                    <a href="#"><i class="fab fa-whatsapp"></i>(33) 36891067</a>
                 </div>
                 <div class="logo-section">
-    
+                    <img src="/assets/images/home/logo-carrier-transicold-large.png" alt="">
+                    <a href="" class="facebook">
+                        <i class="fab fa-facebook"></i>
+                        Facebook
+                    </a>
                 </div>
+            </div>
+        </div>
+        <div class="blue-section">
+            <div class="general-max-width">
+                <p>Todos los derechos reservados. Carrier Transicold Guadalajara® 2021.</p>
+                <a>Aviso de privacidad</a>
             </div>
         </div>
     </footer>
