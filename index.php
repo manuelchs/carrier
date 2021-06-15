@@ -15,11 +15,11 @@
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3 class="custom-animation custom-animation-right">UNIDADES Y EQUIPOS</h3>
-                            <h1 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h1>
+                            <h3 class="animate-item">UNIDADES Y EQUIPOS</h3>
+                            <h1 class="animate-item">Líder en sistemas de refrigeración para transportes</h1>
                         </div>
-                        <p class="custom-animation custom-animation-right">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
-                        <div class="buttons-section custom-animation custom-animation-right">
+                        <p class="animate-item">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
+                        <div class="buttons-section animate-item">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
@@ -33,11 +33,11 @@
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3 class="custom-animation custom-animation-right">REFACCIONES Y ACCESORIOS</h3>
-                            <h2 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h2>
+                            <h3 class="animate-item">REFACCIONES Y ACCESORIOS</h3>
+                            <h2 class="animate-item">Líder en sistemas de refrigeración para transportes</h2>
                         </div>
-                        <p class="custom-animation custom-animation-right">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
-                        <div class="buttons-section custom-animation custom-animation-right">
+                        <p class="animate-item">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
+                        <div class="buttons-section animate-item">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
@@ -51,11 +51,11 @@
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3 class="custom-animation custom-animation-right">SERVICIO TÉCNICO</h3>
-                            <h2 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h2>
+                            <h3 class="animate-item">SERVICIO TÉCNICO</h3>
+                            <h2 class="animate-item">Líder en sistemas de refrigeración para transportes</h2>
                         </div>
-                        <p class="custom-animation custom-animation-right">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
-                        <div class="buttons-section custom-animation custom-animation-right">
+                        <p class="animate-item">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
+                        <div class="buttons-section animate-item">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
