@@ -76,16 +76,48 @@
                 <div class="logo">
                     <img src="/assets/images/logo-carrier-transicold.png" alt="">
                 </div>
-                <div class="data-contact">
-                    <a class="data-contact-item">
-                        <div class="icon">
-                            <i class="fas fa-map-marker-alt"></i>
+                <div class="slider-wrapper">
+                    <div id="sliderDos" class="slider column">
+                        <div id="itemDos1" class="slider-item">
+                            <div class="data-contact">
+                                <a class="data-contact-item">
+                                    <div class="icon">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                    <div class="description">
+                                        <div class="title">Periférico Sur 5265-A</div>
+                                        <div class="subtitle">Tlaquepaque, Jalisco</div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
-                        <div class="description">
-                            <div class="title">Periférico Sur 5265-A</div>
-                            <div class="subtitle">Tlaquepaque, Jalisco</div>
+                        <div id="itemDos2" class="slider-item">
+                            <div class="data-contact">
+                                <a class="data-contact-item">
+                                    <div class="icon">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                    <div class="description">
+                                        <div class="title">Periférico Sur 5265-A</div>
+                                        <div class="subtitle">Tlaquepaque, Jalisco</div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
-                    </a>
+                        <div id="itemDos3" class="slider-item">
+                            <div class="data-contact">
+                                <a class="data-contact-item">
+                                    <div class="icon">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                    <div class="description">
+                                        <div class="title">Periférico Sur 5265-A</div>
+                                        <div class="subtitle">Tlaquepaque, Jalisco</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
