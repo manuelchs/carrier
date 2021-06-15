@@ -5,11 +5,13 @@ $(function(){
 	  $("#slider").css('margin-left','-'+100+'%');
   
 	  $("#arrowRight").click(function(){
-        // alert("HOLA");
+		// alert("HOLA");
+		$('#slider .custom-animation-end').removeClass('custom-animation-end');
         moverD();
     });
   
     $("#arrowLeft").click(function(){
+		$('#slider .custom-animation-end').removeClass('custom-animation-end');
         moverI();
     });
   
@@ -27,6 +29,7 @@ $(function(){
 				var newPos = parseInt(posInitial) + 1;
 				$(".points-item.p"+newPos).addClass("active");
 			}
+			$('#slider .custom-animation').addClass('custom-animation-end');
 		});
 	}
 	
@@ -45,6 +48,7 @@ $(function(){
 				var newPos = parseInt(posInitial) - 1;
 				$(".points-item.p"+newPos).addClass("active");
 			}
+			$('#slider .custom-animation').addClass('custom-animation-end');
 		});
 	}
 	$(".points-item").click(
