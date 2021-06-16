@@ -5,7 +5,6 @@
 }
 
 .slider {
-    // width: 600%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -23,21 +22,60 @@
     background-size: cover;
     background-position: center;
 
+    @media #{$ipad} {
+        overflow-x: hidden;
+        max-height: unset;
+        height: 100vh;
+    }
+
     .general-max-width {
         display: flex;
         justify-content: space-between;
         align-items: center;
+
+        @media #{$ipad} {
+            flex-direction: column;
+            height: 100%;
+            padding: 2rem 0;
+            justify-content: center;
+        }
     }
 
     .slider-section {
         width: 40%;
+
+        @media #{$ipad} {
+            width: 100%;
+        }
         &:last-child {
             width: 60%;
+            @media #{$ipad} {
+                width: 100%;
+            }
         }
         
         img {
             width: 100%;
             height: auto;
+            @media #{$ipad} {
+                display: none;
+            }
+        }
+
+        .img-movil {
+            display: none;
+            @media #{$ipad} {
+                display: block;
+                width: auto;
+                height: 120px;
+                margin: auto;
+                margin-bottom: 1rem;
+            }
+        }
+
+        button {
+            min-width: unset;
+            width: 50%;
         }
     }
 
@@ -87,6 +125,9 @@
     bottom: 2rem;
     left: 50%;
     transform: translateX(-50%);
+    @media #{$ipad} {
+        bottom: 8px;
+    }
 }
 
 .points-item {
@@ -98,6 +139,16 @@
     cursor: pointer;
     transition: all .2s;
 
+    &:last-child {
+        margin-right: 0;
+    }
+
+    @media #{$ipad} {
+        width: 8px;
+        height: 8px;
+        margin-right: 8px;
+    }
+
     &:hover {
         background-color: var(--blue-color);
     }
@@ -105,4 +156,13 @@
     &.active {
         background-color: var(--green-color);
     }
+}
+
+.slider-item-animation {
+    transition: all 2s;
+    // transform: translateX(500px);
+}
+
+.slider-item-animation-end {
+    transform: translateX(0px);
 }

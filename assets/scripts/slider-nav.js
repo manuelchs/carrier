@@ -4,8 +4,8 @@ $(function(){
 
     autoAnimate();
 
-    var hammer    = new Hammer(document.getElementById('sliderDos'));
-    hammer.on('swipeleft', function(){
+    var hammerDos    = new Hammer(document.getElementById('sliderDos'));
+    hammerDos.on('swipeleft', function(){
         clearInterval(autoAnimation);
 		moverD();
 		setTimeout(function() {
@@ -13,13 +13,13 @@ $(function(){
 		}, 3000);
     });
     
-    hammer.on('swiperight', function(){
+    hammerDos.on('swiperight', function(){
         clearInterval(autoAnimation);
 		moverI();
 		setTimeout(function() {
 			autoAnimate();
 		}, 3000);
-    });
+	});
 
     var animationTime = 300;
     $("#sliderDos").css('width', ($('#sliderDos .slider-item').length * 100) + '%' );
@@ -136,7 +136,7 @@ $(function(){
     function autoAnimate() {
 		autoAnimation = setInterval(function() {
 			moverD();
-		}, 3000);
+		}, 5000);
 	}
 
 });

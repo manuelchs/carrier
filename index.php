@@ -2,30 +2,30 @@
 <html lang="es">
 <head>
     <?php include('partial_views/head_tag.php') ?>
-    <script src="/assets/scripts/hammer.js"></script>
     <script src="/assets/scripts/slider.js"></script>
     <title>Carrier Transicold</title>
 </head>
 <body>
     <?php $page = 'home'; ?>
     <?php include('partial_views/navbar.php') ?>
-    <!-- <div class="slider-wrapper">
+    <div class="slider-wrapper">
         <div id="slider" class="slider column">
             <div id="item1" class="slider-item s1">
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3 class="custom-animation custom-animation-right">UNIDADES Y EQUIPOS</h3>
-                            <h1 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h1>
+                            <h3 class="slider-item-animation">UNIDADES Y EQUIPOS</h3>
+                            <h1 class="slider-item-animation">Líder en sistemas de refrigeración para transportes</h1>
                         </div>
-                        <p class="custom-animation custom-animation-right">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
-                        <div class="buttons-section custom-animation custom-animation-right">
+                        <p class="slider-item-animation">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
+                        <img class="img-movil slider-item-animation" src="/assets/images/home/equipos-carrier-transicold-hero.png" alt="">
+                        <div class="buttons-section slider-item-animation">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
                     </div>
                     <div class="slider-section">
-                        <img class="custom-animation custom-animation-left" src="/assets/images/home/equipos-carrier-transicold-hero.png" alt="">
+                        <img class="slider-item-animation" src="/assets/images/home/equipos-carrier-transicold-hero.png" alt="">
                     </div>
                 </div>
             </div>
@@ -33,17 +33,17 @@
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3 class="custom-animation custom-animation-right">REFACCIONES Y ACCESORIOS</h3>
-                            <h2 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h2>
+                            <h3 class="slider-item-animation">REFACCIONES Y ACCESORIOS</h3>
+                            <h2 class="slider-item-animation">Líder en sistemas de refrigeración para transportes</h2>
                         </div>
-                        <p class="custom-animation custom-animation-right">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
-                        <div class="buttons-section custom-animation custom-animation-right">
+                        <p class="slider-item-animation">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
+                        <div class="buttons-section slider-item-animation">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
                     </div>
                     <div class="slider-section">
-                        <img class="custom-animation custom-animation-left" src="/assets/images/home/refacciones-hero.png" alt="">
+                        <img class="slider-item-animation" src="/assets/images/home/refacciones-hero.png" alt="">
                     </div>
                 </div>
             </div>
@@ -51,11 +51,11 @@
                 <div class="general-max-width">
                     <div class="slider-section info-section">
                         <div class="title-one-color">
-                            <h3 class="custom-animation custom-animation-right">SERVICIO TÉCNICO</h3>
-                            <h2 class="custom-animation custom-animation-right">Líder en sistemas de refrigeración para transportes</h2>
+                            <h3 class="slider-item-animation">SERVICIO TÉCNICO</h3>
+                            <h2 class="slider-item-animation">Líder en sistemas de refrigeración para transportes</h2>
                         </div>
-                        <p class="custom-animation custom-animation-right">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
-                        <div class="buttons-section custom-animation custom-animation-right">
+                        <p class="slider-item-animation">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
+                        <div class="buttons-section slider-item-animation">
                             <button class="main-button white-button"><span>Ver más</span></button>
                             <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
@@ -105,7 +105,7 @@
             </div>
         </div>
     </div>
-
+    
     <div class="main-wrapper big-wrapper distribuidor-wrapper">
         <div class="general-max-width">
             <div class="info-section half-section">
@@ -194,7 +194,6 @@
             </div>
         </div>
     </div>
-
     <div class="main-wrapper big-wrapper servicio-integral-wrapper">
         <div class="general-max-width">
             <div class="title-centered">
@@ -204,36 +203,43 @@
             </div>
         </div>
     </div>
-
-    <footer>
+    <footer id="footer">
         <div class="gray-section">
             <div class="general-max-width">
                 <div class="links-item">
-                    <h6>Empresa</h6>
-                    <a href="#">Refrigeración</a>
-                    <a href="#">Refacciones</a>
-                    <a href="#">Servicio técnio</a>
-                    <a href="#">Contacto</a>
+                    <h6>Empresa <i class="far fa-plus"></i></h6>
+                    <div class="links">
+                        <a href="#">Refrigeración</a>
+                        <a href="#">Refacciones</a>
+                        <a href="#">Servicio técnio</a>
+                        <a href="#">Contacto</a>
+                    </div>
                 </div>
                 <div class="links-item">
-                    <h6>Productos</h6>
-                    <a href="#">Trailer</a>
-                    <a href="#">Camión (autónomo)</a>
-                    <a href="#">Velocidad variable</a>
+                    <h6>Productos <i class="far fa-plus"></i></h6>
+                    <div class="links">
+                        <a href="#">Trailer</a>
+                        <a href="#">Camión (autónomo)</a>
+                        <a href="#">Velocidad variable</a>
+                    </div>
                 </div>
                 <div class="links-item">
-                    <h6>Refacciones</h6>
-                    <a href="#">Bandas</a>
-                    <a href="#">Motores</a>
-                    <a href="#">Tarjetas lógicas</a>
-                    <a href="#">Sensores</a>
-                    <a href="#">Consumibles</a>
+                    <h6>Refacciones <i class="far fa-plus"></i></h6>
+                    <div class="links">
+                        <a href="#">Bandas</a>
+                        <a href="#">Motores</a>
+                        <a href="#">Tarjetas lógicas</a>
+                        <a href="#">Sensores</a>
+                        <a href="#">Consumibles</a>
+                    </div>
                 </div>
                 <div class="links-item">
-                    <h6>Contáctanos</h6>
-                    <a href="#"><i class="fas fa-map-marker-alt"></i>Periférico Sur 5265-A, Tlaquepaque, Jalisco.</a>
-                    <a href="#"><i class="fas fa-phone"></i>(33) 36891067</a>
-                    <a href="#"><i class="fab fa-whatsapp"></i>(33) 36891067</a>
+                    <h6>Contáctanos <i class="far fa-plus"></i></h6>
+                    <div class="links">
+                        <a href="#"><i class="fas fa-map-marker-alt"></i>Periférico Sur 5265-A, Tlaquepaque, Jalisco.</a>
+                        <a href="#"><i class="fas fa-phone"></i>(33) 36891067</a>
+                        <a href="#"><i class="fab fa-whatsapp"></i>(33) 36891067</a>
+                    </div>
                 </div>
                 <div class="logo-section">
                     <img src="/assets/images/home/logo-carrier-transicold-large.png" alt="">
@@ -250,6 +256,6 @@
                 <a>Aviso de privacidad</a>
             </div>
         </div>
-    </footer> -->
+    </footer>
 </body>
 </html>

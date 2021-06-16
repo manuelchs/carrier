@@ -4,6 +4,12 @@ $(document).ready( function() {
     $('#barsButtonMobile').click(function() {
         $('#barsMenuMobile').toggleClass('opened');
     });
+
+    $('#footer h6').click( function() {
+        // console.log($(this).parent().children('.links'));
+        $(this).parent().find('.links').toggle(100);
+    });
+
 });
 
 function animateScroll() {

@@ -3,12 +3,21 @@ footer {
     .gray-section {
         background-color: var(--gray-1);
         padding: 5rem 0;
+
+        @media #{$ipad} {
+            padding: 2rem 0;
+            padding-bottom: 4rem;
+        }
     }
     
     .general-max-width {
         display: flex;
         justify-content: flex-start;
         align-items: flex-start;
+
+        @media #{$ipad} {
+            flex-direction: column;
+        }
 
         .links-item {
             display: flex;
@@ -17,36 +26,62 @@ footer {
             align-items: flex-start;
             width: 15%;
             margin-right: 2rem;
+            @media #{$ipad} {
+                width: 100%;
+            }
             h6 {
                 font-size: 1rem;
                 margin-bottom: 1.5rem;
                 color: var(--light-black);
-            }
-            a {
-                text-decoration: none;
-                margin-bottom: 1rem;
-                color: var(--medium-gray);
-                display: flex;
-                justify-content: flex-start;
-                align-items: flex-start;
-                text-decoration: none;
-
-                &:hover {
-                    text-decoration: underline;
-                    i {
-                        text-decoration: none;
+                i {
+                    display: none;
+                    @media #{$ipad} {
+                        display: block;
+                        color: inherit;
                     }
                 }
-                i {
-                    color: var(--light-black);
-                    margin-right: 0.5rem;
-                    margin-top: 3px;
-                    text-decoration: none;
-                }
-                &:last-child {
+                @media #{$ipad} {
                     margin-bottom: 0;
+                    padding: 1rem;
+                    width: 100%;
+                    border-bottom: 1px solid var(--gray-2);
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
                 }
-                &:hover { }
+            }
+
+            .links {
+                @media #{$ipad} {
+                    display: none;
+                    padding: 1rem;
+                }
+                a {
+                    text-decoration: none;
+                    margin-bottom: 1rem;
+                    color: var(--medium-gray);
+                    display: flex;
+                    justify-content: flex-start;
+                    align-items: flex-start;
+                    text-decoration: none;
+    
+                    &:hover {
+                        text-decoration: underline;
+                        i {
+                            text-decoration: none;
+                        }
+                    }
+                    i {
+                        color: var(--light-black);
+                        margin-right: 0.5rem;
+                        margin-top: 3px;
+                        text-decoration: none;
+                    }
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+                    &:hover { }
+                }
             }
         }
 
@@ -56,6 +91,11 @@ footer {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+
+            @media #{$ipad} {
+                margin: auto;
+                margin-top: 4rem;
+            }
 
             .facebook {
                 margin-top: 2rem;
@@ -83,6 +123,15 @@ footer {
             align-items: center;
             p, a {
                 color: white;
+                @media #{$ipad} {
+                    text-align: center;
+                }
+            }
+            a {
+                @media #{$ipad} {
+                    margin-top: 1rem;
+                    text-decoration: underline;
+                }
             }
         }
     }
