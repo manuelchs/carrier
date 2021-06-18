@@ -1,9 +1,9 @@
 <nav class="nav nav-desktop">
     <div class="white-section">
         <div class="general-max-width">
-            <div class="logo">
+            <a class="logo" href="/">
                 <img src="/assets/images/logo-carrier-transicold.png" alt="">
-            </div>
+            </a>
             <div class="data-contact">
                 <a class="data-contact-item">
                     <div class="icon">
@@ -27,7 +27,7 @@
 
                 <a class="data-contact-item">
                     <div class="icon">
-                        <i class="fas fa-map-marker-alt"></i>
+                        <i class="fab fa-whatsapp"></i>
                     </div>
                     <div class="description">
                         <div class="title">(33) 3689 1067</div>
@@ -43,22 +43,45 @@
         <div class="general-max-width">
             <ul>
                 <li>
-                    <a class="<?php if ( $page === 'home') { echo 'active'; } ?>" href="#"><span>Inicio</span></a>
+                    <a class="<?php if ( $page === 'home') { echo 'active'; } ?>" href="/"><span>Inicio</span></a>
                 </li>
                 <li class="submenu-trigger">
                     <a href="#"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
                     <div class="submenu-navbar">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quis veritatis repellat similique. Nostrum nesciunt quisquam ad architecto possimus consequatur nam voluptatum reiciendis quos? Explicabo placeat ipsa molestias velit unde?</p>
-                    </div>
-                </li>
-                <li class="submenu-trigger">
-                    <a href="#"><span>Refacciones</span><i class="far fa-chevron-down"></i></a>
-                    <div class="submenu-navbar">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quis veritatis repellat similique. Nostrum nesciunt quisquam ad architecto possimus consequatur nam voluptatum reiciendis quos? Explicabo placeat ipsa molestias velit unde?</p>
+                        <div class="menu-list">
+                            <span>Velocidad variable</span>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                        </div>
+                        <div class="menu-list">
+                            <span>Velocidad variable</span>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                        </div>
+                        <div class="menu-list">
+                            <span>Velocidad variable</span>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                            <a href="#">Supra 505 con standby 202V</a>
+                        </div>
                     </div>
                 </li>
                 <li>
-                    <a href="#"><span>Servicio técnico</span></a>
+                    <a class="<?php if ( $page === 'refacciones') { echo 'active'; } ?>" href="/refacciones.php"><span>Refacciones</span></a>
+                </li>
+                <li>
+                    <a class="<?php if ( $page === 'servicio') { echo 'active'; } ?>" href="/servicio-tecnico.php"><span>Servicio técnico</span></a>
                 </li>
                 <li>
                     <a href="#"><span>Contacto</span></a>
@@ -95,11 +118,11 @@
                             <div class="data-contact">
                                 <a class="data-contact-item">
                                     <div class="icon">
-                                        <i class="fas fa-map-marker-alt"></i>
+                                        <i class="fas fa-phone"></i>
                                     </div>
                                     <div class="description">
-                                        <div class="title">Periférico Sur 5265-A</div>
-                                        <div class="subtitle">Tlaquepaque, Jalisco</div>
+                                        <div class="title">(33) 3689 1067</div>
+                                        <div class="subtitle">Atención al cliente</div>
                                     </div>
                                 </a>
                             </div>
@@ -108,11 +131,11 @@
                             <div class="data-contact">
                                 <a class="data-contact-item">
                                     <div class="icon">
-                                        <i class="fas fa-map-marker-alt"></i>
+                                        <i class="fab fa-whatsapp"></i>
                                     </div>
                                     <div class="description">
-                                        <div class="title">Periférico Sur 5265-A</div>
-                                        <div class="subtitle">Tlaquepaque, Jalisco</div>
+                                        <div class="title">(33) 3689 1067</div>
+                                        <div class="subtitle">Whatsapp</div>
                                     </div>
                                 </a>
                             </div>
@@ -130,9 +153,79 @@
         </div>
     </div>
     <div id="barsMenuMobile" class="blue-section">
-
+        <ul>
+            <li><a href="/">Inicio</a></li>
+            <li id="pageMenuTrigger"><a>Equipos <i class="far fa-arrow-right"></i></a></li>
+            <li><a href="/refacciones.php">Refacciones</a></li>
+            <li><a href="/servicio-tecnico.php">Servicio técnico</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
     </div>
 </nav>
+
+<div id="equipoPageMenu" class="page-menu">
+    <div class="header">
+        <i id="closePageMenu" class="far fa-arrow-left"></i>
+        <span>Equipos</span>
+    </div>
+    <div class="links">
+        <div class="links-item">
+            <div class="title">
+                <span>Velocidad Variable</span>
+                <i class="far fa-plus"></i>
+            </div>
+            <div class="links-list">
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+            </div>
+        </div>
+        <div class="links-item">
+            <div class="title">
+                <span>Velocidad Variable</span>
+                <i class="far fa-plus"></i>
+            </div>
+            <div class="links-list">
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+            </div>
+        </div>
+        <div class="links-item">
+            <div class="title">
+                <span>Velocidad Variable</span>
+                <i class="far fa-plus"></i>
+            </div>
+            <div class="links-list">
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+                <a href="#">Supra 550 con stand by</a>
+            </div>
+        </div>
+    </div>
+    
+</div>
 
 
 

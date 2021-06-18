@@ -10,6 +10,18 @@ $(document).ready( function() {
         $(this).parent().find('.links').toggle(100);
     });
 
+    $('#pageMenuTrigger').click(function(){
+        $('#equipoPageMenu').toggleClass('opened');
+    });
+
+    $('#closePageMenu').click( function() {
+        $('#equipoPageMenu').toggleClass('opened');
+    });
+
+    $('#equipoPageMenu .title').click(function() {
+        $(this).parent().find('.links-list').toggle(100);
+    });
+
 });
 
 function animateScroll() {

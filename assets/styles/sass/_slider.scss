@@ -76,6 +76,10 @@
         button {
             min-width: unset;
             width: 50%;
+            margin-right: 1rem;
+            &:last-child {
+                margin-right: 0;
+            }
         }
     }
 
@@ -101,6 +105,9 @@
 /** Estilos para frames individuales **/
 .s1 {
     background-image: url('/assets/images/home/hero-unidades-y-equipos.jpg');
+    @media #{$ipad} {
+        background-image: url('/assets/images/home/slider-equipos.jpg');
+    }
 }
 
 .s2 {
@@ -110,10 +117,17 @@
         height: auto;
         margin-left: auto;
     }
+
+    @media #{$ipad} {
+        background-image: url('/assets/images/home/slider-refacciones.jpg');
+    }
 }
 
 .s3 {
     background-image: url('/assets/images/home/hero-servicio-tecnico-bg.jpg');
+    @media #{$ipad} {
+        background-image: url('/assets/images/home/slider-servicio-tecnico.jpg');
+    }
 }
 
 .points {
@@ -159,7 +173,7 @@
 }
 
 .slider-item-animation {
-    transition: all 2s;
+    transition: all .2s;
     // transform: translateX(500px);
 }
 
