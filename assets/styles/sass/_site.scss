@@ -22,6 +22,7 @@
 
 :root {
     --green-color: #7AA72D;
+    --red-color: #db0218;
     --blue-color: #152C73;
     --black: #2D2E31;
     --light-black: #4A4B4E;
@@ -376,6 +377,32 @@ p {
     }
 }
 
+.main-input {
+    background-color: var(--gray-1);
+    border-radius: 4px;
+    padding: 1rem;
+    border: 1px solid transparent;
+    width: 100%;
+    transition: all .3s;
+    display: block;
+
+    &:focus {
+        outline: none;
+        box-shadow: 0px 3px 24px rgba(#152C73, 0.05);
+        background-color: white;
+        border-color: rgba(#152C73, 0.5);
+    }
+
+    &.input-error {
+        border-color: var(--red-color);
+    }
+}
+
+textarea {
+    resize: none;
+    height: 8rem;
+}
+
 .general-max-width {
     width: calc(100% - 2rem);
     max-width: 1200px;
@@ -477,6 +504,7 @@ p {
         text-transform: uppercase;
         @media #{$ipad} {
             font-size: 14px;
+            margin-bottom: 0;
         }
     }
 

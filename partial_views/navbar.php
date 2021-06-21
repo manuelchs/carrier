@@ -46,7 +46,7 @@
                     <a class="<?php if ( $page === 'home') { echo 'active'; } ?>" href="/"><span>Inicio</span></a>
                 </li>
                 <li class="submenu-trigger">
-                    <a href="#"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
+                    <a href="/equipos.php"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
                     <div class="submenu-navbar">
                         <div class="menu-list">
                             <span>Velocidad variable</span>
@@ -84,7 +84,7 @@
                     <a class="<?php if ( $page === 'servicio') { echo 'active'; } ?>" href="/servicio-tecnico.php"><span>Servicio técnico</span></a>
                 </li>
                 <li>
-                    <a href="#"><span>Contacto</span></a>
+                    <a class="<?php if ( $page === 'contacto') { echo 'active'; } ?>" href="/contacto.php"><span>Contacto</span></a>
                 </li>
             </ul>
         </div>
@@ -96,9 +96,9 @@
     <div class="white-section">
         <div class="top-section">
             <div class="general-max-width">
-                <div class="logo">
+                <a href="/" class="logo">
                     <img src="/assets/images/logo-carrier-transicold.png" alt="">
-                </div>
+                </a>
                 <div class="slider-wrapper">
                     <div id="sliderDos" class="slider column">
                         <div id="itemDos1" class="slider-item">
@@ -147,7 +147,7 @@
         <div class="bottom-section">
             <div class="general-max-width">
                 <button id="barsButtonMobile" class="bars"><i class="fas fa-bars"></i></button>
-                <button class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></button>
+                <a class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></a>
                 <a class="phone"><i class="fas fa-phone"></i></a>
             </div>
         </div>
@@ -158,7 +158,7 @@
             <li id="pageMenuTrigger"><a>Equipos <i class="far fa-arrow-right"></i></a></li>
             <li><a href="/refacciones.php">Refacciones</a></li>
             <li><a href="/servicio-tecnico.php">Servicio técnico</a></li>
-            <li><a href="#">Contacto</a></li>
+            <li><a href="/contacto.php">Contacto</a></li>
         </ul>
     </div>
 </nav>

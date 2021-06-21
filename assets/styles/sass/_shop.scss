@@ -47,6 +47,7 @@
             display: block;
             text-transform: lowercase;
             margin: 1rem 0;
+            text-align: center;
             &::first-letter {
                 text-transform: uppercase;
             }
@@ -63,6 +64,89 @@
                 span {
                     font-size: 14px;
                 }
+            }
+        }
+    }
+}
+
+.equipos-slider {
+    position: relative;
+    &:hover {
+        .slider-button {
+            display: flex;
+            @media #{$ipad} {
+                display: none !important;
+            }
+        }
+    }
+    .slider-button {
+        display: none;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: white;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        box-shadow: 0px 3px 24px rgba(black, 0.05);
+        z-index: 2;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+
+        i {
+            font-size: 2rem;
+        }
+
+        &.left {
+            left: -40px;
+        }
+
+        &.right {
+            right: -40px;
+        }
+
+    }
+}
+
+.grid-equipos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 1rem;
+    height: auto;
+
+    .equipo-wrapper {
+        img {
+            background-color: var(--gray-2);
+            border-radius: 8px;
+        }
+        h4 {
+            font-size: 1rem;
+            text-align: center;
+            margin-top: 1rem;
+        }
+    }
+}
+
+.slider-section {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--gray-2);
+    margin-bottom: 4rem;
+    &:last-child {
+        margin-bottom: 0;
+        border-bottom: 0;
+    }
+    .title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 2rem;
+        a {
+            color: var(--blue-color);
+            text-decoration: none;
+            font-weight: bold;
+            i {
+                color: inherit;
             }
         }
     }
