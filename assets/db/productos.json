@@ -1,0 +1,2408 @@
+{
+    "carrierProductos": [
+        {
+            "id": "0",
+            "nombre": "Citimax 280 Hot gas R 404 12v LA",
+            "imagen_url": "citimax-280.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  3,000<br>-20ºC/30ºC  1,600"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  2,930"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,150"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 769 x 206 x 550 mm<br>Evaporador 857 x 170 x 608 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 28kg<br>Evaporador 16kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 280",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "nombre": "Citimax 350 Hot gas R 404 12v LA",
+            "imagen_url": "citimax-350.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  3,500<br>-20ºC/30ºC  1,900"
+                  
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  3,150"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,150"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 870 x 214 x 550 mm<br>Evaporador 857 x 170 x 608 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 28kg<br>Evaporador 16kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 280",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "nombre": "Citimax 350 Hot gas R 404 24v LA",
+            "imagen_url": "citimax-350.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  3,500<br>-20ºC/30ºC  1,900"
+                  
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  3,150"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,150"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 870 x 214 x 550 mm<br>Evaporador 857 x 170 x 608 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 28kg<br>Evaporador 16kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 280",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "nombre": "Citimax 400 Hot gas R 404a 12v LA",
+            "imagen_url": "citimax-400.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  4,250<br>-20ºC/30ºC  2,200"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  3,730"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,000"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 870 x 214 x 550 mm<br>Evaporador 1100x 193 x 614 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 32kg<br>Evaporador 23kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 400",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "nombre": "Citimax 400 Hot gas R 404a 24v LA",
+            "imagen_url": "citimax-400.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  4,250<br>-20ºC/30ºC  2,200"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  3,730"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,000"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 870 x 214 x 550 mm<br>Evaporador 1100x 193 x 614 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 32kg<br>Evaporador 23kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 400",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "nombre": "Citimax 500 R404A 12v LA",
+            "imagen_url": "citimax-500.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  5,100<br>-20ºC/30ºC  2,700"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  3,500"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,200"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1413 x 503 x 543 mm<br>Evaporador 1222x 276 x 508 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 58kg<br>Evaporador 30kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 500",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "nombre": "Citimax 500 R404A 24v LA",
+            "imagen_url": "citimax-500.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  5,100<br>-20ºC/30ºC  2,700"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  3,500"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,200"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1413 x 503 x 543 mm<br>Evaporador 1222x 276 x 508 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 58kg<br>Evaporador 30kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 500",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "nombre": "Citimax 700 R404A 12v LA",
+            "imagen_url": "citimax-700.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  6,550<br>-20ºC/30ºC 3,490"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  4,700"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,200"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1413 x 503 x 543 mm<br>Evaporador 1222x 276 x 551 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 62kg<br>Evaporador 35kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 700",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "nombre": "Citimax 700 R404A 24v LA",
+            "imagen_url": "citimax-700.png",
+            "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Control de descongelación preciso para garantizar una temperatura estable de la caja durante la descongelación es fundamental para productos sensibles.<br>Unidad liviana para permitir la máxima capacidad de carga.<br>Fácil de instalar, unidad extraplana y liviana. Fácil de operar, comando en cabina y control por microprocesador, probado durante muchos años en otras unidades.<br>Para todos los vehículos, se adapta al aislamiento de la caja. Para aplicación refrigerada o congelada, con opción de refrigeración.<br>Tu temperatura,los puntos establecidos permanecen dentro de +/- 1 ° C.<br>Alcanza punto de ajuste 20% más rápido.<br>Funcionamiento en vehículos con 12VDC y 24VDC."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  6,550<br>-20ºC/30ºC 3,490"
+                },
+                {
+                    "titulo": "Capacidad de calentamiento (W)",
+                    "descripcion": "-18ºC/18ºC  4,700"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,200"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1413 x 503 x 543 mm<br>Evaporador 1222x 276 x 551 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 62kg<br>Evaporador 35kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citimax 700",
+                    "url": "citimax 280, 350, 400, 500, 700.pdf"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "nombre": "Citifresh 500 R134a 12v 0°C",
+            "imagen_url": "citifresh-500.png",
+            "resumen": "La unidad CITIFRESH es una unidad direct drive solo para producto fresco. Proporciona un desempeño óptimo en economía, innovación, confiabilidad. Una fácil instalación y aplicación para los retos actuales del transporte: altas temperaturas ambiente que exceden los 50°C. Usando un poderoso evaporador plano, la unidad soporta una capacidad máxima de volumen para cajas de hasta 36m3.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "Aplicación FRESH",
+                    "descripcion": "La unidad CITIFRESH proporciona los requerimientos de temperatura de +4°C *22°C y está mejor adecuada para el transporte de frutas y verduras, confitería y productos lácteos."
+                },
+                {
+                    "titulo": "Controles amigables",
+                    "descripcion": "Un control tipo DIN proporciona una interface básica para usuario. Se puede instalar en el tablero del vehículo y es muy fácil de operar."
+                },
+                {
+                    "titulo": "Rápida y fácil Instalación",
+                    "descripcion": "Un menor tamaño y un concepto modular permiten una fácil instalación. Ambos evaporador y condensador poseen cuatro tornillos para reducir tiempo de instalación."
+                },
+                {
+                    "titulo": "Bajo Mantenimiento",
+                    "descripcion": "El diseño aerodinámico de la unidad CITIFRESH posee pocas partes de servicio, las cuales ayudan a reducir las reparaciones y mantenimiento, resultando en un bajo costo de operación."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "4ºC/30ºC  4,500"
+                },
+                {
+                    "titulo": "Capacidad de compresor (CC)",
+                    "descripcion": "215"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-134A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,200"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1062 x 503 x 534 mm<br>Evaporador 1222x 278 x 508 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador 42kg<br>Evaporador 32kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Citifresh 500",
+                    "url": "citifresh 500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "nombre": "Zephyr 30SE Trifásico 230v/3 fases",
+            "imagen_url": "zephyr-30s.png",
+            "resumen": "ZEPHYR 30S es un equipo frigorífico,diseñado específicamente para el transporte de alimentos frescos o congelados en vehículos de reparto de tamaño medio con volúmenes de hasta 23 m³.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Un « best-seller » mundial del transporte frigorífico, ZEPHYR 30S es un equipo con una envidiable reputación gracias a muchos años de fiabilidad y rendimiento en el mercado.<br>Versatilidad y fiabilidad probadas para vehículos de reparto de tamaño medio<br><ul><li>Rendimiento probado para una excelente protección de la carga</li><li>Elección de evaporador roof-top o cúbico para una mayor versatilidad de aplicaciones</li><li>El microprocesador y el mando de cabina hacen que se utilización sea más fácil y segura</li><li>La rápida instalación y el fácil mantenimiento contribuyen a reducir los costes del ciclo de vida útil.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Retorno aire evaporador (W)",
+                    "descripcion": "35ºF (2ºC)   ROAD 2,990 - STAND-BY 1,935<br>0ºF (-18ºC) ROAD  1,435 - STAND-BY 850"
+                },
+                {
+                    "titulo": "Velocidad compresor (RPM)",
+                    "descripcion": "2,400 60 Hertz"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-134A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "1,8 kilogramos"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1120 x 488 x 230 mm<br>Evaporador 100x 540 x 210 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 40kg<br>Condensador Ruta & Red Eléctrica 75kg<br>Evaporador 30kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Zephyr 30SE",
+                    "url": "zephyr 30SE.pdf"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "nombre": "Xarios 350e stand by 12v 220V",
+            "imagen_url": "xarios-350.png",
+            "resumen": "El XARIOS 350 es una unidad polea-motor especialmente diseñada para la distribución de productos frescos y ultracongelados en utilitarios de tamaño mediano con volúmenes de caja de hasta 32 m3.<br>Caracterizado por una estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo, el XARIOS 350 garantiza unos rendimientos y una fiabilidad inigualables a los vehículos de distribución urbana.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "<ul><li>Rendimientos optimizados para una mejor protección de las mercancías.</li><li>Un caudal del aire extremadamente elevado para mantener una calidad y una frescura constantes en toda la caja.</li><li>Rápida bajada de temperatura(pulldown) ideal para la distribución urbana.</li><li>Un sistema de mando por microprocesador con mando cabina hace más fácil y seguro su funcionamiento.</li><li>La rápida instalación y el fácil mantenimiento contribuyen a reducir el coste de explotación.</li><li>Innovaciones que respetan el medio ambiente.</li><li>Gran surtido de kits de montaje aprobados por los fabricantes de coches.</li><li>Funcionamiento en vehículos con 12VDC y 24VDC.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  3,000<br>-20ºC/30ºC  1,900"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,500"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1125 x 505 x 238 mm<br>Evaporador extraplano MXS1100   1106 x 614 x 194 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 41kg<br>Condensador Ruta & Red Eléctrica 84kg<br>Evaporador 29kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Xarios 350",
+                    "url": "xarios 350.pdf"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "nombre": "Xarios 350e stand by 24v 220V",
+            "imagen_url": "xarios-350.png",
+            "resumen": "El XARIOS 350 es una unidad polea-motor especialmente diseñada para la distribución de productos frescos y ultracongelados en utilitarios de tamaño mediano con volúmenes de caja de hasta 32 m3.<br>Caracterizado por una estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo, el XARIOS 350 garantiza unos rendimientos y una fiabilidad inigualables a los vehículos de distribución urbana.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "<ul><li>Rendimientos optimizados para una mejor protección de las mercancías.</li><li>Un caudal del aire extremadamente elevado para mantener una calidad y una frescura constantes en toda la caja.</li><li>Rápida bajada de temperatura(pulldown) ideal para la distribución urbana.</li><li>Un sistema de mando por microprocesador con mando cabina hace más fácil y seguro su funcionamiento.</li><li>La rápida instalación y el fácil mantenimiento contribuyen a reducir el coste de explotación.</li><li>Innovaciones que respetan el medio ambiente.</li><li>Gran surtido de kits de montaje aprobados por los fabricantes de coches.</li><li>Funcionamiento en vehículos con 12VDC y 24VDC.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  3,000<br>-20ºC/30ºC  1,900"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,500"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1125 x 505 x 238 mm<br>Evaporador extraplano MXS1100   1106 x 614 x 194 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 41kg<br>Condensador Ruta & Red Eléctrica 84kg<br>Evaporador 29kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Xarios 350",
+                    "url": "xarios 350.pdf"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "nombre": "Xarios 500e stand by 12V 220V",
+            "imagen_url": "xarios-500.png",
+            "resumen": "XARIOS 500 es una unidad de polea-motor especialmente diseñada para el reparto de productos frescos y congelados en vehículos utilitarios con volúmenes de caja de hasta 40m3.<br>Caracterizado por una nueva estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo y con una mayor capacidad de enfriamiento, el nuevo XARIOS 500 garantiza a los vehículos de reparto urbano, unos rendimientos y una fiabilidad inigualables.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "<ul><li>Rendimientos optimizados en cualquier circunstancia para una mejor protección de la mercancías.</li><li>Un caudal del aire elevado para mantener una calidad y una frescura constantes en toda la caja.</li><li>Rápida bajada de las temperaturas (pulldown) ideal para el reparto urbano.</li><li>Un sistema de control por microprocesador con mando en cabina hace más fácil y seguro su funcionamiento.</li><li>La rápida instalación y el fácil mantenimiento contribuyen a reducir los costes de explotación.</li><li>Innovaciones que respetan el medio ambiente.</li><li>Funcionamiento en vehículos con 12VDC y 24VDC.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  4,750<br>-20ºC/30ºC  2,650"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,500"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1367 x 514 x 498 mm<br>Evaporador  extraplano MXL1100  1106 x 614 x 194 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 87kg<br>Condensador Ruta & Red Eléctrica 154kg<br>Evaporador 28kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Xarios 500",
+                    "url": "xarios 500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "nombre": "Xarios 500e stand by 24v 220V",
+            "imagen_url": "xarios-500.png",
+            "resumen": "XARIOS 500 es una unidad de polea-motor especialmente diseñada para el reparto de productos frescos y congelados en vehículos utilitarios con volúmenes de caja de hasta 40m3.<br>Caracterizado por una nueva estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo y con una mayor capacidad de enfriamiento, el nuevo XARIOS 500 garantiza a los vehículos de reparto urbano, unos rendimientos y una fiabilidad inigualables.",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "<ul><li>Rendimientos optimizados en cualquier circunstancia para una mejor protección de la mercancías.</li><li>Un caudal del aire elevado para mantener una calidad y una frescura constantes en toda la caja.</li><li>Rápida bajada de las temperaturas (pulldown) ideal para el reparto urbano.</li><li>Un sistema de control por microprocesador con mando en cabina hace más fácil y seguro su funcionamiento.</li><li>La rápida instalación y el fácil mantenimiento contribuyen a reducir los costes de explotación.</li><li>Innovaciones que respetan el medio ambiente.</li><li>Funcionamiento en vehículos con 12VDC y 24VDC.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  4,750<br>-20ºC/30ºC  2,650"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "1,500"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1367 x 514 x 498 mm<br>Evaporador  extraplano MXL1100  1106 x 614 x 194 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 87kg<br>Condensador Ruta & Red Eléctrica 154kg<br>Evaporador 28kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Xarios 500",
+                    "url": "xarios 500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "nombre": "Xarios 600e stand by 12V 220V",
+            "imagen_url": "xarios-600.png",
+            "resumen": "XARIOS 600 es una nueva unidad de polea motor de alta capacidad que ha sido especialmente diseñada para el transporte de alimentos frescos y congelados en vehículos grandes destinados al reparto de mercancías en cajas de hasta 48 m3 de volumen (productos frescos).",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "<ul><li>Máxima protección de la mercancía gracias a la gran capacidad de refrigeración de la unidad, independientemente de las condiciones del transporte (hasta+ 50 °C de temperatura ambiente) e incluso con aperturas frecuentes de las puertas.</li><li>Frescura y calidad constante de los productos que se almacenan en las cajas gracias a un caudal de aire de gran capacidad.</li><li>Excelente descenso de las temperaturas durante el pre-enfriamiento con opción de modo eléctrico de gran potencia para un uso intensivo.</li><li>Funcionamiento fácil y seguro con control por microprocesador y mando desde la cabina.</li><li>Gastos reducidos de operación y mantenimiento, gracias a su rápida instalación en cualquier tipo de vehículo y fácil mantenimiento.</li><li>Respeto al medio ambiente gracias a los bajos niveles de ruidos, componentes reciclables y el funcionamiento optimizado de la unidad.</li><li>Funcionamiento en vehículos con 12VDC y 24VDC.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  5,700<br>-20ºC/30ºC  3,030"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,100"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1367 x 514 x 498 mm<br>Evaporador extraplano MXL1550  1556 x 614 x 194 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 83kg<br>Condensador Ruta & Red Eléctrica 147kg<br>Evaporador 42kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Xarios 600",
+                    "url": "xarios 600.pdf"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "nombre": "Xarios 600e stand by 24v 220V",
+            "imagen_url": "xarios-600.png",
+            "resumen": "XARIOS 600 es una nueva unidad de polea motor de alta capacidad que ha sido especialmente diseñada para el transporte de alimentos frescos y congelados en vehículos grandes destinados al reparto de mercancías en cajas de hasta 48 m3 de volumen (productos frescos).",
+            "categoria": "Velocidad variable",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "<ul><li>Máxima protección de la mercancía gracias a la gran capacidad de refrigeración de la unidad, independientemente de las condiciones del transporte (hasta+ 50 °C de temperatura ambiente) e incluso con aperturas frecuentes de las puertas.</li><li>Frescura y calidad constante de los productos que se almacenan en las cajas gracias a un caudal de aire de gran capacidad.</li><li>Excelente descenso de las temperaturas durante el pre-enfriamiento con opción de modo eléctrico de gran potencia para un uso intensivo.</li><li>Funcionamiento fácil y seguro con control por microprocesador y mando desde la cabina.</li><li>Gastos reducidos de operación y mantenimiento, gracias a su rápida instalación en cualquier tipo de vehículo y fácil mantenimiento.</li><li>Respeto al medio ambiente gracias a los bajos niveles de ruidos, componentes reciclables y el funcionamiento optimizado de la unidad.</li><li>Funcionamiento en vehículos con 12VDC y 24VDC.</li></ul>"
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad de enfriamiento (W) solo en carretera",
+                    "descripcion": "0ºC/30ºC  5,700<br>-20ºC/30ºC  3,030"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Flujo de aire (m3/h)",
+                    "descripcion": "2,100"
+                },
+                {
+                    "titulo": "Dimensiones (An x Al x Pr)",
+                    "descripcion": "Condensador 1367 x 514 x 498 mm<br>Evaporador extraplano MXL1550  1556 x 614 x 194 mm"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Condensador Ruta 83kg<br>Condensador Ruta & Red Eléctrica 147kg<br>Evaporador 42kg"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Xarios 600",
+                    "url": "xarios 600.pdf"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "nombre": "Supra 550 con stand by 220V",
+            "imagen_url": "supra-550.png",
+            "resumen": "Desarrollado para entornos de distribución con múltiples aperturas de puertas, la línea SUPRA rinde hasta en el trabajo más exigente.<br>Beneficios:<ul><li>Flujo de aire constante del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidades extremadamente silenciosas</li><li>Alto rendimiento de enfriamiento</li></ul>",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "La gama SUPRA logra un descenso superior y un control de temperatura preciso en todos los puntos de ajuste. Este rendimiento está respaldado por una amplia gama de evaporadores con ventiladores eléctricos que proporcionan un flujo de aire constante independientemente de la velocidad del motor. Disponible en múltiples temperaturas en toda la gama, SUPRA ofrece una protección de carga mejorada para todas las aplicaciones de camiones."
+                },
+                {
+                    "titulo": "Diseño robusto",
+                    "descripcion": "Sobre la base de cientos de miles de horas de funcionamiento, SUPRA demuestra un diseño robusto tanto para la estética (material compuesto resistente) como para los componentes (arranque fácil) para extender la vida útil de la unidad y reducir el tiempo de inactividad. El tiempo de mantenimiento también se optimiza gracias a la fácil accesibilidad."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad en potencia del motor 0 ° C (W)",
+                    "descripcion": "5455"
+                },
+                {
+                    "titulo": "Capacidad en potencia del motor -20 ° C (W)",
+                    "descripcion": "3165"
+                },
+                {
+                    "titulo": "Capacidad en soporte eléctrico a 0 ° C (W)",
+                    "descripcion": "4670"
+                },
+                {
+                    "titulo": "Capacidad en stand eléctrico por -20 ° C (W)",
+                    "descripcion": "2770"
+                },
+                {
+                    "titulo": "Diésel de alta velocidad 18 ° C / -18 ° C (W)",
+                    "descripcion": "1940"
+                },
+                {
+                    "titulo": "En espera 18 ° C / -18 ° C (W)",
+                    "descripcion": "1205"
+                },
+                {
+                    "titulo": "(AMCA 21085) m3 / hora",
+                    "descripcion": "2150"
+                },
+                {
+                    "titulo": "Peso",
+                    "descripcion": "Versión S (estándar): 391 kilogramos<br>Versión T (bajo nivel de ruido): 394 kilogramos"
+                },
+                {
+                    "titulo": "Motor",
+                    "descripcion": "Modelo: CT2-29TV<br>Desplazamiento: 479 cm3<br>n ° de cilindros: 2<br>Intervalo de mantenimiento: 500/750 horas"
+                },
+                {
+                    "titulo": "Compresor",
+                    "descripcion": "Modelo: 05K2<br>Desplazamiento: 200 cm 3<br>n ° de cilindros: 2"
+                },
+                {
+                    "titulo": "Voltaje / Fase / Frecuencia",
+                    "descripcion": "230/400/3/50 Hz<br>240/460/3/60 Hz"
+                },
+                {
+                    "titulo": "Clasificación",
+                    "descripcion": "3,6 kW"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "4 kilogramos"
+                },
+                {
+                    "titulo": "Dimensiones",
+                    "descripcion": "825 x 1823 x 555 mm"
+                },
+                {
+                    "titulo": "Apertura del cuerpo",
+                    "descripcion": "Largo 1245 x alto 310 mm"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra 550",
+                    "url": "supra 550, 750, 1050, 1150, 1250.pdf"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "nombre": "Supra S6 solo ruta",
+            "imagen_url": "supra-s6.png",
+            "resumen": "La unidad Supra® de próxima generación: una nueva dimensión en rendimiento y confiabilidad para camiones pequeños y medianos.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La unidad Supra® S6.",
+                    "descripcion": "Diseñado específicamente para el transporte seguro y confiable de alimentos perecederos y congelados en camiones de tamaño pequeño a mediano. La unidad Supra® S6 ofrece una capacidad, flujo de aire y rendimiento general excepcionales, todo ello envuelto en un nuevo diseño elegante."
+                },
+                {
+                    "titulo": "Fiabilidad probada.",
+                    "descripcion": "La unidad Supra® S6 proporciona una mayor capacidad, un pullldown más rápido y una plataforma más inteligente y de alta eficiencia que garantiza confiabilidad y tranquilidad."
+                },
+                {
+                    "titulo": "Sistema de control APX ™.",
+                    "descripcion": "Impulsado por el último sistema operativo que combina una notable inteligencia de control, control de temperatura y confiabilidad del sistema con una operación increíblemente simple para conductores, gerentes de flotas y personal de almacén."
+                },
+                {
+                    "titulo": "Menor costo de propiedad.",
+                    "descripcion": "Al eliminar muchos componentes mecánicos y extender el intervalo de servicio a 2,000 horas, hemos reducido los costos operativos al tiempo que ofrecemos una confiabilidad sin precedentes."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48.2 x 21.7 x 11.4 in (1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-56: 383 kg (844 lb) sin modo de espera<br>TDS-56: 431 kg (950 lb) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,320 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 4.689 W<br>Operación Standy 4.689 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 2,931 W<br>Operación Standy 2,931 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 1,465 W<br>Operación Standy 1,465 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S6",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "nombre": "Supra S6 con stand by 220V",
+            "imagen_url": "supra-s6.png",
+            "resumen": "La unidad Supra® de próxima generación: una nueva dimensión en rendimiento y confiabilidad para camiones pequeños y medianos.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La unidad Supra® S6.",
+                    "descripcion": "Diseñado específicamente para el transporte seguro y confiable de alimentos perecederos y congelados en camiones de tamaño pequeño a mediano. La unidad Supra® S6 ofrece una capacidad, flujo de aire y rendimiento general excepcionales, todo ello envuelto en un nuevo diseño elegante."
+                },
+                {
+                    "titulo": "Fiabilidad probada.",
+                    "descripcion": "La unidad Supra® S6 proporciona una mayor capacidad, un pullldown más rápido y una plataforma más inteligente y de alta eficiencia que garantiza confiabilidad y tranquilidad."
+                },
+                {
+                    "titulo": "Sistema de control APX ™.",
+                    "descripcion": "Impulsado por el último sistema operativo que combina una notable inteligencia de control, control de temperatura y confiabilidad del sistema con una operación increíblemente simple para conductores, gerentes de flotas y personal de almacén."
+                },
+                {
+                    "titulo": "Menor costo de propiedad.",
+                    "descripcion": "Al eliminar muchos componentes mecánicos y extender el intervalo de servicio a 2,000 horas, hemos reducido los costos operativos al tiempo que ofrecemos una confiabilidad sin precedentes."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48.2 x 21.7 x 11.4 in (1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-56: 383 kg (844 lb) sin modo de espera<br>TDS-56: 431 kg (950 lb) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,320 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 4.689 W<br>Operación Standy 4.689 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 2,931 W<br>Operación Standy 2,931 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 1,465 W<br>Operación Standy 1,465 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S6",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "nombre": "Supra S7 solo ruta",
+            "imagen_url": "supra-s7.png",
+            "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La Unidad Supra® S7.",
+                    "descripcion": "Transporte con confianza alimentos perecederos y congelados en camiones de tamaño mediano con la unidad Supra® S7. Con una arquitectura de primera en su clase y un diseño de alta eficiencia que se ve muy bien en la carretera, es la manera perfecta de agregar valor a flotas de todos los tamaños."
+                },
+                {
+                    "titulo": "Menor costo de propiedad.",
+                    "descripcion": "Al reducir la cantidad de componentes mecánicos y con menos piezas en general, hemos eliminado muchos elementos de mantenimiento que pueden causar tiempos de inactividad prolongados y costos de reparación."
+                },
+                {
+                    "titulo": "Controles inteligentes.",
+                    "descripcion": "El sistema de control APX ™, como se ve en las plataformas Carrier Transicold X4 y Vector, proporciona el equilibrio ideal de control de temperatura, gestión de combustible y una notable inteligencia de control para mantener un entorno ideal dentro del camión."
+                },
+                {
+                    "titulo": "Servicio y soporte de expertos.",
+                    "descripcion": "Con 180 ubicaciones de distribuidores en América del Norte y acceso al servicio las 24 horas del día, los 7 días de la semana, la ayuda nunca está fuera de su alcance."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48.2 x 21.7 x 11.4 in (1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-57: 390 kg (860 lb) sin modo de espera<br>TDS-57: 434 kg (955 lb) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,000 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 5.568 W<br>Operación Standy 5.568 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 3,517 W<br>Operación Standy 3,517 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 1,758 W<br>Operación Standy 1,758 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S7",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "nombre": "Supra S7 con stand by 220v",
+            "imagen_url": "supra-s7.png",
+            "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La Unidad Supra® S7.",
+                    "descripcion": "Transporte con confianza alimentos perecederos y congelados en camiones de tamaño mediano con la unidad Supra® S7. Con una arquitectura de primera en su clase y un diseño de alta eficiencia que se ve muy bien en la carretera, es la manera perfecta de agregar valor a flotas de todos los tamaños."
+                },
+                {
+                    "titulo": "Menor costo de propiedad.",
+                    "descripcion": "Al reducir la cantidad de componentes mecánicos y con menos piezas en general, hemos eliminado muchos elementos de mantenimiento que pueden causar tiempos de inactividad prolongados y costos de reparación."
+                },
+                {
+                    "titulo": "Controles inteligentes.",
+                    "descripcion": "El sistema de control APX ™, como se ve en las plataformas Carrier Transicold X4 y Vector, proporciona el equilibrio ideal de control de temperatura, gestión de combustible y una notable inteligencia de control para mantener un entorno ideal dentro del camión."
+                },
+                {
+                    "titulo": "Servicio y soporte de expertos.",
+                    "descripcion": "Con 180 ubicaciones de distribuidores en América del Norte y acceso al servicio las 24 horas del día, los 7 días de la semana, la ayuda nunca está fuera de su alcance."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48.2 x 21.7 x 11.4 in (1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-57: 390 kg (860 lb) sin modo de espera<br>TDS-57: 434 kg (955 lb) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,000 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 5.568 W<br>Operación Standy 5.568 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 3,517 W<br>Operación Standy 3,517 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 1,758 W<br>Operación Standy 1,758 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S7",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "nombre": "Supra 750 con stand by 220V",
+            "imagen_url": "supra-750.png",
+            "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Desarrollada para entornos de distribución con múltiples aperturas de puertas, confíe en el rendimiento sin competencia de la gama SUPRA para su exigente trabajo.<br>La gama SUPRA logra un excelente enfriamiento y un preciso control de la temperatura en todos los puntos de consigna. Este rendimiento se obtiene gracias a una amplia variedad de evaporadores con ventiladores eléctricos que proporcionan un caudal de aire constante, independiente de la velocidad del motor. Disponible en multitemperatura en toda la gama, SUPRA ofrece una mejor protección de la carga para todas las aplicaciones de camión."
+                },
+                {
+                    "titulo": "Alta capacidad",
+                    "descripcion": "Ampliada con tres modelos de alta capacidad, la gama SUPRA está disponible con hasta 12 000 vatios. Los nuevos ventiladores aumentan la circulación del aire un 24%, para lograr una rápida recuperación de la temperatura y mejorar la gestión del aire. El uso de un condensador de 7 mm y un compresor más pequeño mejora la eficiencia de estos equipos, gracias a un consumo más bajo de combustible por watt obtenido."
+                },
+                {
+                    "titulo": "Diseño robusto",
+                    "descripcion": "Con la experiencia de miles de horas de funcionamiento, SUPRA destaca por un diseño robusto, en cuanto a estética (materiales en composite de alta resistencia) y en sus componentes (arranque rápido) para ampliar la vida útil de cada equipo y reducir los tiempos de parada. También se optimiza el tiempo de mantenimiento gracias a su fácil accesibilidad."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Modo ruta 0°C (W)",
+                    "descripcion": "6780"
+                },
+                {
+                    "titulo": "Modo ruta -20°C (W)",
+                    "descripcion": "3750"
+                },
+                {
+                    "titulo": "Modo eléctrico a 0°C (W)",
+                    "descripcion": "5920"
+                },
+                {
+                    "titulo": "Modo eléctrico a -20°C (W)",
+                    "descripcion": "3120"
+                },
+                {
+                    "titulo": "Alta velocidad modo ruta 18°C/-18°C (W)",
+                    "descripcion": "2170"
+                },
+                {
+                    "titulo": "Modo eléctrico 18°C/-18°C (W)",
+                    "descripcion": "1205"
+                },
+                {
+                    "titulo": "(AMCA 21085)",
+                    "descripcion": "2140 m3/h"
+                },
+                {
+                    "titulo": "Peso (Incluida batería)",
+                    "descripcion": "Versión S (Estándar): 429 kg<br>Versión T (Bajo ruido): 432 kg<br>Versión X (Silencio): 437 kg"
+                },
+                {
+                    "titulo": "Motor",
+                    "descripcion": "Modelo: CT3-44TV<br>Cilindrada: 719 cm3<br>n° de cilindros: 3<br>Intervalo de mantenimiento: 750/1000 hrs"
+                },
+                {
+                    "titulo": "Compresor",
+                    "descripcion": "Modelo: 05K2<br>Cilindrada: 200 cm3<br>n° de cilindros: 2"
+                },
+                {
+                    "titulo": "Voltaje / Fase / Frecuencia",
+                    "descripcion": "230/400/3/50 Hz<br>240/460/3/60 Hz"
+                },
+                {
+                    "titulo": "Clasificación",
+                    "descripcion": "4,8 kW"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A, R-452A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "5,2 kg"
+                },
+                {
+                    "titulo": "Dimensiones",
+                    "descripcion": "888 x 1823 x 629 mm"
+                },
+                {
+                    "titulo": "Apertura del cuerpo",
+                    "descripcion": "L 1245 x Al 310 mm"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra 750",
+                    "url": "supra 550, 750, 1050, 1150, 1250.pdf"
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "nombre": "Supra S8 solo ruta",
+            "imagen_url": "supra-s8.png",
+            "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La unidad Supra® S8.",
+                    "descripcion": "Cuando necesite una solución confiable para el transporte refrigerado de alimentos perecederos y congelados en camiones grandes, medianos y grandes, necesita una unidad en la que pueda confiar. La unidad Supra® S8 ofrece el rendimiento, la capacidad y la eficiencia potentes que espera de un nombre en el que se ha confiado durante décadas.<br>Hemos tomado una de las plataformas de refrigeración de camiones diesel más probadas de la industria y la hemos hecho más delgada, más inteligente y llena de poderosas ventajas para flotas de todos los tamaños."
+                },
+                {
+                    "titulo": "Diseño innovador.",
+                    "descripcion": "La nueva unidad Supra® S8 no solo se ve muy bien en el exterior con su cuerpo aerodinámico y paneles compuestos elegantes, sino que los sistemas internos también se han rediseñado para hacerlo más liviano, silencioso y eficiente."
+                },
+                {
+                    "titulo": "Sistema de control APX ™.",
+                    "descripcion": "Impulsado por el último sistema operativo que combina una notable inteligencia de control, control de temperatura y confiabilidad del sistema con una operación increíblemente simple para conductores, gerentes de flotas y personal de almacén."
+                },
+                {
+                    "titulo": "Rendimiento con menos ruido.",
+                    "descripcion": "Hasta 3dbA más silencioso que nuestro modelo anterior en la unidad de camión base. Reducción de sonido adicional disponible con el kit Stealth ™ opcional."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48,2 x 21,7 x 11,4 in(1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-58: 865 lb (393 kg) sin modo de espera<br>TDS-58: 960 lb (436 kg) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,100 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 6.448 W<br>Operación Standy 5.861 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 4.103 W<br>Operación Standy 3.810 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 2,491 W<br>Operación Standy 2.051 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S8",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "nombre": "Supra S8 con standby 220v",
+            "imagen_url": "supra-s8.png",
+            "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La unidad Supra® S8.",
+                    "descripcion": "Cuando necesite una solución confiable para el transporte refrigerado de alimentos perecederos y congelados en camiones grandes, medianos y grandes, necesita una unidad en la que pueda confiar. La unidad Supra® S8 ofrece el rendimiento, la capacidad y la eficiencia potentes que espera de un nombre en el que se ha confiado durante décadas.<br>Hemos tomado una de las plataformas de refrigeración de camiones diesel más probadas de la industria y la hemos hecho más delgada, más inteligente y llena de poderosas ventajas para flotas de todos los tamaños."
+                },
+                {
+                    "titulo": "Diseño innovador.",
+                    "descripcion": "La nueva unidad Supra® S8 no solo se ve muy bien en el exterior con su cuerpo aerodinámico y paneles compuestos elegantes, sino que los sistemas internos también se han rediseñado para hacerlo más liviano, silencioso y eficiente."
+                },
+                {
+                    "titulo": "Sistema de control APX ™.",
+                    "descripcion": "Impulsado por el último sistema operativo que combina una notable inteligencia de control, control de temperatura y confiabilidad del sistema con una operación increíblemente simple para conductores, gerentes de flotas y personal de almacén."
+                },
+                {
+                    "titulo": "Rendimiento con menos ruido.",
+                    "descripcion": "Hasta 3dbA más silencioso que nuestro modelo anterior en la unidad de camión base. Reducción de sonido adicional disponible con el kit Stealth ™ opcional."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48,2 x 21,7 x 11,4 in(1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-58: 865 lb (393 kg) sin modo de espera<br>TDS-58: 960 lb (436 kg) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,100 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 6.448 W<br>Operación Standy 5.861 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 4.103 W<br>Operación Standy 3.810 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 2,491 W<br>Operación Standy 2.051 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S8",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "nombre": "Supra 1050 con stand by 220 v",
+            "imagen_url": "supra-1050.png",
+            "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Desarrollada para entornos de distribución con múltiples aperturas de puertas, confíe en el rendimiento sin competencia de la gama SUPRA para su exigente trabajo.<br>La gama SUPRA logra un excelente enfriamiento y un preciso control de la temperatura en todos los puntos de consigna. Este rendimiento se obtiene gracias a una amplia variedad de evaporadores con ventiladores eléctricos que proporcionan un caudal de aire constante, independiente de la velocidad del motor. Disponible en multitemperatura en toda la gama, SUPRA ofrece una mejor protección de la carga para todas las aplicaciones de camión."
+                },
+                {
+                    "titulo": "Alta capacidad",
+                    "descripcion": "Ampliada con tres modelos de alta capacidad, la gama SUPRA está disponible con hasta 12 000 vatios. Los nuevos ventiladores aumentan la circulación del aire un 24%, para lograr una rápida recuperación de la temperatura y mejorar la gestión del aire. El uso de un condensador de 7 mm y un compresor más pequeño mejora la eficiencia de estos equipos, gracias a un consumo más bajo de combustible por watt obtenido."
+                },
+                {
+                    "titulo": "Diseño robusto",
+                    "descripcion": "Con la experiencia de miles de horas de funcionamiento, SUPRA destaca por un diseño robusto, en cuanto a estética (materiales en composite de alta resistencia) y en sus componentes (arranque rápido) para ampliar la vida útil de cada equipo y reducir los tiempos de parada. También se optimiza el tiempo de mantenimiento gracias a su fácil accesibilidad."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Modo ruta 0°C (W)",
+                    "descripcion": "9100"
+                },
+                {
+                    "titulo": "Modo ruta -20°C (W)",
+                    "descripcion": "5600"
+                },
+                {
+                    "titulo": "Modo eléctrico a 0°C (W)",
+                    "descripcion": "7800"
+                },
+                {
+                    "titulo": "Modo eléctrico a -20°C (W)",
+                    "descripcion": "5000"
+                },
+                {
+                    "titulo": "Alta velocidad modo ruta 18°C/-18°C (W)",
+                    "descripcion": "3520"
+                },
+                {
+                    "titulo": "Modo eléctrico 18°C/-18°C (W)",
+                    "descripcion": "2530"
+                },
+                {
+                    "titulo": "(AMCA 21085)",
+                    "descripcion": "3350 m3/h"
+                },
+                {
+                    "titulo": "Peso (Incluida batería)",
+                    "descripcion": "617 kg"
+                },
+                {
+                    "titulo": "Motor",
+                    "descripcion": "Modelo: CT3-69TV<br>Cilindrada: 1123 cm3<br>n° de cilindros: 3<br>Intervalo de mantenimiento: 1000 h"
+                },
+                {
+                    "titulo": "Compresor",
+                    "descripcion": "Modelo: 05K4<br>Cilindrada: 400 cm3<br>n° de cilindros: 4"
+                },
+                {
+                    "titulo": "Voltaje / Fase / Frecuencia",
+                    "descripcion": "230/400/3/50 Hz<br>240/460/3/60 Hz"
+                },
+                {
+                    "titulo": "Clasificación",
+                    "descripcion": "9 kW"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A, R-452A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "5,4 kg"
+                },
+                {
+                    "titulo": "Dimensiones",
+                    "descripcion": "971 x 1995 x 684 mm"
+                },
+                {
+                    "titulo": "Apertura del cuerpo",
+                    "descripcion": "L 1245 x Al 350 mm"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra 1050",
+                    "url": "supra 550, 750, 1050, 1150, 1250.pdf"
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "nombre": "Supra 1150 con stand by 220 v",
+            "imagen_url": "supra-1150.png",
+            "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Desarrollada para entornos de distribución con múltiples aperturas de puertas, confíe en el rendimiento sin competencia de la gama SUPRA para su exigente trabajo.<br>La gama SUPRA logra un excelente enfriamiento y un preciso control de la temperatura en todos los puntos de consigna. Este rendimiento se obtiene gracias a una amplia variedad de evaporadores con ventiladores eléctricos que proporcionan un caudal de aire constante, independiente de la velocidad del motor. Disponible en multitemperatura en toda la gama, SUPRA ofrece una mejor protección de la carga para todas las aplicaciones de camión."
+                },
+                {
+                    "titulo": "Alta capacidad",
+                    "descripcion": "Ampliada con tres modelos de alta capacidad, la gama SUPRA está disponible con hasta 12 000 vatios. Los nuevos ventiladores aumentan la circulación del aire un 24%, para lograr una rápida recuperación de la temperatura y mejorar la gestión del aire. El uso de un condensador de 7 mm y un compresor más pequeño mejora la eficiencia de estos equipos, gracias a un consumo más bajo de combustible por watt obtenido."
+                },
+                {
+                    "titulo": "Diseño robusto",
+                    "descripcion": "Con la experiencia de miles de horas de funcionamiento, SUPRA destaca por un diseño robusto, en cuanto a estética (materiales en composite de alta resistencia) y en sus componentes (arranque rápido) para ampliar la vida útil de cada equipo y reducir los tiempos de parada. También se optimiza el tiempo de mantenimiento gracias a su fácil accesibilidad."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Modo ruta 0°C (W)",
+                    "descripcion": "10500"
+                },
+                {
+                    "titulo": "Modo ruta -20°C (W)",
+                    "descripcion": "6350"
+                },
+                {
+                    "titulo": "Modo eléctrico a 0°C (W)",
+                    "descripcion": "8900"
+                },
+                {
+                    "titulo": "Modo eléctrico a -20°C (W)",
+                    "descripcion": "5400"
+                },
+                {
+                    "titulo": "Alta velocidad modo ruta 18°C/-18°C (W)",
+                    "descripcion": "4720"
+                },
+                {
+                    "titulo": "Modo eléctrico 18°C/-18°C (W)",
+                    "descripcion": "2740"
+                },
+                {
+                    "titulo": "(AMCA 21085)",
+                    "descripcion": "3350 m3/h"
+                },
+                {
+                    "titulo": "Peso (Incluida batería)",
+                    "descripcion": "626 kg"
+                },
+                {
+                    "titulo": "Motor",
+                    "descripcion": "Modelo: CT3-69TV<br>Cilindrada: 1123 cm3<br>n° de cilindros: 3<br>Intervalo de mantenimiento: 1000 h"
+                },
+                {
+                    "titulo": "Compresor",
+                    "descripcion": "Modelo: 05K4<br>Cilindrada: 400 cm3<br>n° de cilindros: 4"
+                },
+                {
+                    "titulo": "Voltaje / Fase / Frecuencia",
+                    "descripcion": "230/400/3/50 Hz<br>240/460/3/60 Hz"
+                },
+                {
+                    "titulo": "Clasificación",
+                    "descripcion": "9 kW"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A, R-452A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "5,7 kg"
+                },
+                {
+                    "titulo": "Dimensiones",
+                    "descripcion": "L 1245 x H 350 mm"
+                },
+                {
+                    "titulo": "Apertura del cuerpo",
+                    "descripcion": "971 x 1995 x 684 mm"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra 1150",
+                    "url": "supra 550, 750, 1050, 1150, 1250.pdf"
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "nombre": "Supra S9 solo ruta",
+            "imagen_url": "supra-s9.png",
+            "resumen": "Conozca la secuela de uno de los nombres más confiables en unidades de refrigeración para camiones. La nueva unidad Supra® ha sido rediseñada y renovada para un mayor rendimiento y mayor control.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La unidad Supra® S9.",
+                    "descripcion": "Explore una unidad diseñada para el transporte confiable de alimentos perecederos y congelados en camiones de gran tamaño. La unidad Supra® S9 se basa en un legado de 20 años de fabricación con un diseño nuevo e innovador, una capacidad superior y un rendimiento en el que puede confiar."
+                },
+                {
+                    "titulo": "Fiabilidad probada.",
+                    "descripcion": "La unidad Supra® S9 proporciona mayor capacidad, extracción más rápida y una plataforma más inteligente y de alta eficiencia que garantiza confiabilidad y tranquilidad."
+                },
+                {
+                    "titulo": "Operación inteligente.",
+                    "descripcion": "El sistema de control APX ™ combina una notable inteligencia de control, control de temperatura y confiabilidad del sistema con una operación sorprendentemente simple."
+                },
+                {
+                    "titulo": "Ingeniería de calidad.",
+                    "descripcion": "Al optimizar el diseño y utilizar menos componentes mecánicos, hemos ampliado el intervalo de servicio a 2000 horas, hemos aumentado la vida útil general y hemos reducido considerablemente los costes operativos totales."
+                },
+                {
+                    "titulo": "Servicio y soporte de expertos.",
+                    "descripcion": "Con 180 ubicaciones de distribuidores en América del Norte y acceso al servicio las 24 horas del día, los 7 días de la semana, la ayuda nunca está fuera de su alcance."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48,2 x 21,7 x 11,4 in (1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-59: 413 kg (908 lb) sin modo de espera<br>TDS-59: 460 kg (1,015 lb) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,100 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "1,500 cfm (2,548 m3 / hr)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 7.034 W<br>Operación Standy 6.887 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 5.422 W<br>Operación Standy 5.129 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 3.370 W<br>Operación Standy 2,931 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S9",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "nombre": "Supra S9 con stand by 220v",
+            "imagen_url": "supra-s9.png",
+            "resumen": "Conozca la secuela de uno de los nombres más confiables en unidades de refrigeración para camiones. La nueva unidad Supra® ha sido rediseñada y renovada para un mayor rendimiento y mayor control.",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "La unidad Supra® S9.",
+                    "descripcion": "Explore una unidad diseñada para el transporte confiable de alimentos perecederos y congelados en camiones de gran tamaño. La unidad Supra® S9 se basa en un legado de 20 años de fabricación con un diseño nuevo e innovador, una capacidad superior y un rendimiento en el que puede confiar."
+                },
+                {
+                    "titulo": "Fiabilidad probada.",
+                    "descripcion": "La unidad Supra® S9 proporciona mayor capacidad, extracción más rápida y una plataforma más inteligente y de alta eficiencia que garantiza confiabilidad y tranquilidad."
+                },
+                {
+                    "titulo": "Operación inteligente.",
+                    "descripcion": "El sistema de control APX ™ combina una notable inteligencia de control, control de temperatura y confiabilidad del sistema con una operación sorprendentemente simple."
+                },
+                {
+                    "titulo": "Ingeniería de calidad.",
+                    "descripcion": "Al optimizar el diseño y utilizar menos componentes mecánicos, hemos ampliado el intervalo de servicio a 2000 horas, hemos aumentado la vida útil general y hemos reducido considerablemente los costes operativos totales."
+                },
+                {
+                    "titulo": "Servicio y soporte de expertos.",
+                    "descripcion": "Con 180 ubicaciones de distribuidores en América del Norte y acceso al servicio las 24 horas del día, los 7 días de la semana, la ayuda nunca está fuera de su alcance."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "1914 x 815 x 615 mm (75,4 x 32,1 x 24,2 in)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "48,2 x 21,7 x 11,4 in (1,225 x 550 x 290 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "49.0 x 12.2 in (1245 x 310 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "TDB-59: 413 kg (908 lb) sin modo de espera<br>TDS-59: 460 kg (1,015 lb) con modo de espera eléctrico"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)<br>Velocidad: 2,100 rpm diesel / 60 Hz eléctrico en espera"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "1,500 cfm (2,548 m3 / hr)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel 7.034 W<br>Operación Standy 6.887 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel 5.422 W<br>Operación Standy 5.129 W"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel 3.370 W<br>Operación Standy 2,931 W"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra S9",
+                    "url": "supra S6, S7, S8, S9.pdf"
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "nombre": "Supra 1250 con stand by 220 v",
+            "imagen_url": "supra-1250.png",
+            "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
+            "categoria": "Camión",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Desarrollada para entornos de distribución con múltiples aperturas de puertas, confíe en el rendimiento sin competencia de la gama SUPRA para su exigente trabajo.<br>La gama SUPRA logra un excelente enfriamiento y un preciso control de la temperatura en todos los puntos de consigna. Este rendimiento se obtiene gracias a una amplia variedad de evaporadores con ventiladores eléctricos que proporcionan un caudal de aire constante, independiente de la velocidad del motor. Disponible en multitemperatura en toda la gama, SUPRA ofrece una mejor protección de la carga para todas las aplicaciones de camión."
+                },
+                {
+                    "titulo": "Alta capacidad",
+                    "descripcion": "Ampliada con tres modelos de alta capacidad, la gama SUPRA está disponible con hasta 12 000 vatios. Los nuevos ventiladores aumentan la circulación del aire un 24%, para lograr una rápida recuperación de la temperatura y mejorar la gestión del aire. El uso de un condensador de 7 mm y un compresor más pequeño mejora la eficiencia de estos equipos, gracias a un consumo más bajo de combustible por watt obtenido."
+                },
+                {
+                    "titulo": "Diseño robusto",
+                    "descripcion": "Con la experiencia de miles de horas de funcionamiento, SUPRA destaca por un diseño robusto, en cuanto a estética (materiales en composite de alta resistencia) y en sus componentes (arranque rápido) para ampliar la vida útil de cada equipo y reducir los tiempos de parada. También se optimiza el tiempo de mantenimiento gracias a su fácil accesibilidad."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Modo ruta 0°C (W)",
+                    "descripcion": "12000"
+                },
+                {
+                    "titulo": "Modo ruta -20°C (W)",
+                    "descripcion": "6900"
+                },
+                {
+                    "titulo": "Modo eléctrico a 0°C (W)",
+                    "descripcion": "9100"
+                },
+                {
+                    "titulo": "Modo eléctrico a -20°C (W)",
+                    "descripcion": "6300"
+                },
+                {
+                    "titulo": "Alta velocidad modo ruta 18°C/-18°C (W)",
+                    "descripcion": "4720"
+                },
+                {
+                    "titulo": "Modo eléctrico 18°C/-18°C (W)",
+                    "descripcion": "2740"
+                },
+                {
+                    "titulo": "(AMCA 21085)",
+                    "descripcion": "3350 m3/h"
+                },
+                {
+                    "titulo": "Peso (Incluida batería)",
+                    "descripcion": "636 kg"
+                },
+                {
+                    "titulo": "Motor",
+                    "descripcion": "Modelo: CT3-69TV<br>Cilindrada: 1123 cm3<br>n° de cilindros: 3<br>Intervalo de mantenimiento: 1000 h"
+                },
+                {
+                    "titulo": "Compresor",
+                    "descripcion": "Modelo: 05G<br>Cilindrada: 600 cm3<br>n° de cilindros: 6<br>"
+                },
+                {
+                    "titulo": "Voltaje / Fase / Frecuencia",
+                    "descripcion": "230/400/3/50 Hz<br>240/460/3/60 Hz"
+                },
+                {
+                    "titulo": "Clasificación",
+                    "descripcion": "9 kW"
+                },
+                {
+                    "titulo": "Refrigerante",
+                    "descripcion": "R-404A, R-452A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "6 kg"
+                },
+                {
+                    "titulo": "Dimensiones",
+                    "descripcion": "971 x 1995 x 684 mm"
+                },
+                {
+                    "titulo": "Apertura de la caja",
+                    "descripcion": "L 1245 x Al 350 mm"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Supra 1250",
+                    "url": "supra 550, 750, 1050, 1150, 1250.pdf"
+                }
+            ]
+        },
+        {
+            "id": "30",
+            "nombre": "X7300 - DT specs parrilla negra",
+            "imagen_url": "x7300.png",
+            "resumen": "Control de temperatura excepcional con una nueva dimensión en desempeño y eficiencia.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "La Serie X4™.",
+                    "descripcion": "Construida sobre la plataforma probada del X2™, la serie X4 se posiciona más alto como un estándar en desempeño y eficiencia dentro de la industria de la refrigeración."
+                },
+                {
+                    "titulo": "Mayor capacidad.",
+                    "descripcion": "El modelo 7300 entrega una capacidad de enfriamiento mayor al modelo anterior - hasta 66,000 Btuh de enfriamiento en condiciones AHRI - mientras proporciona un enfriamiento más rápido, un control preciso de la temperatura y tranquilidad para usted en las aplicaciones más exigentes."
+                },
+                {
+                    "titulo": "Eficiencia súper alta.",
+                    "descripcion": "La tecnología EcoFORWARD™ aporta un ahorro significativo de combustible así como un mayor desempeño, alcanzando hasta 35 a 50% más BTU’s de enfriamiento por galón de combustible."
+                },
+                {
+                    "titulo": "Compatibilidad plus.",
+                    "descripcion": "La unidad cumple con las regulaciones de emisiones para EPA 2013 Tier 4, mientras también mejora el desempeño y la eficiencia."
+                },
+                {
+                    "titulo": "Confiablidad aprobada.",
+                    "descripcion": "La plataforma mejorada ahora incluye componentes altamente eficientes de nuestra serie Vector™ y una garantía líder en la industria para brindarle confiablidad y tranquilidad."
+                },
+                {
+                    "titulo": "Sistema de Control APX™.",
+                    "descripcion": "El sistema modular APX combina una notable inteligencia de control, control de temperatura y un sistema confiable con una operación asombrosamente sencilla."
+                },
+                {
+                    "titulo": "Bajo costo.",
+                    "descripcion": "Combinando ingeniería innovadora con un sencillo diseño practico, significa menor consumo de combustible, menos horas de funcionamiento del motor y un bajo costo de mantenimiento."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76.4 x 85.7 x 22.8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1,684 x 1,149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66.8 x 46.0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "1,610 lb. (730 kg)<br>Tanque de combustible de aluminio de 50 galones con soportes de montaje: 65 lb. (29 kg)<br>Batería: 50 lb. (23 kg)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100°F (38°C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 19,345"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,260"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 6,740"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,050 cfm (5,180 m3 /hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "X7300",
+                    "url": "x7300.pdf"
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "nombre": "X7300 - eSolutions parrilla negra",
+            "imagen_url": "x7300.png",
+            "resumen": "Control de temperatura excepcional con una nueva dimensión en desempeño y eficiencia.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "La Serie X4™.",
+                    "descripcion": "Construida sobre la plataforma probada del X2™, la serie X4 se posiciona más alto como un estándar en desempeño y eficiencia dentro de la industria de la refrigeración."
+                },
+                {
+                    "titulo": "Mayor capacidad.",
+                    "descripcion": "El modelo 7300 entrega una capacidad de enfriamiento mayor al modelo anterior - hasta 66,000 Btuh de enfriamiento en condiciones AHRI - mientras proporciona un enfriamiento más rápido, un control preciso de la temperatura y tranquilidad para usted en las aplicaciones más exigentes."
+                },
+                {
+                    "titulo": "Eficiencia súper alta.",
+                    "descripcion": "La tecnología EcoFORWARD™ aporta un ahorro significativo de combustible así como un mayor desempeño, alcanzando hasta 35 a 50% más BTU’s de enfriamiento por galón de combustible."
+                },
+                {
+                    "titulo": "Compatibilidad plus.",
+                    "descripcion": "La unidad cumple con las regulaciones de emisiones para EPA 2013 Tier 4, mientras también mejora el desempeño y la eficiencia."
+                },
+                {
+                    "titulo": "Confiablidad aprobada.",
+                    "descripcion": "La plataforma mejorada ahora incluye componentes altamente eficientes de nuestra serie Vector™ y una garantía líder en la industria para brindarle confiablidad y tranquilidad."
+                },
+                {
+                    "titulo": "Sistema de Control APX™.",
+                    "descripcion": "El sistema modular APX combina una notable inteligencia de control, control de temperatura y un sistema confiable con una operación asombrosamente sencilla."
+                },
+                {
+                    "titulo": "Bajo costo.",
+                    "descripcion": "Combinando ingeniería innovadora con un sencillo diseño practico, significa menor consumo de combustible, menos horas de funcionamiento del motor y un bajo costo de mantenimiento."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76.4 x 85.7 x 22.8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1,684 x 1,149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66.8 x 46.0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "1,610 lb. (730 kg)<br>Tanque de combustible de aluminio de 50 galones con soportes de montaje: 65 lb. (29 kg)<br>Batería: 50 lb. (23 kg)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100°F (38°C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 19,345"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,260"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 6,740"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,050 cfm (5,180 m3 /hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "X7300",
+                    "url": "x7300.pdf"
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "nombre": "X7500 - W/Cromo & Datatrak",
+            "imagen_url": "x7500.png",
+            "resumen": "El nuevo estándar en la industria para alta capacidad de refrigeración y excepcional control de temperatura.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "La Serie X4™.",
+                    "descripcion": "Construida sobre la plataforma probada del X2™, la serie X4 se posiciona más alto como un estándar en desempeño y eficiencia dentro de la industria de la refrigeración."
+                },
+                {
+                    "titulo": "Mayor capacidad.",
+                    "descripcion": "El modelo 7500 establece el punto de referencia para el desempeño extremo– hasta 68,000 BTUs de enfriamiento en condiciones AHRI. Entrega un enfriamiento rápido, control preciso de la temperatura y tranquilidad para usted en las aplicaciones más exigentes."
+                },
+                {
+                    "titulo": "Eficiencia súper alta.",
+                    "descripcion": "La tecnología EcoFORWARD™ aporta un ahorro significativo de combustible así como un mayor desempeño, alcanzando hasta 35 a 50% más BTU’s de enfriamiento por galón de combustible."
+                },
+                {
+                    "titulo": "Compatibilidad plus.",
+                    "descripcion": "La unidad cumple con las regulaciones de emisiones para EPA 2013 Tier 4, mientras también mejora el desempeño y la eficiencia."
+                },
+                {
+                    "titulo": "Confiablidad aprobada.",
+                    "descripcion": "La plataforma mejorada ahora incluye componentes altamente eficientes de nuestra serie Vector™ y una garantía líder en la industria para brindarle confiablidad y tranquilidad."
+                },
+                {
+                    "titulo": "Sistema de Control APX™.",
+                    "descripcion": "El sistema modular APX combina una notable inteligencia de control, control de temperatura y un sistema confiable con una operación asombrosamente sencilla."
+                },
+                {
+                    "titulo": "Bajo costo.",
+                    "descripcion": "Combinando ingeniería innovadora con un sencillo diseño practico, significa menor consumo de combustible, menos horas de funcionamiento del motor y un bajo costo de mantenimiento."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76.4 x 85.7 x 22.8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1,684 x 1,149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66.8 x 46.0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "1,620 lb. (735 kg)<br>Tanque de combustible de aluminio de 50 galones con soportes de montaje: 65 lb. (29 kg)<br>Batería: 50 lb. (23 kg)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100°F (38°C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 19,930"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,845"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 7,330"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,100 cfm (5,270 m3/hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "X7500",
+                    "url": "x7500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "nombre": "X7500- eSolutions parrilla negra",
+            "imagen_url": "x7500.png",
+            "resumen": "El nuevo estándar en la industria para alta capacidad de refrigeración y excepcional control de temperatura.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "La Serie X4™.",
+                    "descripcion": "Construida sobre la plataforma probada del X2™, la serie X4 se posiciona más alto como un estándar en desempeño y eficiencia dentro de la industria de la refrigeración."
+                },
+                {
+                    "titulo": "Mayor capacidad.",
+                    "descripcion": "El modelo 7500 establece el punto de referencia para el desempeño extremo– hasta 68,000 BTUs de enfriamiento en condiciones AHRI. Entrega un enfriamiento rápido, control preciso de la temperatura y tranquilidad para usted en las aplicaciones más exigentes."
+                },
+                {
+                    "titulo": "Eficiencia súper alta.",
+                    "descripcion": "La tecnología EcoFORWARD™ aporta un ahorro significativo de combustible así como un mayor desempeño, alcanzando hasta 35 a 50% más BTU’s de enfriamiento por galón de combustible."
+                },
+                {
+                    "titulo": "Compatibilidad plus.",
+                    "descripcion": "La unidad cumple con las regulaciones de emisiones para EPA 2013 Tier 4, mientras también mejora el desempeño y la eficiencia."
+                },
+                {
+                    "titulo": "Confiablidad aprobada.",
+                    "descripcion": "La plataforma mejorada ahora incluye componentes altamente eficientes de nuestra serie Vector™ y una garantía líder en la industria para brindarle confiablidad y tranquilidad."
+                },
+                {
+                    "titulo": "Sistema de Control APX™.",
+                    "descripcion": "El sistema modular APX combina una notable inteligencia de control, control de temperatura y un sistema confiable con una operación asombrosamente sencilla."
+                },
+                {
+                    "titulo": "Bajo costo.",
+                    "descripcion": "Combinando ingeniería innovadora con un sencillo diseño practico, significa menor consumo de combustible, menos horas de funcionamiento del motor y un bajo costo de mantenimiento."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76.4 x 85.7 x 22.8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1,684 x 1,149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66.8 x 46.0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "1,620 lb. (735 kg)<br>Tanque de combustible de aluminio de 50 galones con soportes de montaje: 65 lb. (29 kg)<br>Batería: 50 lb. (23 kg)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100°F (38°C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 19,930"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,845"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 7,330"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,100 cfm (5,270 m3/hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "X7500",
+                    "url": "x7500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "nombre": "Vector 1350 sólo diesel",
+            "imagen_url": "vector-1350.png",
+            "resumen": "Combina la simplicidad de la tecnología de correa con la eficiencia de la tecnología all-electric.<br>Ventajas:<ul><li>Fácil de usar</li><li>Fácil mantenimiento</li><li>Peso ligero</li></ul>",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "",
+                    "descripcion": "Peso ligero y uso sencillo para transportes nacionales e internacionales de larga distancia."
+                },
+                {
+                    "titulo": "Solución.",
+                    "descripcion": "El equipo Vector 1350 combina la sencillez de la tecnología impulsada por correa con la eficiencia de la tecnología eléctrica patentada. Diseñado para un transporte de larga distancia sin esfuerzo con una capacidad optimizada de 12 700 vatios, el equipo Vector 1350 también está disponible en versión eléctrica."
+                },
+                {
+                    "titulo": "Tecnología.",
+                    "descripcion": "El motor impulsa un compresor y un generador para accionar el sistema de ventilación. Los ventiladores eléctricos reducen el número de correas, mejorando significativamente la fiabilidad, al tiempo que permite el funcionamiento con un pequeño motor de tan sólo 1,1 L consiguiendo así un importante ahorro de combustible."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Capacidad en potencia del motor 0 ° C",
+                    "descripcion": "13 112 W"
+                },
+                {
+                    "titulo": "Capacidad en potencia del motor -20 ° C",
+                    "descripcion": "8304 W"
+                },
+                {
+                    "titulo": "Capacidad en soporte eléctrico a 0 ° C",
+                    "descripcion": "7998 W"
+                },
+                {
+                    "titulo": "Capacidad en stand eléctrico por -20 ° C",
+                    "descripcion": "7614 W"
+                },
+                {
+                    "titulo": "Diésel de alta velocidad 18 ° C / -18 ° C",
+                    "descripcion": "9300 W"
+                },
+                {
+                    "titulo": "En espera 18 ° C / -18 ° C",
+                    "descripcion": "5100 W"
+                },
+                {
+                    "titulo": "(AMCA 21085) m 3 / hora",
+                    "descripcion": "5433"
+                },
+                {
+                    "titulo": "Peso (incluida la batería)",
+                    "descripcion": "R (versión de carretera) 645 kilogramos<br>S (versión Road y Stand-by) 690 kilogramos<br>T (versión de bajo ruido) 698 kilogramos"
+                },
+                {
+                    "titulo": "Motor",
+                    "descripcion": "Modelo CT 3-69TV<br>Desplazamiento 1123 cm 3<br>n ° de cilindros 3<br>Intervalo de mantenimiento 1500 horas"
+                },
+                {
+                    "titulo": "Compresor",
+                    "descripcion": "Modelo 05 K4<br>Desplazamiento 400 cm 3<br>n ° de cilindros 4"
+                },
+                {
+                    "titulo": "Soporte eléctrico por motor",
+                    "descripcion": "Voltaje / Fase / Frecuencia 400/3/50<br>Clasificación 5,5 kW"
+                },
+                {
+                    "titulo": "Tipo de Refrigerante",
+                    "descripcion": "R-404A"
+                },
+                {
+                    "titulo": "Carga de refrigerante",
+                    "descripcion": "5,1 kilogramos"
+                },
+                {
+                    "titulo": "Dimensiones (Pr x An x Al)",
+                    "descripcion": "2050 x 430 x 2227 milímetro"
+                },
+                {
+                    "titulo": "Apertura del cuerpo",
+                    "descripcion": "L 1700 x H 1170 mm"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Vector 1350",
+                    "url": "vector 1350.pdf"
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "nombre": "Vector 8500 Std Specs parrilla cromada",
+            "imagen_url": "vector-8500.png",
+            "resumen": "Confiabilidad incomparable, eficiencia y valor. Vector 8500, simplemente el primero, simplemente el mejor.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "Tecnología E-Drive™.",
+                    "descripcion": "Probada y refinada a lo largo de una década, la tecnología de refrigeración completamente eléctrica de Carrier Transicold significa que las operaciones de refrigeración y calentamiento son 100% eléctricas, conducidas en ruta por un generador a bordo impulsado por el motor diésel de la unidad."
+                },
+                {
+                    "titulo": "Desempeño mejorado.",
+                    "descripcion": "Las unidades de la última generación Vector™ emplean tecnologías ecoFORWARD™ para ofrecer una economía de combustible mejorada, menor peso y una capacidad de refrigeración mayor que nuestras unidades anteriores de refrigeración hibridas para tráiler."
+                },
+                {
+                    "titulo": "Diseño avanzado del compresor.",
+                    "descripcion": "Para un desempeño mejorado, los sistemas Vector más recientes utilizan un compresor Scroll eléctrico completamente sellado con 70% menos partes móviles y pesando 200 libras menos que el compresor tradicional alternativo."
+                },
+                {
+                    "titulo": "Costo de mantenimiento reducido.",
+                    "descripcion": "El sistema Vector elimina muchos elementos encontrados en sistemas convencionales mecánicos de refrigeración que requieren mantenimiento como alternadores, bandas, poleas, vibrasober, sello mecánico de compresores y embragues."
+                },
+                {
+                    "titulo": "Compatibilidad plus.",
+                    "descripcion": "La unidad cumple con las regulaciones de emisiones para EPA 2013 Tier 4, mientras también mejora el desempeño y la eficiencia."
+                },
+                {
+                    "titulo": "Operación Inteligente.",
+                    "descripcion": "Las unidades Vector tienen la capacidad única de encender sus componentes cuando es necesario y apagarlos cuando no lo son."
+                },
+                {
+                    "titulo": "Standby Eléctrico.",
+                    "descripcion": "Estándar para unidades Vector, esta característica reduce el consumo de combustible, reduce ruido del motor y sus emisiones, mientras incrementa el ahorro en trabajo."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76.4 x 85.7 x 22.8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1,684 x 1,149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66.8 x 46.0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "1,810 lb. (820 kg) incluyendo Standby eléctrico<br>Tanque de combustible de aluminio de 50 galones con soportes de montaje: 65 lb. (29 kg)<br>Batería: 50 lb. (23 kg)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 17,585"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,260"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 7,035"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,100 cfm (5,270 m3 /hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Vector 8500",
+                    "url": "vector 8500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "nombre": "Vector 8500 eSolutions parrilla cromada",
+            "imagen_url": "vector-8500.png",
+            "resumen": "Confiabilidad incomparable, eficiencia y valor. Vector 8500, simplemente el primero, simplemente el mejor.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "Tecnología E-Drive™.",
+                    "descripcion": "Probada y refinada a lo largo de una década, la tecnología de refrigeración completamente eléctrica de Carrier Transicold significa que las operaciones de refrigeración y calentamiento son 100% eléctricas, conducidas en ruta por un generador a bordo impulsado por el motor diésel de la unidad."
+                },
+                {
+                    "titulo": "Desempeño mejorado.",
+                    "descripcion": "Las unidades de la última generación Vector™ emplean tecnologías ecoFORWARD™ para ofrecer una economía de combustible mejorada, menor peso y una capacidad de refrigeración mayor que nuestras unidades anteriores de refrigeración hibridas para tráiler."
+                },
+                {
+                    "titulo": "Diseño avanzado del compresor.",
+                    "descripcion": "Para un desempeño mejorado, los sistemas Vector más recientes utilizan un compresor Scroll eléctrico completamente sellado con 70% menos partes móviles y pesando 200 libras menos que el compresor tradicional alternativo."
+                },
+                {
+                    "titulo": "Costo de mantenimiento reducido.",
+                    "descripcion": "El sistema Vector elimina muchos elementos encontrados en sistemas convencionales mecánicos de refrigeración que requieren mantenimiento como alternadores, bandas, poleas, vibrasober, sello mecánico de compresores y embragues."
+                },
+                {
+                    "titulo": "Compatibilidad plus.",
+                    "descripcion": "La unidad cumple con las regulaciones de emisiones para EPA 2013 Tier 4, mientras también mejora el desempeño y la eficiencia."
+                },
+                {
+                    "titulo": "Operación Inteligente.",
+                    "descripcion": "Las unidades Vector tienen la capacidad única de encender sus componentes cuando es necesario y apagarlos cuando no lo son."
+                },
+                {
+                    "titulo": "Standby Eléctrico.",
+                    "descripcion": "Estándar para unidades Vector, esta característica reduce el consumo de combustible, reduce ruido del motor y sus emisiones, mientras incrementa el ahorro en trabajo."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76.4 x 85.7 x 22.8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1,684 x 1,149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66.8 x 46.0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "1,810 lb. (820 kg) incluyendo Standby eléctrico<br>Tanque de combustible de aluminio de 50 galones con soportes de montaje: 65 lb. (29 kg)<br>Batería: 50 lb. (23 kg)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 17,585"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,260"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 7,035"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,100 cfm (5,270 m3 /hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Vector 8500",
+                    "url": "vector 8500.pdf"
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "nombre": "Vector 8100 aplicación estacionaria 440V",
+            "imagen_url": "vector-8100.png",
+            "resumen": "Sin motor diésel, no hay emisiones de diésel, ni ruido de motor ni consumo de combustible de nuestra solución de almacenamiento en frío de próxima generación.",
+            "categoria": "Tráiler",
+            "descripcion": [
+                {
+                    "titulo": "Control de temperatura sin motor.",
+                    "descripcion": "Construida para proporcionar almacenamiento en frío estacionario, la unidad de refrigeración de remolque completamente eléctrica sin motor Vector ™ 8100 consume menos electricidad y ofrece hasta un 4 por ciento más de capacidad que el modelo que tiene éxito. La calefacción eléctrica produce un calentamiento máximo y desescarches rápidos independientemente de la temperatura ambiente exterior."
+                },
+                {
+                    "titulo": "Solución de almacenamiento económico.",
+                    "descripcion": "Elimina el costo y el peso de la planta de energía a bordo necesaria para los transportes por carretera: el motor diesel y el generador de alta capacidad que se usan en otras unidades Vector."
+                },
+                {
+                    "titulo": "Desempeño mejorado.",
+                    "descripcion": "Consume hasta un 20 por ciento menos de electricidad que la unidad que tiene éxito, logrando entre un 15 y un 25 por ciento más de BTU de refrigeración por kilovatio.  "
+                },
+                {
+                    "titulo": "Diseño avanzado.",
+                    "descripcion": "El sistema de control APX ™ con registrador de datos integrado combina una gestión sofisticada de la temperatura con un funcionamiento sencillo. Emplea la misma bobina de condensador de microcanal, ventiladores de condensador de supresión de vórtices de bajo ruido y compresor de espiral eléctrico completamente sellado común a la línea Vector."
+                },
+                {
+                    "titulo": "Lógica de gestión de energía TRU Demand ™.",
+                    "descripcion": "Regula de manera eficiente el consumo de energía para ahorrar costos de energía. La protección contra caídas de voltaje incorporada mantiene la unidad en funcionamiento durante condiciones de bajo voltaje y, en caso de una interrupción, la lógica de inicio escalonado evita un consumo masivo de la red al evitar que varias unidades se enciendan simultáneamente cuando vuelve la energía."
+                },
+                {
+                    "titulo": "Ambientalmente sustentable.",
+                    "descripcion": "Sin emisiones de motor diesel, el Vector 8100 proporciona una huella de carbono más baja y una solución extremadamente silenciosa para operaciones con vecinos residenciales sensibles al ruido del motor diesel."
+                }
+            ],
+            "especificaciones": [
+                {
+                    "titulo": "Dimensiones del condensador",
+                    "descripcion": "76,4 x 85,7 x 22,8 in (1,940 x 2,176 x 579 mm)"
+                },
+                {
+                    "titulo": "Dimensiones del evaporador",
+                    "descripcion": "66.3 x 45.2 x 8.2 in (1.684 x ​​1.149 x 280 mm)"
+                },
+                {
+                    "titulo": "Abertura del cuerpo",
+                    "descripcion": "66,8 x 46,0 in (1,696 x 1,168 mm)"
+                },
+                {
+                    "titulo": "Peso aproximado",
+                    "descripcion": "520 kg (1,150 lb), incluida la batería de reserva eléctrica : 23 kg (50 lb)"
+                },
+                {
+                    "titulo": "Capacidad de enfriamiento / temperatura:",
+                    "descripcion": "Ambiente a 100 ° F (38 ° C)"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 35 ° F (2 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 17,585"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador 0 ° F (-18 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 10,260"
+                },
+                {
+                    "titulo": "Temperatura del aire de retorno del evaporador -20 ° F (-29 ° C)",
+                    "descripcion": "Operación diesel alta velocidad 7,035"
+                },
+                {
+                    "titulo": "Flujo de aire del evaporador:",
+                    "descripcion": "3,100 cfm (5,270 m3 /hr)"
+                }
+            ],
+            "documentos": [
+                {
+                    "nombre": "Vector 8100",
+                    "url": "vector 8100.pdf"
+                }
+            ]
+        }
+    ]   
+}

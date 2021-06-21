@@ -46,7 +46,7 @@
                     <a class="<?php if ( $page === 'home') { echo 'active'; } ?>" href="/"><span>Inicio</span></a>
                 </li>
                 <li class="submenu-trigger">
-                    <a href="/equipos.php"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
+                    <a class="<?php if ( $page === 'equipos') { echo 'active'; } ?>" href="/equipos.php"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
                     <div class="submenu-navbar">
                         <div class="menu-list">
                             <span>Velocidad variable</span>

@@ -173,6 +173,13 @@ p {
     margin-top: 5rem;
 }
 
+.mb-1 {
+    margin-bottom: 1rem;
+}
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
 // ---- Components
 .modal {
     position: fixed;
@@ -218,6 +225,10 @@ p {
     @media (max-width: 1900px) {
         font-size: 1rem;
     }
+}
+
+.text-bold {
+    font-weight: bold;
 }
 
 .main-button {

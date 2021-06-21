@@ -5,6 +5,16 @@
     background-position: center;
     background-size: cover;
 
+    &.velocidad-hero {
+        background-image: url('/assets/images/equipos/velocidad/unidades-velocidad-variable.jpg');
+
+        .info {
+            h1,h3,h2, p {
+                color: white;
+            }
+        }
+    }
+
     @media #{$ipad} {
         max-height: unset;
         background-image: url('/assets/images/pages/hero-colores-carrier-movil.jpg');
