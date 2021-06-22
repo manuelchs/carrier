@@ -4,41 +4,33 @@
             <div class="links-item">
                 <h6>Empresa <i class="far fa-plus"></i></h6>
                 <div class="links">
-                    <a href="#">Refrigeración</a>
-                    <a href="#">Refacciones</a>
-                    <a href="#">Servicio técnio</a>
-                    <a href="#">Contacto</a>
+                    <a href="/equipos.php">Equipos</a>
+                    <a href="/refacciones.php">Refacciones</a>
+                    <a href="/servicio-tecnico.php">Servicio técnio</a>
+                    <a href="/contacto.php">Contacto</a>
                 </div>
             </div>
             <div class="links-item">
                 <h6>Productos <i class="far fa-plus"></i></h6>
                 <div class="links">
-                    <a href="#">Trailer</a>
-                    <a href="#">Camión (autónomo)</a>
-                    <a href="#">Velocidad variable</a>
-                </div>
-            </div>
-            <div class="links-item">
-                <h6>Refacciones <i class="far fa-plus"></i></h6>
-                <div class="links">
-                    <a href="#">Bandas</a>
-                    <a href="#">Motores</a>
-                    <a href="#">Tarjetas lógicas</a>
-                    <a href="#">Sensores</a>
-                    <a href="#">Consumibles</a>
+                    <a href="/equipos/velocidad-variable.php">Velocidad variable</a>
+                    <a href="/equipos/camion.php">Camión (autónomo)</a>
+                    <a href="/equipos/trailer.php">Trailer</a>
                 </div>
             </div>
             <div class="links-item">
                 <h6>Contáctanos <i class="far fa-plus"></i></h6>
                 <div class="links">
-                    <a href="#"><i class="fas fa-map-marker-alt"></i>Periférico Sur 5265-A, Tlaquepaque, Jalisco.</a>
-                    <a href="#"><i class="fas fa-phone"></i>(33) 36891067</a>
-                    <a href="#"><i class="fab fa-whatsapp"></i>(33) 36891067</a>
+                    <a href="https://goo.gl/maps/Kiqo5HrHDqkMdMDq8" target="_blank"><i class="fas fa-map-marker-alt"></i>Periférico Sur 5265-A, Tlaquepaque, Jalisco.</a>
+                    <a href="tel:+553336891067"><i class="fas fa-phone"></i>(33) 3689 1067</a>
+                    <a href="https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20estoy%20interesado%20en%20equipo%20de%20refrigeraci%C3%B3n%20para%20mi%20transporte%20%E2%9D%84%EF%B8%8F" target="_blank"><i class="fab fa-whatsapp"></i>(33) 3454 0499</a>
                 </div>
             </div>
             <div class="logo-section">
-                <img src="/assets/images/home/logo-carrier-transicold-large.png" alt="">
-                <a href="" class="facebook">
+                <a href="/">
+                    <img src="/assets/images/home/logo-carrier-transicold-large.png" alt="">
+                </a>
+                <a target="_blank" href="https://www.facebook.com/carrierguadalajara/" class="facebook">
                     <i class="fab fa-facebook"></i>
                     Facebook
                 </a>
