@@ -180,3 +180,31 @@
 .slider-item-animation-end {
     transform: translateX(0px);
 }
+
+
+#sliderClientes {
+    .slider-item {
+        height: auto;
+        max-height: unset;
+        padding: 4rem 0;
+        @media #{$ipad} {
+            padding: 2rem 0;
+        }
+        .general-max-width {
+            padding: 0;
+            img {
+                height: auto;
+
+            }
+        }
+    }
+}
+
+#pointsClientes {
+    .points-item {
+        background-color: var(--gray-2);
+        &.active {
+            background-color: var(--blue-color);
+        }
+    }
+}

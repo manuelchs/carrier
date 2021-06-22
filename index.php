@@ -3,6 +3,7 @@
 <head>
     <?php include('partial_views/head_tag.php') ?>
     <script src="/assets/scripts/slider.js"></script>
+    <script src="/assets/scripts/slider-clientes.js"></script>
     <title>Carrier Transicold</title>
 </head>
 <body>
@@ -175,22 +176,44 @@
                 <h3 class="custom-animation custom-animation-top">Nuestro clientes</h3>
                 <h2 class="custom-animation custom-animation-top">Trabajamos con los mejores</h2>
             </div>
-
-            <div class="client-grid-wrapper">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-19-hermanos.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-apolotran.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-berrymex.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-dubacano.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-dumy.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-giddings.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-grupo-tarahumara.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-marisa.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-omex.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-pilgrims.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-sello-rojo.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-soriana.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-sukarne.png" alt="">
-                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-thrifty.png" alt="">
+            <div class="slider-wrapper">
+                <div id="sliderClientes" class="slider column">
+                    <div id="itemClientes1" class="slider-item">
+                        <div class="general-max-width">
+                            <div class="client-grid-wrapper">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-19-hermanos.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-apolotran.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-dumy.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-giddings.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="itemClientes2" class="slider-item">
+                        <div class="general-max-width">
+                            <div class="client-grid-wrapper">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-grupo-tarahumara.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-marisa.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-omex.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-pilgrims.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="itemClientes3" class="slider-item">
+                        <div class="general-max-width">
+                            <div class="client-grid-wrapper">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-sello-rojo.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-soriana.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-sukarne.png" alt="">
+                                <img class="custom-animation custom-animation-top" src="/assets/images/home/clientes/cliente-thrifty.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="pointsClientes" class="points">
+                    <div id="point1" div="1" class="points-item p1 active"></div>
+                    <div id="point2" div="2" class="points-item p2"></div>
+                    <div id="point3" div="3" class="points-item p3"></div>
+                </div>
             </div>
         </div>
     </div>
