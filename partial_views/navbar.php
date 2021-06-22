@@ -206,7 +206,7 @@
 <div id="equipoPageMenu" class="page-menu">
     <div class="header">
         <i id="closePageMenu" class="far fa-arrow-left"></i>
-        <span>Equipos</span>
+        <a href="/equipos.php">Equipos</a>
     </div>
     <div class="links">
         <div class="links-item">
