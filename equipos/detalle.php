@@ -59,23 +59,23 @@
         <div class="general-max-width">
             <div class="detail-container">
                 <div class="main-data">
-                    <img src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
+                    <img class="custom-animation custom-animation-bottom" src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
                     <div class="description">
-                        <h1><?php echo $productoHERE['nombre']  ?></h1>
-                        <img src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
-                        <p><?php echo $productoHERE['resumen']  ?></p>
-                        <div class="buttons-wrapper">
+                        <h1 class="custom-animation custom-animation-bottom"><?php echo $productoHERE['nombre']  ?></h1>
+                        <img class="custom-animation custom-animation-bottom" src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
+                        <p class="custom-animation custom-animation-top"><?php echo $productoHERE['resumen']  ?></p>
+                        <div class="buttons-wrapper custom-animation custom-animation-top">
                             <a class="main-button blue-button ghost-button"><span>Llamar</span></a>
-                            <a target="_blank" href="<?php echo 'https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20quisiera%20cotizar%20'.$productoHERE['nombre'] ?>" class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Solicitar cotización</span></a>
+                            <a target="_blank" href="<?php echo 'https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20quisiera%20cotizar%20'.$productoHERE['nombre'] ?>%20%E2%9D%84%EF%B8%8F" class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Solicitar cotización</span></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="tabs-data">
                     <div class="tabs">
-                        <button tab="desc" class="tab active">Descripción</button>
-                        <button tab="specs" class="tab">Especificaciones</button>
-                        <button tab="docs" class="tab">Documentación</button>
+                        <button tab="desc" class="tab active custom-animation custom-animation-bottom">Descripción</button>
+                        <button tab="specs" class="tab custom-animation custom-animation-bottom">Especificaciones</button>
+                        <button tab="docs" class="tab custom-animation custom-animation-bottom">Documentación</button>
                     </div>
                     <div class="info">
                         <div class="tab-info" id="desc">
@@ -123,13 +123,13 @@
     <div class="main-wrapper">
         <div class="general-max-width">
             <div class="title-centered">
-                <h3>Otros productos</h3>
-                <h2>También te puede interesar</h2>
+                <h3 class="custom-animation custom-animation-bottom">Otros productos</h3>
+                <h2 class="custom-animation custom-animation-top">También te puede interesar</h2>
                 <div class="refacciones-grid mt-2">
                     <?php
                         foreach ($otherProductsToShow as $otherProduct) {
                             echo '
-                            <a href="/equipos/detalle.php?idProducto='.$otherProduct['id'].'" class="refaccion equipo-item">
+                            <a href="/equipos/detalle.php?idProducto='.$otherProduct['id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/'.$otherProduct['imagen_url'].'" alt="">
                                 <h2>'.$otherProduct['nombre'].'</h2>
                             </a>';
@@ -140,16 +140,7 @@
         </div>
     </div>
 
-    <div class="main-wrapper big-wrapper servicio-integral-wrapper">
-        <div class="general-max-width">
-            <div class="title-centered">
-                <h3>¿No encuentras lo que buscas?</h3>
-                <h2>Tenemos el equipo que necesitas</h2>
-                <p class="text-centered">Contamos con la gama completa en equipos de refrigeración para transportes</p>
-                <button class="mt-2 main-button green-button"><span>Contactar</span></button>
-            </div>
-        </div>
-    </div>
+    <?php include('../partial_views/lo_que_buscas.php') ?>
     <?php include('../partial_views/footer.php') ?>
 </body>
 </html>

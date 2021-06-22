@@ -2,6 +2,7 @@
     position: relative;
     top: 0;
     z-index: 100;
+    overflow: initial;
 
     .data-contact {
         display: flex;
@@ -42,7 +43,7 @@
         }
     }
 
-    button.main-button.green-button {
+    a.main-button.green-button {
         padding: 11px 1rem;
         span {
             font-size: 14px;
@@ -190,6 +191,7 @@
     &.nav-mobile {
         display: none;
         box-shadow: 0px 3px 8px rgba(black, 0.08);
+        overflow: initial;
         @media #{$ipad} {
             display: block;
         }
@@ -222,6 +224,11 @@
                     i {
                         font-size: 2rem;
                     }
+                }
+
+                .main-button {
+                    padding: 0 1rem;
+                    height: 44px;
                 }
 
                 .phone {

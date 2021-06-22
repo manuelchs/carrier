@@ -152,6 +152,10 @@
                 display: none;
             }
 
+            .tab-info {
+                animation: justOpacity .5s;
+            }
+
             #desc {
                 display: block;
             }
@@ -195,5 +199,16 @@
                 }
             }
         }
+    }
+}
+
+@keyframes justOpacity {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0px);
     }
 }

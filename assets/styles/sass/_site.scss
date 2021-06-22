@@ -51,7 +51,7 @@ body {
     overflow-x: hidden;
 
     & > * {
-        // overflow-x: hidden;
+        overflow-x: hidden;
     }
 }
 
@@ -500,7 +500,7 @@ textarea {
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        button {
+        button, a {
             @media #{$ipad} {
                 margin: auto;
             }

@@ -22,6 +22,10 @@ $(document).ready( function() {
         $(this).parent().find('.links-list').toggle(100);
     });
 
+    $(window).scroll( function(e) {
+        animateScroll();
+    });
+
 });
 
 function animateScroll() {

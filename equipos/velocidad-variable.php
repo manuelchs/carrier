@@ -22,9 +22,9 @@
     <div class="hero shop-hero velocidad-hero">
         <div class="general-max-width">
             <div class="info">
-                <h3>Equipos</h3>
-                <h1>Unidades para velocidad variables</h1>
-                <p>Las unidades de refrigeración de transmisión directa de Carrier Transicold están diseñadas específicamente para el transporte de productos frescos o congelados en vehículos de reparto de tamaño pequeño a mediano.</p>
+                <h3 class="custom-animation custom-animation-bottom">Equipos</h3>
+                <h1 class="custom-animation custom-animation-top">Unidades para velocidad variables</h1>
+                <p class="custom-animation custom-animation-bottom">Las unidades de refrigeración de transmisión directa de Carrier Transicold están diseñadas específicamente para el transporte de productos frescos o congelados en vehículos de reparto de tamaño pequeño a mediano.</p>
             </div>
 
             <div class="img">
@@ -35,15 +35,15 @@
     <div class="main-wrapper shop">
         <div class="general-max-width">
             <div class="title-shop">
-                <h1>Productos</h1>
-                <div class="route"><a href="/equipos.php">Productos</a><i class="fal fa-chevron-right"></i><span>Velocidad variable</span></div>
+                <h1 class="custom-animation custom-animation-bottom">Productos</h1>
+                <div class="route custom-animation custom-animation-top"><a href="/equipos.php">Productos</a><i class="fal fa-chevron-right"></i><span>Velocidad variable</span></div>
                 <h3 class="mb-2">Velocidad variable</h3>
             </div>
             <div class="refacciones-grid">
                 <?php
                     foreach( $productos as $producto ) {
                         echo '
-                        <a href="/equipos/detalle.php?idProducto='.$producto['id'].'" class="refaccion equipo-item">
+                        <a href="/equipos/detalle.php?idProducto='.$producto['id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
                             <img src="/assets/db/images/'.$producto['imagen_url'].'" alt="">
                             <h2>'.$producto['nombre'].'</h2>
                         </a>';
@@ -52,16 +52,7 @@
             </div>
         </div>
     </div>
-    <div class="main-wrapper big-wrapper servicio-integral-wrapper">
-        <div class="general-max-width">
-            <div class="title-centered">
-                <h3>¿No encuentras lo que buscas?</h3>
-                <h2>Tenemos el equipo que necesitas</h2>
-                <p class="text-centered">Contamos con la gama completa en equipos de refrigeración para transportes</p>
-                <button class="mt-2 main-button green-button"><span>Contactar</span></button>
-            </div>
-        </div>
-    </div>
+    <?php include('../partial_views/lo_que_buscas.php') ?>
     <?php include('../partial_views/footer.php') ?>
 </body>
 </html>

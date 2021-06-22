@@ -48,7 +48,7 @@
                 <img src="/assets/images/logo-carrier-transicold.png" alt="">
             </a>
             <div class="data-contact">
-                <a class="data-contact-item">
+                <a target="_blank" href="https://goo.gl/maps/Kiqo5HrHDqkMdMDq8" class="data-contact-item">
                     <div class="icon">
                         <i class="fas fa-map-marker-alt"></i>
                     </div>
@@ -58,7 +58,7 @@
                     </div>
                 </a>
 
-                <a class="data-contact-item">
+                <a href="tel:+553336891067" class="data-contact-item">
                     <div class="icon">
                         <i class="fas fa-phone"></i>
                     </div>
@@ -68,17 +68,17 @@
                     </div>
                 </a>
 
-                <a class="data-contact-item">
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20estoy%20interesado%20en%20equipo%20de%20refrigeraci%C3%B3n%20para%20mi%20transporte%20%E2%9D%84%EF%B8%8F" class="data-contact-item">
                     <div class="icon">
                         <i class="fab fa-whatsapp"></i>
                     </div>
                     <div class="description">
-                        <div class="title">(33) 3689 1067</div>
+                        <div class="title">(33) 3454 0499</div>
                         <div class="subtitle">Whatsapp</div>
                     </div>
                 </a>
             </div>
-            <button class="main-button green-button icon icon-left hover-white"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></button>
+            <a target="_blank" href="https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20estoy%20interesado%20en%20equipo%20de%20refrigeraci%C3%B3n%20para%20mi%20transporte%20%E2%9D%84%EF%B8%8F" class="main-button green-button icon icon-left hover-white"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></a>
         </div>
     </div>
 
@@ -143,7 +143,7 @@
                     <div id="sliderDos" class="slider column">
                         <div id="itemDos1" class="slider-item">
                             <div class="data-contact">
-                                <a class="data-contact-item">
+                                <a target="_blank" href="https://goo.gl/maps/Kiqo5HrHDqkMdMDq8" class="data-contact-item">
                                     <div class="icon">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
@@ -156,7 +156,7 @@
                         </div>
                         <div id="itemDos2" class="slider-item">
                             <div class="data-contact">
-                                <a class="data-contact-item">
+                                <a href="tel:+553336891067" class="data-contact-item">
                                     <div class="icon">
                                         <i class="fas fa-phone"></i>
                                     </div>
@@ -169,12 +169,12 @@
                         </div>
                         <div id="itemDos3" class="slider-item">
                             <div class="data-contact">
-                                <a class="data-contact-item">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20estoy%20interesado%20en%20equipo%20de%20refrigeraci%C3%B3n%20para%20mi%20transporte%20%E2%9D%84%EF%B8%8F" class="data-contact-item">
                                     <div class="icon">
                                         <i class="fab fa-whatsapp"></i>
                                     </div>
                                     <div class="description">
-                                        <div class="title">(33) 3689 1067</div>
+                                        <div class="title">(33) 3454 0499</div>
                                         <div class="subtitle">Whatsapp</div>
                                     </div>
                                 </a>
@@ -187,8 +187,8 @@
         <div class="bottom-section">
             <div class="general-max-width">
                 <button id="barsButtonMobile" class="bars"><i class="fas fa-bars"></i></button>
-                <a class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></a>
-                <a class="phone"><i class="fas fa-phone"></i></a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20estoy%20interesado%20en%20equipo%20de%20refrigeraci%C3%B3n%20para%20mi%20transporte%20%E2%9D%84%EF%B8%8F" class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></a>
+                <a href="tel:+553336891067" class="phone"><i class="fas fa-phone"></i></a>
             </div>
         </div>
     </div>

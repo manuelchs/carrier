@@ -152,9 +152,10 @@
             }
         }
     }
-    button {
+    a {
         margin: auto;
         margin-top: 3rem;
+        max-width: 220px;
     }
 }
 
@@ -206,7 +207,8 @@
             }
         }
 
-        button {
+        a {
+            max-width: 220px;
             @media #{$ipad} {
                 margin: auto;
                 margin-bottom: 4rem;
