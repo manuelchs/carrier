@@ -1,38 +1,56 @@
-<?php
-    $producto = null;
-    $idProducto = $_GET["idProducto"];
-    $stringJSON = file_get_contents("../assets/db/productos.json");
-    $db = json_decode($stringJSON, true);
-
-    foreach ($db['carrierProductos'] as $product) {
-        if ( $product['id'] == $idProducto ) {
-            $producto = $product;
-            break;
-        }
-    }
-?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <?php include('../partial_views/head_tag.php') ?>
-    <title><?php echo $producto['nombre'] ?> - Carrier Transicold</title>
+    <?php
+        $productoHEREHERE = null;
+        $idProducto = $_GET["idProducto"];
+        $otherProducts = [];
+        $otherProductsToShow = [];
+
+        foreach ($db['carrierProductos'] as $product) {
+            if ( $product['id'] == $idProducto ) {
+                $productoHERE = $product;
+                break;
+            }
+        }
+        
+        foreach ($db['carrierProductos'] as $product) {
+            if ( $product['categoria'] == $productoHERE['categoria'] && $product['id'] != $idProducto ) {
+                array_push($otherProducts, $product);
+            }
+        }
+
+        for ( $x = 0; $x < 4; $x++ ) {
+            $indexProduct = rand(0, count($otherProducts) - 1);
+            array_push($otherProductsToShow, $otherProducts[$indexProduct]);
+        }
+    ?>
+    <title><?php echo $productoHERE['nombre'] ?> - Carrier Transicold</title>
     <script src="/assets/scripts/sliders-equipo/tabs.js"></script>
-    <meta property=”og:title” content="<?php echo $producto['nombre'] ?> - Carrier Transicold" />
-    <meta property=”og:description” content="<?php echo $producto['resumen'] ?>"/>
-    <meta property=”og:image” content="<?php echo '/assets/db/images/'.$producto['imagen_url']; ?>" />
+    <meta property=”og:title” content="<?php echo $productoHERE['nombre'] ?> - Carrier Transicold" />
+    <meta property=”og:description” content="<?php echo $productoHERE['resumen'] ?>"/>
+    <meta property=”og:image” content="<?php echo '/assets/db/images/'.$productoHERE['imagen_url']; ?>" />
 </head>
 <body>
     <?php $page = 'equipos'; ?>
     <?php include('../partial_views/navbar.php') ?>
-
     <div class="main-wrapper detail-route">
         <div class="general-max-width">
             <div class="route">
                 <a href="/equipos.php">Productos</a>
                 <i class="fal fa-chevron-right"></i>
-                <a href="/equipos/velocidad-variable.php"><?php echo $producto['categoria']  ?></a>
+                <?php
+                    if ( $productoHERE['categoria'] == 'Velocidad variable' ) {
+                        echo '<a href="/equipos/velocidad-variable.php">'.$productoHERE['categoria'].'</a>';
+                    } else if ( $productoHERE['categoria'] == 'Camión' ) {
+                        echo '<a href="/equipos/camion.php">'.$productoHERE['categoria'].'</a>';
+                    } else {
+                        echo '<a href="/equipos/trailer.php">'.$productoHERE['categoria'].'</a>';
+                    }
+                ?>
                 <i class="fal fa-chevron-right"></i>
-                <span><?php echo $producto['nombre']  ?></span>
+                <span><?php echo $productoHERE['nombre']  ?></span>
             </div>
         </div>
     </div>
@@ -41,14 +59,14 @@
         <div class="general-max-width">
             <div class="detail-container">
                 <div class="main-data">
-                    <img src="<?php echo '/assets/db/images/'.$producto['imagen_url'];  ?>" alt="">
+                    <img src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
                     <div class="description">
-                        <h1><?php echo $producto['nombre']  ?></h1>
-                        <img src="<?php echo '/assets/db/images/'.$producto['imagen_url'];  ?>" alt="">
-                        <p><?php echo $producto['resumen']  ?></p>
+                        <h1><?php echo $productoHERE['nombre']  ?></h1>
+                        <img src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
+                        <p><?php echo $productoHERE['resumen']  ?></p>
                         <div class="buttons-wrapper">
                             <a class="main-button blue-button ghost-button"><span>Llamar</span></a>
-                            <a target="_blank" href="<?php echo 'https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20quisiera%20cotizar%20'.$producto['nombre'] ?>" class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Solicitar cotización</span></a>
+                            <a target="_blank" href="<?php echo 'https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20quisiera%20cotizar%20'.$productoHERE['nombre'] ?>" class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Solicitar cotización</span></a>
                         </div>
                     </div>
                 </div>
@@ -63,9 +81,9 @@
                         <div class="tab-info" id="desc">
                             <?php
                                 $index = 1;
-                                foreach ($producto['descripcion'] as $descripcion) {
+                                foreach ($productoHERE['descripcion'] as $descripcion) {
                                     $desc = '<span class="text-bold">'.$descripcion['titulo'].'</span>'.' <span>'.$descripcion['descripcion'].'</span>';
-                                    if ( $index < count($producto['descripcion']) ) {
+                                    if ( $index < count($productoHERE['descripcion']) ) {
                                         $desc = $desc.'<br><br>';
                                     }
                                     echo $desc;
@@ -77,9 +95,9 @@
                             <?php
                                 $index = 1;
                                 $spec = '';
-                                foreach ($producto['especificaciones'] as $especificacion) {
+                                foreach ($productoHERE['especificaciones'] as $especificacion) {
                                     $spec = '<span class="text-bold">'.$especificacion['titulo'].'</span><br>'.' <span>'.$especificacion['descripcion'].'</span>';
-                                    if ( $index < count($producto['especificaciones']) ) {
+                                    if ( $index < count($productoHERE['especificaciones']) ) {
                                         $spec = $spec.'<br><br>';
                                     }
                                     echo $spec;
@@ -90,7 +108,7 @@
                         <div class="tab-info" id="docs">
                             <?php
                                 $docs = '';
-                                foreach ($producto['documentos'] as $documento) {
+                                foreach ($productoHERE['documentos'] as $documento) {
                                     $docs = '<a target="_blank" href="/assets/db/docs/'.$documento['url'].'" class="doc"><span><i class="fas fa-file-download"></i> '.$documento['nombre'].'</span> <span>Descargar<i class="far fa-long-arrow-right"></i></span></a>';
                                     echo $docs;
                                 }
@@ -108,22 +126,15 @@
                 <h3>Otros productos</h3>
                 <h2>También te puede interesar</h2>
                 <div class="refacciones-grid mt-2">
-                    <a class="refaccion equipo-item">
-                        <img src="/assets/images/refacciones/refas/aceite-sintetico-poe.png" alt="">
-                        <h2>aceite sintetico poe</h2>
-                    </a>
-                    <a class="refaccion equipo-item">
-                        <img src="/assets/images/refacciones/refas/aceite-sintetico-poe.png" alt="">
-                        <h2>aceite sintetico poe</h2>
-                    </a>
-                    <a class="refaccion equipo-item">
-                        <img src="/assets/images/refacciones/refas/aceite-sintetico-poe.png" alt="">
-                        <h2>aceite sintetico poe</h2>
-                    </a>
-                    <a class="refaccion equipo-item">
-                        <img src="/assets/images/refacciones/refas/aceite-sintetico-poe.png" alt="">
-                        <h2>aceite sintetico poe</h2>
-                    </a>
+                    <?php
+                        foreach ($otherProductsToShow as $otherProduct) {
+                            echo '
+                            <a href="/equipos/detalle.php?idProducto='.$otherProduct['id'].'" class="refaccion equipo-item">
+                                <img src="/assets/db/images/'.$otherProduct['imagen_url'].'" alt="">
+                                <h2>'.$otherProduct['nombre'].'</h2>
+                            </a>';
+                        }
+                    ?>
                 </div>
             </div>
         </div>

@@ -5,8 +5,17 @@
     background-position: center;
     background-size: cover;
 
-    &.velocidad-hero {
-        background-image: url('/assets/images/equipos/velocidad/unidades-velocidad-variable.jpg');
+    &.shop-hero {
+        &.velocidad-hero {
+            background-image: url('/assets/images/equipos/unidades-velocidad-variable.jpg');
+        }
+        &.camion-hero {
+            background-image: url('/assets/images/equipos/unidades-camion.jpg');
+        }
+
+        &.trailer-hero {
+            background-image: url('/assets/images/equipos/unidades-trailer.jpg');
+        }
 
         .info {
             h1,h3,h2, p {

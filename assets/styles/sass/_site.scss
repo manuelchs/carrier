@@ -231,6 +231,10 @@ p {
     font-weight: bold;
 }
 
+a {
+    text-decoration: none;
+}
+
 .main-button {
     border-radius: 4px;
     padding: 11px 1rem;
@@ -315,13 +319,15 @@ p {
             color: white;
         }
 
-        &:hover {
-            background-color: white;
-            span {
-                color: var(--green-color);
-            }
-            &.icon i {
-                color: var(--green-color);
+        &.hover-white {
+            &:hover {
+                background-color: white;
+                span {
+                    color: var(--green-color);
+                }
+                &.icon i {
+                    color: var(--green-color);
+                }
             }
         }
     }

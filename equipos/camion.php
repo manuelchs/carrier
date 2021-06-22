@@ -4,7 +4,7 @@
     $db = json_decode($stringJSON, true);
     
     foreach ($db['carrierProductos'] as $product) {
-        if ( $product['categoria'] == 'Velocidad variable') {
+        if ( $product['categoria'] == 'Camión') {
             array_push($productos, $product);
         }
     }
@@ -13,20 +13,19 @@
 <html lang="es">
 <head>
     <?php include('../partial_views/head_tag.php') ?>
-    <title>Carrier Transicold - Equipos - Velocidad variable</title>
+    <title>Carrier Transicold - Equipos - Camión</title>
 </head>
 <body>
     <?php $page = 'equipos'; ?>
     <?php include('../partial_views/navbar.php') ?>
 
-    <div class="hero shop-hero velocidad-hero">
+    <div class="hero shop-hero camion-hero">
         <div class="general-max-width">
             <div class="info">
                 <h3>Equipos</h3>
-                <h1>Unidades para velocidad variables</h1>
-                <p>Las unidades de refrigeración de transmisión directa de Carrier Transicold están diseñadas específicamente para el transporte de productos frescos o congelados en vehículos de reparto de tamaño pequeño a mediano.</p>
+                <h1>Unidades para camión</h1>
+                <p>La calidad de siempre, todo el nuevo poder de Supra. Con nueva tecnología, arquitectura de primera clase, mantenimiento reducido y costos operativos más bajos. No hay mejor momento para actualizar a la serie Supra®.</p>
             </div>
-
             <div class="img">
             </div>
         </div>
@@ -36,8 +35,8 @@
         <div class="general-max-width">
             <div class="title-shop">
                 <h1>Productos</h1>
-                <div class="route"><a href="/equipos.php">Productos</a><i class="fal fa-chevron-right"></i><span>Velocidad variable</span></div>
-                <h3 class="mb-2">Velocidad variable</h3>
+                <div class="route"><a href="/equipos.php">Productos</a><i class="fal fa-chevron-right"></i><span>Camión</span></div>
+                <h3 class="mb-2">Camión</h3>
             </div>
             <div class="refacciones-grid">
                 <?php

@@ -21,7 +21,7 @@
                         <img class="img-movil slider-item-animation" src="/assets/images/home/equipos-carrier-transicold-hero.png" alt="">
                         <div class="buttons-section slider-item-animation">
                             <button class="main-button white-button"><span>Ver más</span></button>
-                            <button class="main-button ml-1 green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
+                            <button class="main-button ml-1 green-button icon icon-left hover-white"><i class="fas fa-phone"></i><span>Llamar</span></button>
                         </div>
                     </div>
                     <div class="slider-section">
@@ -115,7 +115,7 @@
                 </div>
                 <p>Contamos con la línea completa de equipos y servicios para el transporte refrigerado.</p>
                 <div class="buttons-section">
-                    <button class="main-button green-button"><span>Contactar</span></button>
+                    <button class="main-button green-button hover-white"><span>Contactar</span></button>
                 </div>
             </div>
         </div>
@@ -163,7 +163,7 @@
                 </div>
                 <p>Servicio técnico especializado en refrigeración para camiones, tráilers, VCL y contenedores.</p>
                 <div class="buttons-section">
-                    <button class="main-button green-button icon icon-left"><i class="fas fa-phone"></i><span>Llamar</span></button>
+                    <button class="main-button green-button icon icon-left hover-white"><i class="fas fa-phone"></i><span>Llamar</span></button>
                 </div>
             </div>
         </div>

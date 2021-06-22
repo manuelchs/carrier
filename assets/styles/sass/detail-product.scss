@@ -1,4 +1,5 @@
 .detail-route {
+    padding: 2rem 0;
     .route {
         a {
             text-decoration: none;
@@ -15,16 +16,26 @@
             margin: 0 1rem;
         }
     }
+    @media #{$ipad} {
+        display: none;
+    }
 }
 
 .detail-wrapper {
-    margin-bottom: 4rem;
+    @media #{$ipad} {
+        border-bottom: 1px solid var(--gray-2);
+    }
 }
 
 .detail-container {
     border: 1px solid var(--gray-1);
     border-radius: 8px;
     padding: 3rem;
+
+    @media #{$ipad} {
+        padding: 2rem 0;
+        border: 0;
+    }
 
     .main-data {
         display: flex;
@@ -47,12 +58,18 @@
                 display: none;
                 @media #{$ipad} {
                     display: block;
+                    width: 100%;
+                    margin-top: 1.5rem;
                 }
             }
 
             h1 {
                 font-size: 40px;
                 color: var(--blue-color);
+                @media #{$ipad} {
+                    font-size: 2rem;
+                    text-align: center;
+                }
             }
             p {
                 margin-top: 1.5rem;
@@ -67,6 +84,14 @@
                 a {
                     &:last-child {
                         margin-left: 1rem;
+                        @media #{$ipad} {
+                            width: 65%;
+                        }
+                    }
+                    
+                    @media #{$ipad} {
+                        min-width: unset;
+                        width: 35%;
                     }
                 }
             }
@@ -78,10 +103,25 @@
         border-top: 1px solid var(--gray-1);
         padding: 4rem 0;
         padding-bottom: 0;
+
+        @media #{$ipad} {
+            padding: 2rem 0;
+            margin-top: 2rem;
+        }
         .tabs {
             display: flex;
             justify-content: flex-start;
             align-items: center;
+
+            @media #{$ipad} {
+                width: 100%;
+                overflow-x: scroll;
+                -ms-overflow-style: none;  /* IE and Edge */
+                scrollbar-width: none;  /* Firefox */
+                &::-webkit-scrollbar {
+                    display: none;
+                }
+            }
 
             .tab {
                 padding: 1rem;

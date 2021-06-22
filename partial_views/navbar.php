@@ -1,3 +1,46 @@
+<?php
+    $productosVelocidad = [];
+    $productosCamion = [];
+    $productosTrailer = [];
+    
+    foreach ($db['carrierProductos'] as $product) {
+        if ( $product['categoria'] == 'Velocidad variable') {
+            array_push($productosVelocidad, $product);
+        }
+        if ( $product['categoria'] == 'Camión') {
+            array_push($productosCamion, $product);
+        }
+        if ( $product['categoria'] == 'Tráiler') {
+            array_push($productosTrailer, $product);
+        }
+    }
+?>
+<!-- Messenger plugin de chat Code -->
+<div id="fb-root"></div>
+
+<!-- Your plugin de chat code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
+
+<script>
+  var chatbox = document.getElementById('fb-customer-chat');
+  chatbox.setAttribute("page_id", "106651161159490");
+  chatbox.setAttribute("attribution", "page_inbox");
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v11.0'
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
 <nav class="nav nav-desktop">
     <div class="white-section">
         <div class="general-max-width">
@@ -35,7 +78,7 @@
                     </div>
                 </a>
             </div>
-            <button class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></button>
+            <button class="main-button green-button icon icon-left hover-white"><i class="fab fa-whatsapp"></i><span>Chatear por Whatsapp</span></button>
         </div>
     </div>
 
@@ -50,30 +93,27 @@
                     <div class="submenu-navbar">
                         <div class="menu-list">
                             <span>Velocidad variable</span>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
+                            <?php
+                                foreach( $productosVelocidad as $producto ) {
+                                    echo '<a href="/equipos/detalle.php?idProducto='.$producto['id'].'">'.$producto['nombre'].'</a>';
+                                }
+                            ?>
                         </div>
                         <div class="menu-list">
-                            <span>Velocidad variable</span>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
+                            <span>Camión</span>
+                            <?php
+                                foreach( $productosCamion as $producto ) {
+                                    echo '<a href="/equipos/detalle.php?idProducto='.$producto['id'].'">'.$producto['nombre'].'</a>';
+                                }
+                            ?>
                         </div>
                         <div class="menu-list">
-                            <span>Velocidad variable</span>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
-                            <a href="#">Supra 505 con standby 202V</a>
+                            <span>Tráiler</span>
+                            <?php
+                                foreach( $productosTrailer as $producto ) {
+                                    echo '<a href="/equipos/detalle.php?idProducto='.$producto['id'].'">'.$producto['nombre'].'</a>';
+                                }
+                            ?>
                         </div>
                     </div>
                 </li>
@@ -175,52 +215,37 @@
                 <i class="far fa-plus"></i>
             </div>
             <div class="links-list">
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
+                <?php
+                    foreach( $productosVelocidad as $producto ) {
+                        echo '<a href="/equipos/detalle.php?idProducto='.$producto['id'].'">'.$producto['nombre'].'</a>';
+                    }
+                ?>
             </div>
         </div>
         <div class="links-item">
             <div class="title">
-                <span>Velocidad Variable</span>
+                <span>Camión</span>
                 <i class="far fa-plus"></i>
             </div>
             <div class="links-list">
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
+                <?php
+                    foreach( $productosCamion as $producto ) {
+                        echo '<a href="/equipos/detalle.php?idProducto='.$producto['id'].'">'.$producto['nombre'].'</a>';
+                    }
+                ?>
             </div>
         </div>
         <div class="links-item">
             <div class="title">
-                <span>Velocidad Variable</span>
+                <span>Tráiler</span>
                 <i class="far fa-plus"></i>
             </div>
             <div class="links-list">
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
-                <a href="#">Supra 550 con stand by</a>
+                <?php
+                    foreach( $productosTrailer as $producto ) {
+                        echo '<a href="/equipos/detalle.php?idProducto='.$producto['id'].'">'.$producto['nombre'].'</a>';
+                    }
+                ?>
             </div>
         </div>
     </div>
