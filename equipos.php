@@ -5,6 +5,7 @@
     <script src="/assets/scripts/sliders-equipo/velocidad.js"></script>
     <script src="/assets/scripts/sliders-equipo/camion.js"></script>
     <script src="/assets/scripts/sliders-equipo/trailer.js"></script>
+    <script src="/assets/scripts/sliders-equipo/cuadrito.js"></script>
     <title>Carrier Transicold - Equipos</title>
 </head>
 <body>
@@ -328,6 +329,19 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+    <div id="help" class="need-help-wrapper">
+        <img src="/assets/images/home/servicios-servicio.png" alt="">
+        <div class="description">
+            <div class="question">
+                <h4>¿Necesitas ayuda?</h4>
+                <h3>Te asesoramos en la selección de tu unidad</h3>
+            </div>
+            <div class="actions">
+                <button id="closeHelp" class="close"><i class="far fa-times"></i></button>
+                <a href="https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20%C2%BFPueden%20ayudarme%20a%20seleccionar%20un%20equipo%3F%20%E2%9D%84%EF%B8%8F" target="_blank" class="main-button green-button"><span>Contactar</span></a>
             </div>
         </div>
     </div>
