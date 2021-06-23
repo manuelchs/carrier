@@ -218,6 +218,11 @@
 }
 
 .contact-form-wrapper {
+    @media #{$ipad} {
+        overflow: initial;
+        z-index: 1;
+        position: relative;
+    }
     .general-max-width {
         display: flex;
         justify-content: flex-start;
