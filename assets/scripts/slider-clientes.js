@@ -92,20 +92,20 @@ $(function () {
 		$('#sliderClientes .slider-item').each(function (i, e) {
 			if (i == 0) {
 				if (pos - 1 == 0) {
-					els.push($("div[id='item" + $('#sliderClientes .slider-item').length + "']")[0]);
+					els.push($("div[id='itemClientes" + $('#sliderClientes .slider-item').length + "']")[0]);
 				} else {
 					newPos = parseInt(pos - 1);
-					els.push($("div[id='item" + newPos + "']")[0]);
+					els.push($("div[id='itemClientes" + newPos + "']")[0]);
 
 				}
 			} else if (i == 1) {
-				els.push($("div[id='item" + pos + "']")[0]);
+				els.push($("div[id='itemClientes" + pos + "']")[0]);
 			} else if (parseInt(pos) + parseInt(i) - 1 > $('#sliderClientes .slider-item').length) {
-				els.push($("div[id='item" + x + "']")[0]);
+				els.push($("div[id='itemClientes" + x + "']")[0]);
 				x++;
 			} else {
 				newPos = parseInt(pos) + parseInt(i) - 1;
-				els.push($("div[id='item" + newPos + "']")[0]);
+				els.push($("div[id='itemClientes" + newPos + "']")[0]);
 			}
 		});
 		$('#sliderClientes').html(els);
