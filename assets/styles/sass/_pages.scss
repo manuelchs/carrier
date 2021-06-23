@@ -5,6 +5,10 @@
     background-position: center;
     background-size: cover;
 
+    @media #{$ipad} {
+        overflow: initial;
+    }
+
     &.shop-hero {
         &.velocidad-hero {
             background-image: url('/assets/images/equipos/unidades-velocidad-variable.jpg');
