@@ -1,13 +1,25 @@
 $(function () {
 	var animationTime = 300;
 
-	var hammer    = new Hammer(document.getElementById('sliderClientes'));
-    hammer.on('swipeleft', function(){
+	var autoAnimation;
+
+    autoAnimate();
+
+	var hammerClientes    = new Hammer(document.getElementById('sliderClientes'));
+    hammerClientes.on('swipeleft', function(){
+        clearInterval(autoAnimation);
 		moverD();
+		setTimeout(function() {
+			autoAnimate();
+		}, 3000);
     });
     
-    hammer.on('swiperight', function(){
+    hammerClientes.on('swiperight', function(){
+        clearInterval(autoAnimation);
 		moverI();
+		setTimeout(function() {
+			autoAnimate();
+		}, 3000);
 	});
 
 
@@ -109,6 +121,12 @@ $(function () {
 			}
 		});
 		$('#sliderClientes').html(els);
+	}
+
+	function autoAnimate() {
+		autoAnimation = setInterval(function() {
+			moverD();
+		}, 5000);
 	}
 
 });
