@@ -8,9 +8,9 @@ $(function () {
 
 	var autoAnimation;
 
-    // autoAnimate();
+    autoAnimate();
 
-	// activeVisiblePage(currentPosition);
+	activeVisiblePage(currentPosition);
 
 	var hammer    = new Hammer(document.getElementById('slider'));
     hammer.on('swipeleft', function(){
@@ -166,8 +166,8 @@ $(function () {
 
 	function autoAnimate() {
 		autoAnimation = setInterval(function() {
-			// moverD();
-		}, 7000);
+			moverD();
+		}, 5000);
 	}
 
 });
