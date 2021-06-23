@@ -20,7 +20,7 @@
             </div>
 
             <div class="img">
-                <img src="/assets/db/images/hero-equipos.png" alt="">
+                <img src="/assets/images/equipos/hero-equipos.png" alt="">
             </div>
         </div>
     </div>

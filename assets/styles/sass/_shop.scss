@@ -160,13 +160,17 @@
         .slider {
             @media #{$ipad} {
                 margin-left: 0 !important;
-                width: 450% !important;
+                width: 750% !important;
             }
         }
         .slider-item {
             @media #{$ipad} {
                 margin-left: 1rem;
-                width: 150%;
+                width: 250%;
+                display: flex;
+                justify-content: flex-start;
+                align-items: flex-start;
+                flex-direction: revert;
             }
             &:last-child {
                 @media #{$ipad} {
