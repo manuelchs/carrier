@@ -136,7 +136,7 @@ $(function(){
     function autoAnimate() {
 		autoAnimation = setInterval(function() {
 			moverD();
-		}, 5000);
+		}, 3000);
 	}
 
 });

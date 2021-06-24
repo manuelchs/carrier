@@ -2,6 +2,7 @@
     "carrierProductos": [
         {
             "id": "0",
+            "url_id": "Citimax-280-Hot-gas-R-404-12v-LA",
             "nombre": "Citimax 280 Hot gas R 404 12v LA",
             "imagen_url": "citimax-280.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -47,6 +48,7 @@
         },
         {
             "id": "1",
+            "url_id": "Citimax-350-Hot-gas-R-404-12v-LA",
             "nombre": "Citimax 350 Hot gas R 404 12v LA",
             "imagen_url": "citimax-350.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -93,6 +95,7 @@
         },
         {
             "id": "2",
+            "url_id": "Citimax-350-Hot-gas-R-404-24v-LA",
             "nombre": "Citimax 350 Hot gas R 404 24v LA",
             "imagen_url": "citimax-350.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -139,6 +142,7 @@
         },
         {
             "id": "3",
+            "url_id": "Citimax-400-Hot-gas-R-404a-12v-LA",
             "nombre": "Citimax 400 Hot gas R 404a 12v LA",
             "imagen_url": "citimax-400.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -184,6 +188,7 @@
         },
         {
             "id": "4",
+            "url_id": "Citimax-400-Hot-gas-R-404a-24v-LA",
             "nombre": "Citimax 400 Hot gas R 404a 24v LA",
             "imagen_url": "citimax-400.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -229,6 +234,7 @@
         },
         {
             "id": "5",
+            "url_id": "Citimax-500-R404A-12v-LA",
             "nombre": "Citimax 500 R404A 12v LA",
             "imagen_url": "citimax-500.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -274,6 +280,7 @@
         },
         {
             "id": "6",
+            "url_id": "Citimax-500-R404A-24v-LA",
             "nombre": "Citimax 500 R404A 24v LA",
             "imagen_url": "citimax-500.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -319,6 +326,7 @@
         },
         {
             "id": "7",
+            "url_id": "Citimax-700-R404A-12v-LA",
             "nombre": "Citimax 700 R404A 12v LA",
             "imagen_url": "citimax-700.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -364,6 +372,7 @@
         },
         {
             "id": "8",
+            "url_id": "Citimax-700-R404A-24v-LA",
             "nombre": "Citimax 700 R404A 24v LA",
             "imagen_url": "citimax-700.png",
             "resumen": "Necesitan un entorno estable durante el transporte con temperatura controlada y la capacidad de mantener la integridad de la cadena de frío.",
@@ -409,6 +418,7 @@
         },
         {
             "id": "9",
+            "url_id": "Citifresh-500-R134a-12v-0°C",
             "nombre": "Citifresh 500 R134a 12v 0°C",
             "imagen_url": "citifresh-500.png",
             "resumen": "La unidad CITIFRESH es una unidad direct drive solo para producto fresco. Proporciona un desempeño óptimo en economía, innovación, confiabilidad. Una fácil instalación y aplicación para los retos actuales del transporte: altas temperaturas ambiente que exceden los 50°C. Usando un poderoso evaporador plano, la unidad soporta una capacidad máxima de volumen para cajas de hasta 36m3.",
@@ -466,6 +476,7 @@
         },
         {
             "id": "10",
+            "url_id": "Zephyr-30SE-Trifásico-230v/3-fases",
             "nombre": "Zephyr 30SE Trifásico 230v/3 fases",
             "imagen_url": "zephyr-30s.png",
             "resumen": "ZEPHYR 30S es un equipo frigorífico,diseñado específicamente para el transporte de alimentos frescos o congelados en vehículos de reparto de tamaño medio con volúmenes de hasta 23 m³.",
@@ -511,6 +522,7 @@
         },
         {
             "id": "11",
+            "url_id": "Xarios-350e-stand-by-12v-220V",
             "nombre": "Xarios 350e stand by 12v 220V",
             "imagen_url": "xarios-350.png",
             "resumen": "El XARIOS 350 es una unidad polea-motor especialmente diseñada para la distribución de productos frescos y ultracongelados en utilitarios de tamaño mediano con volúmenes de caja de hasta 32 m3.<br>Caracterizado por una estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo, el XARIOS 350 garantiza unos rendimientos y una fiabilidad inigualables a los vehículos de distribución urbana.",
@@ -552,6 +564,7 @@
         },
         {
             "id": "12",
+            "url_id": "Xarios-350e-stand-by-24v-220V",
             "nombre": "Xarios 350e stand by 24v 220V",
             "imagen_url": "xarios-350.png",
             "resumen": "El XARIOS 350 es una unidad polea-motor especialmente diseñada para la distribución de productos frescos y ultracongelados en utilitarios de tamaño mediano con volúmenes de caja de hasta 32 m3.<br>Caracterizado por una estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo, el XARIOS 350 garantiza unos rendimientos y una fiabilidad inigualables a los vehículos de distribución urbana.",
@@ -593,6 +606,7 @@
         },
         {
             "id": "13",
+            "url_id": "Xarios-500e-stand-by-12V-220V",
             "nombre": "Xarios 500e stand by 12V 220V",
             "imagen_url": "xarios-500.png",
             "resumen": "XARIOS 500 es una unidad de polea-motor especialmente diseñada para el reparto de productos frescos y congelados en vehículos utilitarios con volúmenes de caja de hasta 40m3.<br>Caracterizado por una nueva estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo y con una mayor capacidad de enfriamiento, el nuevo XARIOS 500 garantiza a los vehículos de reparto urbano, unos rendimientos y una fiabilidad inigualables.",
@@ -634,6 +648,7 @@
         },
         {
             "id": "14",
+            "url_id": "Xarios-500e-stand-by-24v-220V",
             "nombre": "Xarios 500e stand by 24v 220V",
             "imagen_url": "xarios-500.png",
             "resumen": "XARIOS 500 es una unidad de polea-motor especialmente diseñada para el reparto de productos frescos y congelados en vehículos utilitarios con volúmenes de caja de hasta 40m3.<br>Caracterizado por una nueva estética aerodinámica y un evaporador extraplano que permite cargar hasta 200 mm del techo y con una mayor capacidad de enfriamiento, el nuevo XARIOS 500 garantiza a los vehículos de reparto urbano, unos rendimientos y una fiabilidad inigualables.",
@@ -675,6 +690,7 @@
         },
         {
             "id": "15",
+            "url_id": "Xarios-600e-stand-by-12V-220V",
             "nombre": "Xarios 600e stand by 12V 220V",
             "imagen_url": "xarios-600.png",
             "resumen": "XARIOS 600 es una nueva unidad de polea motor de alta capacidad que ha sido especialmente diseñada para el transporte de alimentos frescos y congelados en vehículos grandes destinados al reparto de mercancías en cajas de hasta 48 m3 de volumen (productos frescos).",
@@ -716,6 +732,7 @@
         },
         {
             "id": "16",
+            "url_id": "Xarios-600e-stand-by-24v-220V",
             "nombre": "Xarios 600e stand by 24v 220V",
             "imagen_url": "xarios-600.png",
             "resumen": "XARIOS 600 es una nueva unidad de polea motor de alta capacidad que ha sido especialmente diseñada para el transporte de alimentos frescos y congelados en vehículos grandes destinados al reparto de mercancías en cajas de hasta 48 m3 de volumen (productos frescos).",
@@ -757,6 +774,7 @@
         },
         {
             "id": "17",
+            "url_id": "Supra-550-con-stand-by-220V",
             "nombre": "Supra 550 con stand by 220V",
             "imagen_url": "supra-550.png",
             "resumen": "Desarrollado para entornos de distribución con múltiples aperturas de puertas, la línea SUPRA rinde hasta en el trabajo más exigente.<br>Beneficios:<ul><li>Flujo de aire constante del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidades extremadamente silenciosas</li><li>Alto rendimiento de enfriamiento</li></ul>",
@@ -846,6 +864,7 @@
         },
         {
             "id": "18",
+            "url_id": "Supra-S6-solo-ruta",
             "nombre": "Supra S6 solo ruta",
             "imagen_url": "supra-s6.png",
             "resumen": "La unidad Supra® de próxima generación: una nueva dimensión en rendimiento y confiabilidad para camiones pequeños y medianos.",
@@ -911,6 +930,7 @@
         },
         {
             "id": "19",
+            "url_id": "Supra-S6-con-stand-by-220V",
             "nombre": "Supra S6 con stand by 220V",
             "imagen_url": "supra-s6.png",
             "resumen": "La unidad Supra® de próxima generación: una nueva dimensión en rendimiento y confiabilidad para camiones pequeños y medianos.",
@@ -976,6 +996,7 @@
         },
         {
             "id": "20",
+            "url_id": "Supra-S7-solo-ruta",
             "nombre": "Supra S7 solo ruta",
             "imagen_url": "supra-s7.png",
             "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
@@ -1041,6 +1062,7 @@
         },
         {
             "id": "21",
+            "url_id": "Supra-S7-con-stand-by-220v",
             "nombre": "Supra S7 con stand by 220v",
             "imagen_url": "supra-s7.png",
             "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
@@ -1106,6 +1128,7 @@
         },
         {
             "id": "22",
+            "url_id": "Supra-750-con-stand-by-220V",
             "nombre": "Supra 750 con stand by 220V",
             "imagen_url": "supra-750.png",
             "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
@@ -1199,6 +1222,7 @@
         },
         {
             "id": "23",
+            "url_id": "Supra-S8-solo-ruta",
             "nombre": "Supra S8 solo ruta",
             "imagen_url": "supra-s8.png",
             "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
@@ -1264,6 +1288,7 @@
         },
         {
             "id": "24",
+            "url_id": "Supra-S8-con-standby-220v",
             "nombre": "Supra S8 con standby 220v",
             "imagen_url": "supra-s8.png",
             "resumen": "Conozca el nuevo Supra® y el nuevo estándar. La próxima generación de unidades de refrigeración para camiones conocida por décadas de rendimiento y confiabilidad.",
@@ -1329,6 +1354,7 @@
         },
         {
             "id": "25",
+            "url_id": "Supra-1050-con-stand-by-220-v",
             "nombre": "Supra 1050 con stand by 220 v",
             "imagen_url": "supra-1050.png",
             "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
@@ -1422,6 +1448,7 @@
         },
         {
             "id": "26",
+            "url_id": "Supra-1150-con-stand-by-220-v",
             "nombre": "Supra 1150 con stand by 220 v",
             "imagen_url": "supra-1150.png",
             "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
@@ -1515,6 +1542,7 @@
         },
         {
             "id": "27",
+            "url_id": "Supra-S9-solo-ruta",
             "nombre": "Supra S9 solo ruta",
             "imagen_url": "supra-s9.png",
             "resumen": "Conozca la secuela de uno de los nombres más confiables en unidades de refrigeración para camiones. La nueva unidad Supra® ha sido rediseñada y renovada para un mayor rendimiento y mayor control.",
@@ -1588,6 +1616,7 @@
         },
         {
             "id": "28",
+            "url_id": "Supra-S9-con-stand-by-220v",
             "nombre": "Supra S9 con stand by 220v",
             "imagen_url": "supra-s9.png",
             "resumen": "Conozca la secuela de uno de los nombres más confiables en unidades de refrigeración para camiones. La nueva unidad Supra® ha sido rediseñada y renovada para un mayor rendimiento y mayor control.",
@@ -1661,6 +1690,7 @@
         },
         {
             "id": "29",
+            "url_id": "Supra-1250-con-stand-by-220-v",
             "nombre": "Supra 1250 con stand by 220 v",
             "imagen_url": "supra-1250.png",
             "resumen": "Soluciones para todas sus necesidades de reparto. Rendimiento de la gama SUPRA para camiones frigoríficos.<br>Ventajas:<ul><li>Circulación constante del aire del evaporador</li><li>Diseño robusto</li><li>Alta fiabilidad</li><li>Capacidad de ruido extremadamente baja</li><li>Alto rendimiento de refrigeración</li></ul>",
@@ -1754,6 +1784,7 @@
         },
         {
             "id": "30",
+            "url_id": "X7300-DT-specs-parrilla-negra",
             "nombre": "X7300 - DT specs parrilla negra",
             "imagen_url": "x7300.png",
             "resumen": "Control de temperatura excepcional con una nueva dimensión en desempeño y eficiencia.",
@@ -1835,6 +1866,7 @@
         },
         {
             "id": "31",
+            "url_id": "X7300-eSolutions-parrilla-negra",
             "nombre": "X7300 - eSolutions parrilla negra",
             "imagen_url": "x7300.png",
             "resumen": "Control de temperatura excepcional con una nueva dimensión en desempeño y eficiencia.",
@@ -1916,6 +1948,7 @@
         },
         {
             "id": "32",
+            "url_id": "X7500-W/Cromo-&-Datatrak",
             "nombre": "X7500 - W/Cromo & Datatrak",
             "imagen_url": "x7500.png",
             "resumen": "El nuevo estándar en la industria para alta capacidad de refrigeración y excepcional control de temperatura.",
@@ -1997,7 +2030,8 @@
         },
         {
             "id": "33",
-            "nombre": "X7500- eSolutions parrilla negra",
+            "url_id": "X7500-eSolutions-parrilla-negra",
+            "nombre": "X7500 - eSolutions parrilla negra",
             "imagen_url": "x7500.png",
             "resumen": "El nuevo estándar en la industria para alta capacidad de refrigeración y excepcional control de temperatura.",
             "categoria": "Tráiler",
@@ -2078,6 +2112,7 @@
         },
         {
             "id": "34",
+            "url_id": "Vector-1350-sólo-diesel",
             "nombre": "Vector 1350 sólo diesel",
             "imagen_url": "vector-1350.png",
             "resumen": "Combina la simplicidad de la tecnología de correa con la eficiencia de la tecnología all-electric.<br>Ventajas:<ul><li>Fácil de usar</li><li>Fácil mantenimiento</li><li>Peso ligero</li></ul>",
@@ -2167,6 +2202,7 @@
         },
         {
             "id": "35",
+            "url_id": "Vector-8500-Std-Specs-parrilla-cromada",
             "nombre": "Vector 8500 Std Specs parrilla cromada",
             "imagen_url": "vector-8500.png",
             "resumen": "Confiabilidad incomparable, eficiencia y valor. Vector 8500, simplemente el primero, simplemente el mejor.",
@@ -2248,6 +2284,7 @@
         },
         {
             "id": "36",
+            "url_id": "Vector-8500-eSolutions-parrilla-cromada",
             "nombre": "Vector 8500 eSolutions parrilla cromada",
             "imagen_url": "vector-8500.png",
             "resumen": "Confiabilidad incomparable, eficiencia y valor. Vector 8500, simplemente el primero, simplemente el mejor.",
@@ -2329,6 +2366,7 @@
         },
         {
             "id": "37",
+            "url_id": "Vector-8100-aplicación-estacionaria-440V",
             "nombre": "Vector 8100 aplicación estacionaria 440V",
             "imagen_url": "vector-8100.png",
             "resumen": "Sin motor diésel, no hay emisiones de diésel, ni ruido de motor ni consumo de combustible de nuestra solución de almacenamiento en frío de próxima generación.",

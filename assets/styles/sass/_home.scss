@@ -142,6 +142,11 @@
             filter: grayscale(0);
             opacity: 1;
         }
+
+        @media #{$ipad} {
+            filter: grayscale(0);
+            opacity: 1;
+        }
     }
 }
 

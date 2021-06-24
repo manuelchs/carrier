@@ -166,7 +166,7 @@ $(function () {
 
 	function autoAnimate() {
 		autoAnimation = setInterval(function() {
-			moverD();
+			// moverD();
 		}, 5000);
 	}
 

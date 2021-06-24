@@ -25,7 +25,7 @@
     @media #{$ipad} {
         overflow-x: hidden;
         max-height: unset;
-        height: 100vh;
+        height: calc(100vh - 133px);
     }
 
     .general-max-width {

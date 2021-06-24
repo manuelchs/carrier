@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <?php include('partial_views/head_tag.php') ?>
-    <title>Carrier Transicold - Contacto</title>
+    <title>Carrier Guadalajara - Contacto</title>
     <script src="/assets/scripts/contact.js"></script>
 </head>
 <body>

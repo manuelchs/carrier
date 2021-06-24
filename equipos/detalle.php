@@ -4,19 +4,19 @@
     <?php include('../partial_views/head_tag.php') ?>
     <?php
         $productoHEREHERE = null;
-        $idProducto = $_GET["idProducto"];
+        $producto = $_GET["producto"];
         $otherProducts = [];
         $otherProductsToShow = [];
 
         foreach ($db['carrierProductos'] as $product) {
-            if ( $product['id'] == $idProducto ) {
+            if ( $product['url_id'] == $producto ) {
                 $productoHERE = $product;
                 break;
             }
         }
         
         foreach ($db['carrierProductos'] as $product) {
-            if ( $product['categoria'] == $productoHERE['categoria'] && $product['id'] != $idProducto ) {
+            if ( $product['categoria'] == $productoHERE['categoria'] && $product['url_id'] != $producto ) {
                 array_push($otherProducts, $product);
             }
         }
@@ -26,7 +26,7 @@
             array_push($otherProductsToShow, $otherProducts[$indexProduct]);
         }
     ?>
-    <title><?php echo $productoHERE['nombre'] ?> - Carrier Transicold</title>
+    <title><?php echo $productoHERE['nombre'] ?> - Carrier Guadalajara</title>
     <script src="/assets/scripts/sliders-equipo/tabs.js"></script>
     <meta property=”og:title” content="<?php echo $productoHERE['nombre'] ?> - Carrier Transicold" />
     <meta property=”og:description” content="<?php echo $productoHERE['resumen'] ?>"/>
@@ -65,7 +65,7 @@
                         <img class="custom-animation custom-animation-bottom" src="<?php echo '/assets/db/images/'.$productoHERE['imagen_url'];  ?>" alt="">
                         <p class="custom-animation custom-animation-top"><?php echo $productoHERE['resumen']  ?></p>
                         <div class="buttons-wrapper custom-animation custom-animation-top">
-                            <a class="main-button blue-button ghost-button"><span>Llamar</span></a>
+                            <a href="tel:+553338492695" class="main-button blue-button ghost-button"><span>Llamar</span></a>
                             <a target="_blank" href="<?php echo 'https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20quisiera%20cotizar%20'.$productoHERE['nombre'] ?>%20%E2%9D%84%EF%B8%8F" class="main-button green-button icon icon-left"><i class="fab fa-whatsapp"></i><span>Solicitar cotización</span></a>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                     <?php
                         foreach ($otherProductsToShow as $otherProduct) {
                             echo '
-                            <a href="/equipos/detalle.php?idProducto='.$otherProduct['id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
+                            <a href="/equipos/detalle.php?producto='.$otherProduct['url_id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/'.$otherProduct['imagen_url'].'" alt="">
                                 <h2>'.$otherProduct['nombre'].'</h2>
                             </a>';

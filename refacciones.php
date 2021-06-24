@@ -3,7 +3,7 @@
 <head>
     <?php include('partial_views/head_tag.php') ?>
     <script src="/assets/scripts/slider.js"></script>
-    <title>Carrier Transicold - Refacciones</title>
+    <title>Carrier Guadalajara - Refacciones</title>
 </head>
 <body>
     <?php $page = 'refacciones'; ?>

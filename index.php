@@ -4,7 +4,8 @@
     <?php include('partial_views/head_tag.php') ?>
     <script src="/assets/scripts/slider.js"></script>
     <script src="/assets/scripts/slider-clientes.js"></script>
-    <title>Carrier Transicold</title>
+    <title>Refrigeración para el transporte | Carrier Guadalajara</title>
+    <meta name="description" content="Sistemas de refrigeración para transportes. Gama completa en equipos y refacciones para la refrigeración de camiones, velocidad variable y trailers.">
 </head>
 <body>
     <?php $page = 'home'; ?>
@@ -79,28 +80,28 @@
                 <h2 class="custom-animation custom-animation-bottom">Carrier Transicold <span>Guadalajara</span></h2>
             </div>
             <div class="boxes-wrapper">
-                <a href="/equipos.php" class="box-shadowed custom-animation custom-animation-top">
-                    <img src="/assets/images/home/servicios-equipos.png" alt="">
+                <a href="/equipos.php" class="box-shadowed">
+                    <img class="custom-animation custom-animation-bottom" src="/assets/images/home/servicios-equipos.png" alt="">
                     <div class="description">
-                        <h4>Equipos</h4>
-                        <p>Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
-                        <button>Ver equipos <i class="far fa-long-arrow-right"></i></button>
+                        <h4 class="custom-animation custom-animation-top">Equipos</h4>
+                        <p class="custom-animation custom-animation-top">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
+                        <button class="custom-animation custom-animation-bottom">Ver equipos <i class="far fa-long-arrow-right"></i></button>
                     </div>
                 </a>
-                <a href="/refacciones.php" class="box-shadowed custom-animation custom-animation-top d-1">
-                    <img src="/assets/images/home/servicios-refacciones.png" alt="">
+                <a href="/refacciones.php" class="box-shadowed">
+                    <img class="custom-animation custom-animation-bottom" src="/assets/images/home/servicios-refacciones.png" alt="">
                     <div class="description">
-                        <h4>Refacciones</h4>
-                        <p>Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
-                        <button>Ver más <i class="far fa-long-arrow-right"></i></button>
+                        <h4 class="custom-animation custom-animation-top">Refacciones</h4>
+                        <p class="custom-animation custom-animation-top">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
+                        <button class="custom-animation custom-animation-bottom">Ver más <i class="far fa-long-arrow-right"></i></button>
                     </div>
                 </a>
-                <a href="/servicio-tecnico.php" class="box-shadowed custom-animation custom-animation-top d-2">
-                    <img src="/assets/images/home/servicios-servicio.png" alt="">
+                <a href="/servicio-tecnico.php" class="box-shadowed">
+                    <img class="custom-animation custom-animation-bottom" src="/assets/images/home/servicios-servicio.png" alt="">
                     <div class="description">
-                        <h4>Servicio y mantenimiento</h4>
-                        <p>Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
-                        <button>Más información <i class="far fa-long-arrow-right"></i></button>
+                        <h4 class="custom-animation custom-animation-top">Servicio y mantenimiento</h4>
+                        <p class="custom-animation custom-animation-top">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
+                        <button class="custom-animation custom-animation-bottom">Más información <i class="far fa-long-arrow-right"></i></button>
                     </div>
                 </a>
             </div>
@@ -129,25 +130,25 @@
                 <h2 class="custom-animation custom-animation-bottom">¿Por qué elegirnos?</h2>
             </div>
             <div class="boxes-wrapper small-image">
-                <a class="box-shadowed custom-animation custom-animation-top">
-                    <img src="/assets/images/home/icono-servicio.png" alt="">
+                <a class="box-shadowed">
+                    <img class="custom-animation custom-animation-bottom" src="/assets/images/home/icono-servicio.png" alt="">
                     <div class="description">
-                        <h4>Servicio <span>especializado</span></h4>
-                        <p class="medium-gray-text">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
+                        <h4 class="custom-animation custom-animation-top">Servicio <span>especializado</span></h4>
+                        <p class="medium-gray-text custom-animation custom-animation-top">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
                     </div>
                 </a>
-                <a class="box-shadowed custom-animation custom-animation-top">
-                    <img src="/assets/images/home/icono-distribuidor-oficial.png" alt="">
+                <a class="box-shadowed">
+                    <img class="custom-animation custom-animation-bottom" src="/assets/images/home/icono-distribuidor-oficial.png" alt="">
                     <div class="description">
-                        <h4>Distribuidor <span>oficial</span></h4>
-                        <p class="medium-gray-text">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
+                        <h4 class="custom-animation custom-animation-top">Distribuidor <span>oficial</span></h4>
+                        <p class="medium-gray-text custom-animation custom-animation-top">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
                     </div>
                 </a>
-                <a class="box-shadowed custom-animation custom-animation-right">
-                    <img src="/assets/images/home/icono-garantias.png" alt="">
+                <a class="box-shadowed">
+                    <img class="custom-animation custom-animation-bottom" src="/assets/images/home/icono-garantias.png" alt="">
                     <div class="description">
-                        <h4>Atención de <span>Garantías</span></h4>
-                        <p class="medium-gray-text">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
+                        <h4 class="custom-animation custom-animation-top">Atención de <span>Garantías</span></h4>
+                        <p class="medium-gray-text custom-animation custom-animation-top">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
                     </div>
                 </a>
             </div>
@@ -221,7 +222,7 @@
         <div class="general-max-width">
             <div class="title-centered">
                 <h3 class="custom-animation custom-animation-top">Servicio integral</h3>
-                <h2 class="custom-animation custom-animation-top">Todo lo que necesitas en<br><span>Refrigeración para el transporte</span></h2>
+                <h2 class="custom-animation custom-animation-top">Todo lo que necesitas en <span>refrigeración para el transporte</span></h2>
                 <a href="/contacto.php" class="main-button green-button custom-animation custom-animation-top"><span>Contactar</span></a>
             </div>
         </div>

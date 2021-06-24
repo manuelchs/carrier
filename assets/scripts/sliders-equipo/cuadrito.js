@@ -33,7 +33,7 @@ $(function() {
         },350);
     });
 
-    $('#help').click( function() {
+    $('.help-link').click( function() {
         if ( window.innerWidth < 1090 ) {
             window.open('https://api.whatsapp.com/send?phone=523334540499&text=Hola%2C%20%C2%BFPueden%20ayudarme%20a%20seleccionar%20un%20equipo%3F%20%E2%9D%84%EF%B8%8F', '_blank').focus();
         }

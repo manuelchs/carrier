@@ -13,7 +13,7 @@
 <html lang="es">
 <head>
     <?php include('../partial_views/head_tag.php') ?>
-    <title>Carrier Transicold - Equipos - Velocidad variable</title>
+    <title>Carrier Guadalajara - Equipos - Velocidad variable</title>
 </head>
 <body>
     <?php $page = 'equipos'; ?>
@@ -43,7 +43,7 @@
                 <?php
                     foreach( $productos as $producto ) {
                         echo '
-                        <a href="/equipos/detalle.php?idProducto='.$producto['id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
+                        <a href="/equipos/detalle.php?producto='.$producto['url_id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
                             <img src="/assets/db/images/'.$producto['imagen_url'].'" alt="">
                             <h2>'.$producto['nombre'].'</h2>
                         </a>';
