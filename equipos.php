@@ -37,7 +37,7 @@
         <div class="equipos-slider-section">
             <div class="title">
                 <h2>Velocidad Variable</h2>
-                <a href="/equipos/velocidad-variable.php">Ver todo <i class="far fa-long-arrow-right"></i></a>
+                <a href="/equipos/velocidad-variable/">Ver todo <i class="far fa-long-arrow-right"></i></a>
             </div>
             <div class="equipos-slider">
                 <button class="slider-button right" id="arrowRightVelocidad"><i class="far fa-chevron-right"></i></button>
@@ -45,85 +45,85 @@
                 <div class="slider-wrapper">
                     <div id="velocidadSlider" class="slider column">
                         <div id="itemVelocidad1" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Citimax-280-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-280-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-280.png" alt="">
                                 <h4>Citimax 280 Hot gas R 404 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citimax-350-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-350-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-350.png" alt="">
                                 <h4>Citimax 350 Hot gas R 404 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citimax-400-Hot-gas-R-404a-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-400-Hot-gas-R-404a-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-400.png" alt="">
                                 <h4>Citimax 400 Hot gas R 404a 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citimax-500-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-500-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-500.png" alt="">
                                 <h4>Citimax 500 R404A 12v LA</h4>
                             </a>
                         </div>
                         <div id="itemVelocidad2" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Citimax-700-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-700-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-700.png" alt="">
                                 <h4>Citimax 700 R404A 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citifresh-500-R134a-12v-0°C" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citifresh-500-R134a-12v-0°C" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citifresh-500.png" alt="">
                                 <h4>Citifresh 500 R134a 12v 0°C</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Zephyr-30SE-Trifásico-230v/3-fases" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Zephyr-30SE-Trifásico-230v/3-fases" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/zephyr-30s.png" alt="">
                                 <h4>Zephyr 30SE Trifásico 230v/3 fases</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Xarios-350e-stand-by-12v-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Xarios-350e-stand-by-12v-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/xarios-350.png" alt="">
                                 <h4>Xarios 350e stand by 12v 220V</h4>
                             </a>
                         </div>
                         <div id="itemVelocidad3" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Citimax-280-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-280-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-280.png" alt="">
                                 <h4>Citimax 280 Hot gas R 404 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citimax-350-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-350-Hot-gas-R-404-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-350.png" alt="">
                                 <h4>Citimax 350 Hot gas R 404 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citimax-400-Hot-gas-R-404a-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-400-Hot-gas-R-404a-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-400.png" alt="">
                                 <h4>Citimax 400 Hot gas R 404a 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citimax-500-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-500-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-500.png" alt="">
                                 <h4>Citimax 500 R404A 12v LA</h4>
                             </a>
                         </div>
                         <div id="itemVelocidad4" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Citimax-700-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citimax-700-R404A-12v-LA" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citimax-700.png" alt="">
                                 <h4>Citimax 700 R404A 12v LA</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Citifresh-500-R134a-12v-0°C" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Citifresh-500-R134a-12v-0°C" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/citifresh-500.png" alt="">
                                 <h4>Citifresh 500 R134a 12v 0°C</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Zephyr-30SE-Trifásico-230v/3-fases" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Zephyr-30SE-Trifásico-230v/3-fases" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/zephyr-30s.png" alt="">
                                 <h4>Zephyr 30SE Trifásico 230v/3 fases</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Xarios-350e-stand-by-12v-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Xarios-350e-stand-by-12v-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/xarios-350.png" alt="">
                                 <h4>Xarios 350e stand by 12v 220V</h4>
                             </a>
@@ -136,7 +136,7 @@
         <div class="equipos-slider-section">
             <div class="title">
                 <h2>Camión</h2>
-                <a href="/equipos/camion.php">Ver todo <i class="far fa-long-arrow-right"></i></a>
+                <a href="/equipos/camion/">Ver todo <i class="far fa-long-arrow-right"></i></a>
             </div>
             <div class="equipos-slider">
                 <button class="slider-button right" id="arrowRightCamion"><i class="far fa-chevron-right"></i></button>
@@ -144,85 +144,85 @@
                 <div class="slider-wrapper">
                     <div id="camionSlider" class="slider column">
                         <div id="itemCamion1" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Supra-550-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-550-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-550.png" alt="">
                                 <h4>Supra 550 con stand by 220V</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-S6-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-S6-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-s6.png" alt="">
                                 <h4>Supra S6 solo ruta</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-S7-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-S7-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-s7.png" alt="">
                                 <h4>Supra S7 solo ruta</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-750-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-750-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-750.png" alt="">
                                 <h4>Supra 750 con stand by 220V</h4>
                             </a>
                         </div>
                         <div id="itemCamion2" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Supra-S8-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-S8-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-s8.png" alt="">
                                 <h4>Supra S8 solo ruta</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-1050-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-1050-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-1050.png" alt="">
                                 <h4>Supra 1050 con stand by 220 v</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-1150-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-1150-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-1150.png" alt="">
                                 <h4>Supra 1150 con stand by 220 v</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-1250-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-1250-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-1250.png" alt="">
                                 <h4>Supra 1250 con stand by 220 v</h4>
                             </a>
                         </div>
                         <div id="itemCamion3" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Supra-550-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-550-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-550.png" alt="">
                                 <h4>Supra 550 con stand by 220V</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-S6-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-S6-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-s6.png" alt="">
                                 <h4>Supra S6 solo ruta</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-S7-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-S7-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-s7.png" alt="">
                                 <h4>Supra S7 solo ruta</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-750-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-750-con-stand-by-220V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-750.png" alt="">
                                 <h4>Supra 750 con stand by 220V</h4>
                             </a>
                         </div>
                         <div id="itemCamion4" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Supra-S8-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-S8-solo-ruta" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-s8.png" alt="">
                                 <h4>Supra S8 solo ruta</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-1050-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-1050-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-1050.png" alt="">
                                 <h4>Supra 1050 con stand by 220 v</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-1150-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-1150-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-1150.png" alt="">
                                 <h4>Supra 1150 con stand by 220 v</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Supra-1250-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Supra-1250-con-stand-by-220-v" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/supra-1250.png" alt="">
                                 <h4>Supra 1250 con stand by 220 v</h4>
                             </a>
@@ -236,7 +236,7 @@
         <div class="equipos-slider-section">
             <div class="title">
                 <h2>Trailer</h2>
-                <a href="/equipos/trailer.php">Ver todo <i class="far fa-long-arrow-right"></i></a>
+                <a href="/equipos/trailer/">Ver todo <i class="far fa-long-arrow-right"></i></a>
             </div>
             <div class="equipos-slider">
                 <button class="slider-button right" id="arrowRightTrailer"><i class="far fa-chevron-right"></i></button>
@@ -244,85 +244,85 @@
                 <div class="slider-wrapper">
                     <div id="trailerSlider" class="slider column">
                         <div id="itemTrailer1" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Vector-1350-sólo-diesel" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-1350-sólo-diesel" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-1350.png" alt="">
                                 <h4>Vector 1350 sólo diesel</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Vector-8500-Std-Specs-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-8500-Std-Specs-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-8500.png" alt="">
                                 <h4>Vector 8500 Std Specs parrilla cromada</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Vector-8500-eSolutions-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-8500-eSolutions-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-8500.png" alt="">
                                 <h4>Vector 8500 eSolutions parrilla cromada</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Vector-8100-aplicación-estacionaria-440V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-8100-aplicación-estacionaria-440V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-8100.png" alt="">
                                 <h4>Vector 8100 aplicación estacionaria 440V</h4>
                             </a>
                         </div>
                         <div id="itemTrailer2" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=X7300-DT-specs-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7300-DT-specs-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7300.png" alt="">
                                 <h4>X7300 - DT specs parrilla negra</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=X7300-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7300-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7300.png" alt="">
                                 <h4>X7300 - eSolutions parrilla negra</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=X7500-W/Cromo-&-Datatrak" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7500-W/Cromo-&-Datatrak" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7500.png" alt="">
                                 <h4>X7500 - W/Cromo & Datatrak</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=X7500-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7500-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7500.png" alt="">
                                 <h4>X7500 - eSolutions parrilla negra</h4>
                             </a>
                         </div>
                         <div id="itemTrailer3" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=Vector-1350-sólo-diesel" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-1350-sólo-diesel" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-1350.png" alt="">
                                 <h4>Vector 1350 sólo diesel</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Vector-8500-Std-Specs-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-8500-Std-Specs-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-8500.png" alt="">
                                 <h4>Vector 8500 Std Specs parrilla cromada</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Vector-8500-eSolutions-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-8500-eSolutions-parrilla-cromada" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-8500.png" alt="">
                                 <h4>Vector 8500 eSolutions parrilla cromada</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=Vector-8100-aplicación-estacionaria-440V" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/Vector-8100-aplicación-estacionaria-440V" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/vector-8100.png" alt="">
                                 <h4>Vector 8100 aplicación estacionaria 440V</h4>
                             </a>
                         </div>
                         <div id="itemTrailer4" class="slider-item grid-equipos">
-                            <a href="/equipos/detalle.php?producto=X7300-DT-specs-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7300-DT-specs-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7300.png" alt="">
                                 <h4>X7300 - DT specs parrilla negra</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=X7300-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7300-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7300.png" alt="">
                                 <h4>X7300 - eSolutions parrilla negra</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=X7500-W/Cromo-&-Datatrak" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7500-W/Cromo-&-Datatrak" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7500.png" alt="">
                                 <h4>X7500 - W/Cromo & Datatrak</h4>
                             </a>
 
-                            <a href="/equipos/detalle.php?producto=X7500-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
+                            <a href="/equipo/X7500-eSolutions-parrilla-negra" class="equipo-wrapper custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/x7500.png" alt="">
                                 <h4>X7500 - eSolutions parrilla negra</h4>
                             </a>

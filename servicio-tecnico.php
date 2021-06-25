@@ -104,7 +104,7 @@
                     <h2 class="custom-animation custom-animation-top">¿Tienes una duda?<br><span>Nosotros te ayudamos</span></h2>
                 </div>
                 <p class="custom-animation custom-animation-bottom">Brindamos asesoría técnica para resolver tus inquietudes en cualquiera de nuestros productos, servicios o refacciones Carrier Transicold.</p>
-                <a href="/contacto.php" class="main-button green-button custom-animation custom-animation-bottom"><span>Contactar</span></a>
+                <a href="/contacto/" class="main-button green-button custom-animation custom-animation-bottom"><span>Contactar</span></a>
             </div>
         </div>
     </div>

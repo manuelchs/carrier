@@ -38,15 +38,15 @@
     <div class="main-wrapper detail-route">
         <div class="general-max-width">
             <div class="route">
-                <a href="/equipos.php">Productos</a>
+                <a href="/equipos/">Productos</a>
                 <i class="fal fa-chevron-right"></i>
                 <?php
                     if ( $productoHERE['categoria'] == 'Velocidad variable' ) {
-                        echo '<a href="/equipos/velocidad-variable.php">'.$productoHERE['categoria'].'</a>';
+                        echo '<a href="/equipos/velocidad-variable/">'.$productoHERE['categoria'].'</a>';
                     } else if ( $productoHERE['categoria'] == 'Camión' ) {
-                        echo '<a href="/equipos/camion.php">'.$productoHERE['categoria'].'</a>';
+                        echo '<a href="/equipos/camion/">'.$productoHERE['categoria'].'</a>';
                     } else {
-                        echo '<a href="/equipos/trailer.php">'.$productoHERE['categoria'].'</a>';
+                        echo '<a href="/equipos/trailer/">'.$productoHERE['categoria'].'</a>';
                     }
                 ?>
                 <i class="fal fa-chevron-right"></i>
@@ -129,7 +129,7 @@
                     <?php
                         foreach ($otherProductsToShow as $otherProduct) {
                             echo '
-                            <a href="/equipos/detalle.php?producto='.$otherProduct['url_id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
+                            <a href="/equipo/'.$otherProduct['url_id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
                                 <img src="/assets/db/images/'.$otherProduct['imagen_url'].'" alt="">
                                 <h2>'.$otherProduct['nombre'].'</h2>
                             </a>';

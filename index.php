@@ -22,7 +22,7 @@
                         <p class="slider-item-animation">Ofrecemos una gama completa en equipos de refrigeración para el transporte como camiones, trailers y contenedores.</p>
                         <img class="img-movil slider-item-animation" src="/assets/images/home/equipos-carrier-transicold-hero.png" alt="">
                         <div class="buttons-section slider-item-animation">
-                            <a href="/equipos.php" class="main-button white-button"><span>Ver más</span></a>
+                            <a href="/equipos/" class="main-button white-button"><span>Ver más</span></a>
                             <a href="tel:+553336891067" class="main-button ml-1 green-button icon icon-left hover-white"><i class="fas fa-phone"></i><span>Llamar</span></a>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                         </div>
                         <p class="slider-item-animation">Ofrecemos repuestos y accesorios de alta calidad diseñados para mantener su equipo funcionando al máximo.</p>
                         <div class="buttons-section slider-item-animation">
-                            <a href="/refacciones.php" class="main-button white-button"><span>Ver más</span></a>
+                            <a href="/refacciones/" class="main-button white-button"><span>Ver más</span></a>
                             <a href="tel:+553336891067" class="main-button ml-1 green-button icon icon-left hover-white"><i class="fas fa-phone"></i><span>Llamar</span></a>
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                         </div>
                         <p class="slider-item-animation">Servicio técnico especializado y programas de mantenimiento preventivo para sus equipos Carrier Transicold.</p>
                         <div class="buttons-section slider-item-animation">
-                            <a href="/servicio-tecnico.php" class="main-button white-button"><span>Ver más</span></a>
+                            <a href="/servicio-tecnico/" class="main-button white-button"><span>Ver más</span></a>
                             <a href="tel:+553336891067" class="main-button ml-1 green-button icon icon-left hover-white"><i class="fas fa-phone"></i><span>Llamar</span></a>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                 <h2 class="custom-animation custom-animation-bottom">Carrier Transicold <span>Guadalajara</span></h2>
             </div>
             <div class="boxes-wrapper">
-                <a href="/equipos.php" class="box-shadowed">
+                <a href="/equipos/" class="box-shadowed">
                     <img class="custom-animation custom-animation-bottom" src="/assets/images/home/servicios-equipos.png" alt="">
                     <div class="description">
                         <h4 class="custom-animation custom-animation-top">Equipos</h4>
@@ -88,7 +88,7 @@
                         <button class="custom-animation custom-animation-bottom">Ver equipos <i class="far fa-long-arrow-right"></i></button>
                     </div>
                 </a>
-                <a href="/refacciones.php" class="box-shadowed">
+                <a href="/refacciones/" class="box-shadowed">
                     <img class="custom-animation custom-animation-bottom" src="/assets/images/home/servicios-refacciones.png" alt="">
                     <div class="description">
                         <h4 class="custom-animation custom-animation-top">Refacciones</h4>
@@ -96,7 +96,7 @@
                         <button class="custom-animation custom-animation-bottom">Ver más <i class="far fa-long-arrow-right"></i></button>
                     </div>
                 </a>
-                <a href="/servicio-tecnico.php" class="box-shadowed">
+                <a href="/servicio-tecnico/" class="box-shadowed">
                     <img class="custom-animation custom-animation-bottom" src="/assets/images/home/servicios-servicio.png" alt="">
                     <div class="description">
                         <h4 class="custom-animation custom-animation-top">Servicio y mantenimiento</h4>
@@ -117,7 +117,7 @@
                 </div>
                 <p class="custom-animation custom-animation-top">Contamos con la línea completa de equipos y servicios para el transporte refrigerado.</p>
                 <div class="buttons-section custom-animation custom-animation-top">
-                    <a href="/contacto.php" class="main-button green-button hover-white"><span>Contactar</span></a>
+                    <a href="/contacto/" class="main-button green-button hover-white"><span>Contactar</span></a>
                 </div>
             </div>
         </div>
@@ -152,7 +152,7 @@
                     </div>
                 </a>
             </div>
-            <p class="footer-section">Comunícate con nosotros y obtén la atención personalizada que estás buscando. <a href="contacto.php">Contactar <i class="far fa-long-arrow-right"></i></a></p>
+            <p class="footer-section">Comunícate con nosotros y obtén la atención personalizada que estás buscando. <a href="contacto/>Contactar <i class="far fa-long-arrow-right"></i></a></p>
         </div>
     </div>
 
@@ -223,7 +223,7 @@
             <div class="title-centered">
                 <h3 class="custom-animation custom-animation-top">Servicio integral</h3>
                 <h2 class="custom-animation custom-animation-top">Todo lo que necesitas en <span>refrigeración para el transporte</span></h2>
-                <a href="/contacto.php" class="main-button green-button custom-animation custom-animation-top"><span>Contactar</span></a>
+                <a href="/contacto/" class="main-button green-button custom-animation custom-animation-top"><span>Contactar</span></a>
             </div>
         </div>
     </div>

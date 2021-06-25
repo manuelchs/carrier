@@ -4,18 +4,18 @@
             <div class="links-item">
                 <h6>Empresa <i class="far fa-plus"></i></h6>
                 <div class="links">
-                    <a href="/equipos.php">Equipos</a>
-                    <a href="/refacciones.php">Refacciones</a>
-                    <a href="/servicio-tecnico.php">Servicio técnio</a>
-                    <a href="/contacto.php">Contacto</a>
+                    <a href="/equipos/">Equipos</a>
+                    <a href="/refacciones/">Refacciones</a>
+                    <a href="/servicio-tecnico/">Servicio técnio</a>
+                    <a href="/contacto/">Contacto</a>
                 </div>
             </div>
             <div class="links-item">
                 <h6>Productos <i class="far fa-plus"></i></h6>
                 <div class="links">
-                    <a href="/equipos/velocidad-variable.php">Velocidad variable</a>
-                    <a href="/equipos/camion.php">Camión (autónomo)</a>
-                    <a href="/equipos/trailer.php">Trailer</a>
+                    <a href="/equipos/velocidad-variable/">Velocidad variable</a>
+                    <a href="/equipos/camion/">Camión (autónomo)</a>
+                    <a href="/equipos/trailer/">Trailer</a>
                 </div>
             </div>
             <div class="links-item">

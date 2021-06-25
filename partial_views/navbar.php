@@ -89,42 +89,42 @@
                     <a class="<?php if ( $page === 'home') { echo 'active'; } ?>" href="/"><span>Inicio</span></a>
                 </li>
                 <li class="submenu-trigger">
-                    <a class="<?php if ( $page === 'equipos') { echo 'active'; } ?>" href="/equipos"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
+                    <a class="<?php if ( $page === 'equipos') { echo 'active'; } ?>" href="/equipos/"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
                     <div class="submenu-navbar">
                         <div class="menu-list">
-                            <a href="/equipos/velocidad-variable" class="title-menu-list">Velocidad variable</a>
+                            <a href="/equipos/velocidad-variable/" class="title-menu-list">Velocidad variable</a>
                             <?php
                                 foreach( $productosVelocidad as $producto ) {
-                                    echo '<a href="/equipos/detalle?producto='.$producto['url_id'].'">'.$producto['nombre'].'</a>';
+                                    echo '<a href="/equipo/'.$producto['url_id'].'">'.$producto['nombre'].'</a>';
                                 }
                             ?>
                         </div>
                         <div class="menu-list">
-                            <a href="/equipos/camion" class="title-menu-list">Camión</a>
+                            <a href="/equipos/camion/" class="title-menu-list">Camión</a>
                             <?php
                                 foreach( $productosCamion as $producto ) {
-                                    echo '<a href="/equipos/detalle?producto='.$producto['url_id'].'">'.$producto['nombre'].'</a>';
+                                    echo '<a href="/equipo/'.$producto['url_id'].'">'.$producto['nombre'].'</a>';
                                 }
                             ?>
                         </div>
                         <div class="menu-list">
-                            <a href="/equipos/trailer" class="title-menu-list">Tráiler</a>
+                            <a href="/equipos/trailer/" class="title-menu-list">Tráiler</a>
                             <?php
                                 foreach( $productosTrailer as $producto ) {
-                                    echo '<a href="/equipos/detalle?producto='.$producto['url_id'].'">'.$producto['nombre'].'</a>';
+                                    echo '<a href="/equipo/'.$producto['url_id'].'">'.$producto['nombre'].'</a>';
                                 }
                             ?>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <a class="<?php if ( $page === 'refacciones') { echo 'active'; } ?>" href="/refacciones"><span>Refacciones</span></a>
+                    <a class="<?php if ( $page === 'refacciones') { echo 'active'; } ?>" href="/refacciones/"><span>Refacciones</span></a>
                 </li>
                 <li>
-                    <a class="<?php if ( $page === 'servicio') { echo 'active'; } ?>" href="/servicio-tecnico"><span>Servicio técnico</span></a>
+                    <a class="<?php if ( $page === 'servicio') { echo 'active'; } ?>" href="/servicio-tecnico/"><span>Servicio técnico</span></a>
                 </li>
                 <li>
-                    <a class="<?php if ( $page === 'contacto') { echo 'active'; } ?>" href="/contacto"><span>Contacto</span></a>
+                    <a class="<?php if ( $page === 'contacto') { echo 'active'; } ?>" href="/contacto/"><span>Contacto</span></a>
                 </li>
             </ul>
         </div>
@@ -196,9 +196,9 @@
         <ul>
             <li><a href="/">Inicio</a></li>
             <li id="pageMenuTrigger"><a>Equipos <i class="far fa-arrow-right"></i></a></li>
-            <li><a href="/refacciones">Refacciones</a></li>
-            <li><a href="/servicio-tecnico">Servicio técnico</a></li>
-            <li><a href="/contacto">Contacto</a></li>
+            <li><a href="/refacciones/">Refacciones</a></li>
+            <li><a href="/servicio-tecnico/">Servicio técnico</a></li>
+            <li><a href="/contacto/">Contacto</a></li>
         </ul>
     </div>
 </nav>
@@ -206,7 +206,7 @@
 <div id="equipoPageMenu" class="page-menu">
     <div class="header">
         <i id="closePageMenu" class="far fa-arrow-left"></i>
-        <a href="/equipos">Equipos</a>
+        <a href="/equipos/">Equipos</a>
     </div>
     <div class="links">
         <div class="links-item">
@@ -217,7 +217,7 @@
             <div class="links-list">
                 <?php
                     foreach( $productosVelocidad as $producto ) {
-                        echo '<a href="/equipos/detalle?producto='.$producto['url_id'].'">'.$producto['nombre'].'</a>';
+                        echo '<a href="/equipo/'.$producto['url_id'].'">'.$producto['nombre'].'</a>';
                     }
                 ?>
             </div>
@@ -230,7 +230,7 @@
             <div class="links-list">
                 <?php
                     foreach( $productosCamion as $producto ) {
-                        echo '<a href="/equipos/detalle?producto='.$producto['url_id'].'">'.$producto['nombre'].'</a>';
+                        echo '<a href="/equipo/'.$producto['url_id'].'">'.$producto['nombre'].'</a>';
                     }
                 ?>
             </div>
@@ -243,7 +243,7 @@
             <div class="links-list">
                 <?php
                     foreach( $productosTrailer as $producto ) {
-                        echo '<a href="/equipos/detalle?producto='.$producto['url_id'].'">'.$producto['nombre'].'</a>';
+                        echo '<a href="/equipo/'.$producto['url_id'].'">'.$producto['nombre'].'</a>';
                     }
                 ?>
             </div>

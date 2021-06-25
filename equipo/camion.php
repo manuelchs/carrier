@@ -35,14 +35,14 @@
         <div class="general-max-width">
             <div class="title-shop">
                 <h1 class="custom-animation custom-animation-bottom">Productos</h1>
-                <div class="route custom-animation custom-animation-top"><a href="/equipos.php">Productos</a><i class="fal fa-chevron-right"></i><span>Camión</span></div>
+                <div class="route custom-animation custom-animation-top"><a href="/equipos/">Productos</a><i class="fal fa-chevron-right"></i><span>Camión</span></div>
                 <h3 class="mb-2">Camión</h3>
             </div>
             <div class="refacciones-grid">
                 <?php
                     foreach( $productos as $producto ) {
                         echo '
-                        <a href="/equipos/detalle.php?producto='.$producto['url_id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
+                        <a href="/equipo/'.$producto['url_id'].'" class="refaccion equipo-item custom-animation custom-animation-bottom">
                             <img src="/assets/db/images/'.$producto['imagen_url'].'" alt="">
                             <h2>'.$producto['nombre'].'</h2>
                         </a>';
