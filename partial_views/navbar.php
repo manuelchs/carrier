@@ -139,7 +139,7 @@
                 <a href="/" class="logo">
                     <img src="/assets/images/logo-carrier-transicold.png" alt="">
                 </a>
-                <div class="slider-wrapper">
+                <div class="slider-wrapper slider-contact">
                     <div id="sliderDos" class="slider column">
                         <div id="itemDos1" class="slider-item">
                             <div class="data-contact">

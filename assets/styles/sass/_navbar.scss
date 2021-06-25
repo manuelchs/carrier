@@ -18,6 +18,10 @@
             border-radius: 4px;
             transition: all .2s;
 
+            @media #{$ipad} {
+                padding: 1rem;
+            }
+
             &:hover {
                 background-color: var(--gray-2);
             }
@@ -205,6 +209,9 @@
 
             .top-section {
                 border-bottom: 1px solid var(--gray-2);
+                @media #{$ipad} {
+                    padding: 0.5rem 0;
+                }
                 .general-max-width {
                     display: flex;
                     justify-content: center;
