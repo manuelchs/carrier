@@ -89,7 +89,7 @@
                     <a class="<?php if ( $page === 'home') { echo 'active'; } ?>" href="/"><span>Inicio</span></a>
                 </li>
                 <li class="submenu-trigger">
-                    <a class="<?php if ( $page === 'equipos') { echo 'active'; } ?>" href="/equipo"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
+                    <a class="<?php if ( $page === 'equipos') { echo 'active'; } ?>" href="/equipos"><span>Equipos</span><i class="far fa-chevron-down"></i></a>
                     <div class="submenu-navbar">
                         <div class="menu-list">
                             <a href="/equipos/velocidad-variable" class="title-menu-list">Velocidad variable</a>
@@ -206,7 +206,7 @@
 <div id="equipoPageMenu" class="page-menu">
     <div class="header">
         <i id="closePageMenu" class="far fa-arrow-left"></i>
-        <a href="/equipo">Equipos</a>
+        <a href="/equipos">Equipos</a>
     </div>
     <div class="links">
         <div class="links-item">
