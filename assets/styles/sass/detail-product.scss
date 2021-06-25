@@ -154,6 +154,9 @@
 
             .tab-info {
                 animation: justOpacity .5s;
+                span {
+                    line-height: 1.8;
+                }
             }
 
             #desc {

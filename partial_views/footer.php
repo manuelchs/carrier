@@ -40,7 +40,7 @@
     <div class="blue-section">
         <div class="general-max-width">
             <p>Todos los derechos reservados. Carrier Transicold Guadalajara® 2021.</p>
-            <a>Aviso de privacidad</a>
+            <a href="/aviso-de-privacidad/">Aviso de privacidad</a>
         </div>
     </div>
 </footer>
