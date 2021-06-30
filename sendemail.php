@@ -44,11 +44,11 @@ if(trim($nombreEmpresa) == "" || trim($name) == "" || trim($phone) == "" || trim
 
                 
 // Recipient
-$toEmail = 'manuelchs@icloud.com';
+$toEmail = 'reto@carrierguadalajara.com.mx';
 
 // Sender
-$from = 'manuelchs@icloud.com';
-$fromName = 'Carrier Transicold';
+$from = $email;
+$fromName = $name;
 
 // Subject
 $emailSubject = $name.' ha envíado un mensaje desde el sitio web.';

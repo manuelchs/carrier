@@ -248,6 +248,12 @@
                 ?>
             </div>
         </div>
+        <a href="/equipos" class="links-item">
+            <div class="title">
+                <span>Ver todos los equipoos</span>
+                <i class="far fa-chevron-right"></i>
+            </div>
+        </a>
     </div>
     
 </div>
