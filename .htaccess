@@ -2,7 +2,7 @@ Options +FollowSymLinks
 RewriteEngine On
 
 RewriteCond %{SERVER_PORT} !=443
-RewriteRule ^(.*)$ https://test.reservalafecha.mx/$1 [R=301,L]
+RewriteRule ^(.*)$ https://carriertransicold.mx/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d
