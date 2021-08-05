@@ -19,11 +19,11 @@ if( isset($_POST['telefono']) ) {
 else{
     $phone ="";
 }
-if( isset($_POST['nombre-empresa']) ) {
-    $nombreEmpresa = $_POST['nombre-empresa'];
+if( isset($_POST['asunto']) ) {
+    $asunto = $_POST['asunto'];
 }
 else{
-    $nombreEmpresa ="";
+    $asunto ="";
 }
 if( isset($_POST['mensaje']) ) {
     $mensaje = $_POST['mensaje'];
@@ -35,7 +35,7 @@ else{
 
 $statusMsg ="";
 
-if(trim($nombreEmpresa) == "" || trim($name) == "" || trim($phone) == "" || trim($mensaje)=="" || trim($email)=="")
+if(trim($asunto) == "" || trim($name) == "" || trim($phone) == "" || trim($mensaje)=="" || trim($email)=="")
 {
     $arr = array("success" => false, "message" => $statusMsg);
     echo json_encode($arr);
@@ -44,7 +44,21 @@ if(trim($nombreEmpresa) == "" || trim($name) == "" || trim($phone) == "" || trim
 
                 
 // Recipient
+
 $toEmail = 'reto@carrierguadalajara.com.mx';
+
+if ( $asunto == "Refacciones" ) {
+    $toEmail = 'erikaruiz@carrierguadalajara.com.mx';
+}
+if ( $asunto == "Equipos" ) {
+    $toEmail = 'hectormercado@carrierguadalajara.com.mx';
+}
+if ( $asunto == "Servicio" ) {
+    $toEmail = 'alejandroalvarez@carrierguadalajara.com.mx';
+}
+if ( $asunto == "Otro" ) {
+    $toEmail = 'reto@carrierguadalajara.com.mx';
+}
 
 // Sender
 $from = $email;
@@ -58,7 +72,7 @@ $htmlContent = '<h2>Informacion de contacto</h2>
     <p><b>Nombre:</b> '.$name.'</p>
     <p><b>E-mail:</b> '.$email.'</p>
     <p><b>Telefono:</b> '.$phone.'</p>
-    <p><b>Nombre de la empresa:</b> '.$nombreEmpresa.'</p>
+    <p><b>Asunto:</b> '.$asunto.'</p>
     <p><b>Mensaje:</b> '.$mensaje.'</p>';
 
 // carriage return type (RFC)

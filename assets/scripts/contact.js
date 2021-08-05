@@ -1,11 +1,10 @@
 $( function() {
     // Aquí va todo lo del form
     
-    $("#contact-form").bind("submit",function(){
+    $("#contact-form").bind("submit", function(){
         // Capturamnos el boton de envío
         var btnEnviar = $("#contact-form-btn");
         var formData = new FormData(this);
-        
         
          if(isFormValid()){
              $("#errorMessage").addClass("d-none");
@@ -14,34 +13,38 @@ $( function() {
             $("#errorMessage").removeClass("d-none");
             return false;
          }
-         
 
         $.ajax({
-            type: $(this).attr("method"),
-            url: $(this).attr("action"),
-            data:formData,
+            type: 'POST',
+            url: '/sendemail.php',
+            data: formData,
             cache: false,
             contentType: false,
             processData: false,
-            dataType: 'JSON',
+            dataType: 'json',
+            
             beforeSend: function(){
                 btnEnviar.val("Enviando...");
                 btnEnviar.attr("disabled","disabled");
             },
             complete:function(data){
+                console.log(data);
                 btnEnviar.val("Enviar");
                 btnEnviar.removeAttr("disabled");
             },
             success: function(data){
+                console.log(data);
                 if(data.success){
                     showAlert(true, 'Recibimos tu información', 'Hemos recibido tu información, trataremos de responderte lo antes posible. Gracias.');
                     $("#contact-form").trigger("reset");
                 }
                 else{
+                    console.log(data);
                     showAlert(false, 'Algo salió mal', data.message);
                 }
             },
-            error: function(data){
+            error: function(req, err){
+                console.log(err);
                 showAlert(false, 'Algo salió mal', 'No pudimos recibir la información, por favor, vuelve a intentar más tarde.');
             }
         });
@@ -50,18 +53,6 @@ $( function() {
 
     //showAlert(true, 'Hola, Marco', 'Se está ejecutando contacto.js. En ese archivo escríbete la magia pa que jale este formulario. También ahí está el ejemplo pa ejecutar esta alerta. <br><br> Si un input tiene error de que está vació, etc, solo agrega la clase input-error y css hará el resto. El input NOMBRE la tiene activa pa demostración nomás. <br><br> Ahí disculpa mi fea documentación :)');
 
-    $("#contacto-asunto-dropdown").on("change", function(){
-        var cotizacionOptionID =1;
-        var selectedOption = $("option:selected", this);
-        var selectedoptionID = selectedOption.data("option-id");
-
-        if(selectedoptionID == cotizacionOptionID){
-            $(".only-cotizacion").removeClass("hidden");
-        }
-        else{
-            $(".only-cotizacion").addClass("hidden");
-        }
-    });
 });
 
 function showAlert(success, title, message) {

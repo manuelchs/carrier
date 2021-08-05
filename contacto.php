@@ -75,10 +75,20 @@
                         <input class="main-input custom-animation custom-animation-bottom" type="text" placeholder="Nombre" name="nombre">
                         <input class="main-input custom-animation custom-animation-bottom" type="text" placeholder="E-mail" name="email">
                         <input class="main-input custom-animation custom-animation-bottom" type="text" placeholder="Número de teléfono" name="telefono">
-                        <input class="main-input custom-animation custom-animation-bottom" type="text" placeholder="Empresa" name="nombre-empresa">
+                        <!-- <input class="main-input custom-animation custom-animation-bottom" type="text" placeholder="Empresa" name="nombre-empresa"> -->
+                        <div class="select-wrapper main-input">
+                            <select require name="asunto" id="">
+                                <option value="">Elige un asunto</option>
+                                <option value="Refacciones">Refacciones</option>
+                                <option value="Equipos">Equipos</option>
+                                <option value="Servicio">Servicio</option>
+                                <option value="Otro">Otro</option>
+                            </select>
+                            <div><i class="fas fa-caret-down"></i></div>
+                        </div>
                         <textarea class="main-input custom-animation custom-animation-bottom" name="mensaje" placeholder="Tu mensaje aquí"></textarea>
                     </div>
-                    <button class="main-button green-button custom-animation custom-animation-bottom"><span>Enviar mensaje</span></button>
+                    <button id="contact-form-btn" class="main-button green-button custom-animation custom-animation-bottom"><span>Enviar mensaje</span></button>
                 </form>
             </div>
         </div>
